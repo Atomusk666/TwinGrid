@@ -83,9 +83,11 @@ bytes. Artwork is retrieved only at runtime through the configured public
 routes. Index access and catalog licenses do not grant artwork redistribution
 rights. Game artwork belongs to its respective rights holders.
 
-The repository screenshots are unaltered frontend captures (code135 Chinese
-views and explicitly labeled code134 English settings) selected
-to show TwinGrid's UI without box-art images or extracted game graphics.
-Game titles are identifiers; this does not convey ownership of trademarks.
+The six repository screenshots show code135 Home, Library All and Library
+Types in Chinese and English. Each joins the complete upper and lower screens
+without changing their pixels. In-context game banner icons and box art are
+visible as part of the example library; their rights remain with the respective
+owners and are not covered by TwinGrid's MIT license. Game titles are
+identifiers; this does not convey ownership of trademarks.
 No Nintendo reference UI images, emulator binaries, ROMs, BIOS, user cover
 caches or saves are distributed.

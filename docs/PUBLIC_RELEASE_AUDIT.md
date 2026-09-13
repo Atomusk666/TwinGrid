@@ -36,7 +36,7 @@ The frozen official APK is a Release asset, never a tracked Git file.
 
 An automated scan is not proof that every conceivable secret format is absent.
 Manual review covers the publication file list, source resource whitelist,
-catalog table meanings and the three selected screenshots. The fresh history
+catalog table meanings and the selected screenshots. The fresh history
 starts only from these reviewed files. Audit scripts and reports do not contain
 real passwords or secret values.
 
@@ -54,8 +54,11 @@ real passwords or secret values.
 - Pinyin-derived data: original pypinyin and pinyin-data MIT notices retained.
 - Artwork index: relative paths, sizes and digests only; no bundled game image
   bytes or implied artwork redistribution license.
-- Screenshots: three actual code135 frontend captures reviewed visually;
-  no box-art images or extracted game graphics. No Nintendo reference UI image.
+- Current screenshots: six code135 composites, Chinese and English Home,
+  Library All and Library Types, reviewed visually. Complete upper/lower
+  frame pixels are preserved. In-context game icons and box art retain their
+  owners' rights; no standalone game-art asset/cache or Nintendo reference UI
+  image is included.
 
 See [THIRD_PARTY_NOTICES](../THIRD_PARTY_NOTICES.md) for individual source links
 and license boundaries. MIT does not replace third-party licenses. The review

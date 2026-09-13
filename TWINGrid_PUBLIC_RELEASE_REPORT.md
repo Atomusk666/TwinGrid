@@ -51,8 +51,9 @@ uploaded. GitHub's automatic source archives are sufficient.
   [validation scope](docs/VALIDATION.md), [audit](docs/PUBLIC_RELEASE_AUDIT.md).
 - 103 production Java source files, Android resources, four pinned JARs,
   catalog registration and public unsigned build scripts.
-- Three original code135 screenshots with [provenance](assets/screenshots/README.md)
-  and [byte hashes](assets/screenshots/manifest.json).
+- Six code135 upper/lower-screen composites: Chinese and English Home,
+  Library All and Library Types, with [provenance](assets/screenshots/README.md)
+  and [frame/composite hashes](assets/screenshots/manifest.json).
 
 ## Compatibility
 
@@ -80,8 +81,9 @@ data, hidden configuration, text/binary secret patterns and the signed APK.
 Private keys, signing configuration, tokens, device identifiers, personal host
 paths, user databases, logs, ROMs, saves, BIOS, DraStic APKs, cover caches,
 firmware images and historical review archives were excluded. No secret was
-masked in place and then published. The three screenshots were visually
-reviewed and copied byte-for-byte. No downloaded box art is included.
+masked in place and then published. The initial three screenshots were visually
+reviewed and copied byte-for-byte. The current six-image gallery is described
+in the screenshot follow-up below; it includes in-context game icons and box art.
 
 Third-party licenses are retained separately: Apache-2.0 libraries, MPL-2.0
 suffix data, OFL 1.1 font, MIT pronunciation data, and catalog-specific
@@ -89,8 +91,8 @@ attribution/share-alike notices. Original external prose/source databases and
 media were not included. No unresolved redistribution blocker was identified
 in the selected public payload. MIT covers TwinGrid's own work only.
 
-No product code/resource change, device installation, gameplay, HOME/system
-modification or save write was made during public preparation. Historical
+No product code/resource change, device installation, HOME/system modification
+or save write was made during public preparation. Historical
 development evidence and private materials remain outside the public tree.
 
 ## Release verification
@@ -113,19 +115,29 @@ Browser automation was unavailable in this session. Page availability and image
 delivery were verified through actual public HTTP/HTML and image-byte readback;
 no browser-render screenshot check is claimed.
 
-## Remaining
+## Screenshot follow-up — 2026-09-13
 
-Documentation follow-up: two English lower-screen settings captures from
-code134 were added to both READMEs with explicit version labels. These settings
-views are unchanged in code135. The original three code135 captures and the
-released APK remain unchanged; image hashes and capture identities are recorded
-in the screenshot manifest.
+Both READMEs now display three corresponding Chinese/English pairs: Home,
+Library All and Library Types. All six are new physical code135 captures.
+Each lossless 640 × 960 composite joins the full upper screen above the full
+lower screen, with both halves verified pixel-for-pixel. The old separate
+screens and historical settings gallery were removed from the current tree.
+The installed APK hash matches the unchanged release asset.
+
+All six composites were reviewed visually. Game icons and box art appear only
+in context, retaining their owners' rights. No device/account/private path is
+visible. The original language, Home page and selected game were restored.
+The fresh 50-file two-view save baseline, ROM stats/directories, metadata tables,
+original artwork cache, SAF grants and default HOME match after capture.
+Navigation history and a derived thumbnail are retained as ordinary changes;
+private evidence is not published. This is not a new full gameplay regression.
+
+## Remaining
 
 - GammaOS, other devices and other DraStic builds need compatibility reports.
 - code135 has targeted checks, not a newly repeated complete bilingual/core suite.
-- Three exact-code135 captures and two labeled historical English settings
-  captures are published; HOME, English, search and onboarding galleries need
-  future same-version captures.
+- The requested bilingual Home/All/Types gallery is complete. Search and
+  onboarding are outside this six-image gallery.
 - Offline metadata coverage and independent editorial fact review remain incomplete.
 
 No remaining publication blocker. **TWINGRID PUBLIC BETA PUBLISHED**.

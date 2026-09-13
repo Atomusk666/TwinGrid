@@ -20,20 +20,18 @@ TwinGrid 运行在原厂 Android 系统上，用适合双屏和按键的界面�
 - 在适配的环境中直接启动 DraStic 游戏。
 - 支持手柄按键和触摸，可从系统设置中选择默认主页。
 
-![类型页](assets/screenshots/genres-lower.png)
+## 实机截图
 
-![文件夹页](assets/screenshots/folders-lower.png)
+以下均为 **code135** 实机截图，中英文各三张：首页、游戏库「全部」、游戏库「类型」。
+每张图片按上屏在上、下屏在下完整拼接，原始分辨率为 640 × 960，不裁切、不缩放、不修图。
 
-以上为 code135 真机原图。更多说明见[截图来源](assets/screenshots/README.md)。
+| 页面 | 中文 | English |
+| --- | --- | --- |
+| Home / 首页 | ![Home / 首页 — 中文](assets/screenshots/home-zh.png) | ![Home / 首页 — English](assets/screenshots/home-en.png) |
+| Library — All / 游戏库 · 全部 | ![Library — All / 游戏库 · 全部 — 中文](assets/screenshots/library-all-zh.png) | ![Library — All / 游戏库 · 全部 — English](assets/screenshots/library-all-en.png) |
+| Library — Types / 游戏库 · 类型 | ![Library — Types / 游戏库 · 类型 — 中文](assets/screenshots/library-genres-zh.png) | ![Library — Types / 游戏库 · 类型 — English](assets/screenshots/library-genres-en.png) |
 
-### 英文界面
-
-以下为英文模式的下屏设置页，使用 code134 真机原图；这些设置界面在 code135
-中保持不变。图片来源版本已保留，不作为 code135 新截图。
-
-| 封面与资料 | 游戏文件夹 |
-| --- | --- |
-| ![英文封面与资料设置](assets/screenshots/settings-metadata-en-lower.png) | ![英文游戏文件夹设置](assets/screenshots/settings-folders-en-lower.png) |
+[截图来源与校验记录](assets/screenshots/README.md)
 
 ## 适用系统
 
@@ -80,7 +78,8 @@ TwinGrid 不编辑存档正文、不转换即时存档；游戏运行时 DraStic
 
 封面从固定版本的 libretro-thumbnails 索引按需获取，当前使用 JSDMirror，
 失败时尝试 jsDelivr。两条线路共享同一上游图库，不是两个独立图库，也不保证
-所有地区或网络始终可用。下载的游戏封面缓存在本机，不随仓库或 APK 打包。
+所有地区或网络始终可用。下载的游戏封面缓存在本机，不作为独立资源随仓库或
+APK 打包；文档截图中可见示例游戏库内的封面。
 
 ## DraStic 直启与限制
 

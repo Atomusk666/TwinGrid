@@ -29,25 +29,17 @@ Matching is an aid, and modified or translated ROMs may need manual correction.
 
 ## Screenshots
 
-Actual, unaltered code135 screenshots from RG DS. This selection shows the
-genre and folder views; it does not substitute older builds for missing scenes.
+Actual **code135** captures from RG DS: Home, Library — All, and Library — Types,
+in Chinese and English. Each image joins the complete upper screen above the
+complete lower screen at native resolution (640 × 960), without cropping or retouching.
 
-| Genres — lower screen | Genres — upper screen |
-| --- | --- |
-| ![Genre selection](assets/screenshots/genres-lower.png) | ![Genre preview](assets/screenshots/genres-upper.png) |
-
-![Physical folder browsing](assets/screenshots/folders-lower.png)
+| Scene | 中文 | English |
+| --- | --- | --- |
+| Home / 首页 | ![Home / 首页 — 中文](assets/screenshots/home-zh.png) | ![Home / 首页 — English](assets/screenshots/home-en.png) |
+| Library — All / 游戏库 · 全部 | ![Library — All / 游戏库 · 全部 — 中文](assets/screenshots/library-all-zh.png) | ![Library — All / 游戏库 · 全部 — English](assets/screenshots/library-all-en.png) |
+| Library — Types / 游戏库 · 类型 | ![Library — Types / 游戏库 · 类型 — 中文](assets/screenshots/library-genres-zh.png) | ![Library — Types / 游戏库 · 类型 — English](assets/screenshots/library-genres-en.png) |
 
 [Screenshot provenance](assets/screenshots/README.md)
-
-### English UI
-
-English settings on the lower screen. These original code134 captures show
-settings views retained unchanged in code135; they are not new code135 captures.
-
-| Covers and metadata | Game folders |
-| --- | --- |
-| ![English covers and metadata settings](assets/screenshots/settings-metadata-en-lower.png) | ![English game-folder settings](assets/screenshots/settings-folders-en-lower.png) |
 
 ## Download and install
 
@@ -121,7 +113,8 @@ savestates. DraStic controls its own saves and may write them during play.
 Box art is fetched on demand from a pinned libretro-thumbnails index using
 JSDMirror, with jsDelivr fallback. Both routes share the same upstream library.
 Availability depends on your network and those services. No downloaded game
-covers are bundled in Git or the APK.
+covers are bundled as standalone assets in Git or the APK; the documentation
+screenshots show artwork in the example library.
 
 ## Privacy and data
 

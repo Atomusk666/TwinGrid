@@ -1,58 +1,128 @@
 [
   {
-    "filename": "genres-lower.png",
-    "originalCapture": "after_types_d0.png",
-    "sha256": "9474a6bee10e85dc8b004ca67f5d062f8565d6e42348c88d3615c53b368b206f",
+    "filename": "home-zh.png",
+    "sha256": "25aab9e53612e847af38d37785de046e9fc8e2d517a35e1231dda65305fc6924",
     "width": 640,
-    "height": 480,
+    "height": 960,
     "versionCode": 135,
     "apkSHA256": "faeaaafb0ce44658fc0a81a09face069aa1c51b0599c3fefcfc1134528dc067b",
-    "altered": false
+    "locale": "zh",
+    "scene": "home",
+    "capturedAtUTC": "2026-09-13T08:55:17.593198+00:00",
+    "composition": "upper above lower; native pixels; no crop, resize or retouch",
+    "pixelEqualityVerified": true,
+    "upper": {
+      "originalCapture": "zh_home_d1.png",
+      "sha256": "e75f220a65df38b67f42d870e09f0ad85a79cb5c7f3871ac5eb68ee57725ce1f"
+    },
+    "lower": {
+      "originalCapture": "zh_home_d0.png",
+      "sha256": "43fb03d137d10aae7c1f5c8a452269a5e0268a03888eb22ec78081b66ec324b9"
+    }
   },
   {
-    "filename": "genres-upper.png",
-    "originalCapture": "after_types_d1.png",
-    "sha256": "f7fbf3a023dc8955c87537f81a8e6de4733701705cc78dd9851a1049a9f91249",
+    "filename": "library-all-zh.png",
+    "sha256": "b502f7f014ed2a19f5d03fc5bae83c9ac725870d48eb2bf0efd4d58f8607c890",
     "width": 640,
-    "height": 480,
+    "height": 960,
     "versionCode": 135,
     "apkSHA256": "faeaaafb0ce44658fc0a81a09face069aa1c51b0599c3fefcfc1134528dc067b",
-    "altered": false
+    "locale": "zh",
+    "scene": "all",
+    "capturedAtUTC": "2026-09-13T08:55:13.778279+00:00",
+    "composition": "upper above lower; native pixels; no crop, resize or retouch",
+    "pixelEqualityVerified": true,
+    "upper": {
+      "originalCapture": "zh_all_d1.png",
+      "sha256": "0cf7d3ba22da30f0895c28fdc559494964e4c14ab590c15b8398882d83f21c15"
+    },
+    "lower": {
+      "originalCapture": "zh_all_d0.png",
+      "sha256": "4aed41bbfaeab0acd62588097a3bd5369ca305dcb525a548fa374dd33c61a447"
+    }
   },
   {
-    "filename": "folders-lower.png",
-    "originalCapture": "after_FOLDERS_d0.png",
-    "sha256": "1d2d4d52bc681135e994d3f7b28a72d2d9619ddcdd420095a4b03aa6609bad89",
+    "filename": "library-genres-zh.png",
+    "sha256": "048cd33d5566b97b647e04e193bb165bc9a90eb8c25e9f06a309893bd2737d22",
     "width": 640,
-    "height": 480,
+    "height": 960,
     "versionCode": 135,
     "apkSHA256": "faeaaafb0ce44658fc0a81a09face069aa1c51b0599c3fefcfc1134528dc067b",
-    "altered": false
+    "locale": "zh",
+    "scene": "genres",
+    "capturedAtUTC": "2026-09-13T08:51:30.501002+00:00",
+    "composition": "upper above lower; native pixels; no crop, resize or retouch",
+    "pixelEqualityVerified": true,
+    "upper": {
+      "originalCapture": "zh_genres_d1.png",
+      "sha256": "cec56440dccd3695ad9d7a0d9e53691b70f35af9644ba2d5e93ea127c8aa2ac4"
+    },
+    "lower": {
+      "originalCapture": "zh_genres_d0.png",
+      "sha256": "9474a6bee10e85dc8b004ca67f5d062f8565d6e42348c88d3615c53b368b206f"
+    }
   },
   {
-    "filename": "settings-metadata-en-lower.png",
-    "originalCapture": "settings_en_g0_p1_d0.png",
-    "sha256": "71dac8673a0c3309a2fbf463104ef9fbe67488188d897c86d1ed1b9c025975d7",
+    "filename": "home-en.png",
+    "sha256": "db3cb83c95aac245a7ffd6abb1af37f6abd1b84ea7710ebd8f9fc91da3ad0c9a",
     "width": 640,
-    "height": 480,
-    "versionCode": 134,
-    "apkSHA256": "8a7ff158be73bf5185a26d350abb9e6d83f75064bc9648b3859523219c47828b",
-    "altered": false,
+    "height": 960,
+    "versionCode": 135,
+    "apkSHA256": "faeaaafb0ce44658fc0a81a09face069aa1c51b0599c3fefcfc1134528dc067b",
     "locale": "en",
-    "display": "lower",
-    "scope": "Historical code134 capture; settings view unchanged in code135, not a new code135 test"
+    "scene": "home",
+    "capturedAtUTC": "2026-09-13T08:54:41.860624+00:00",
+    "composition": "upper above lower; native pixels; no crop, resize or retouch",
+    "pixelEqualityVerified": true,
+    "upper": {
+      "originalCapture": "en_home_d1.png",
+      "sha256": "c11284d987353ece44e745487bfd76613e89ae0a9fed1a6775db7cf5bd065333"
+    },
+    "lower": {
+      "originalCapture": "en_home_d0.png",
+      "sha256": "0003942d97b808c64191d781e5c688578356bb1815b2066ef036f2e5f66fd36b"
+    }
   },
   {
-    "filename": "settings-folders-en-lower.png",
-    "originalCapture": "settings_en_g1_p1_d0.png",
-    "sha256": "df110dc7e6c54f2d5e819a3c0e47261637ea2716f58487789cc2472038d330ba",
+    "filename": "library-all-en.png",
+    "sha256": "f131a4d15c8302a185b24147292cb9ab348703087fec776014159ad83bc84801",
     "width": 640,
-    "height": 480,
-    "versionCode": 134,
-    "apkSHA256": "8a7ff158be73bf5185a26d350abb9e6d83f75064bc9648b3859523219c47828b",
-    "altered": false,
+    "height": 960,
+    "versionCode": 135,
+    "apkSHA256": "faeaaafb0ce44658fc0a81a09face069aa1c51b0599c3fefcfc1134528dc067b",
     "locale": "en",
-    "display": "lower",
-    "scope": "Historical code134 capture; settings view unchanged in code135, not a new code135 test"
+    "scene": "all",
+    "capturedAtUTC": "2026-09-13T08:54:38.147755+00:00",
+    "composition": "upper above lower; native pixels; no crop, resize or retouch",
+    "pixelEqualityVerified": true,
+    "upper": {
+      "originalCapture": "en_all_d1.png",
+      "sha256": "9d0858911902094d24103bc446e0d158f65e33e0357cd28d1f89e32cec471472"
+    },
+    "lower": {
+      "originalCapture": "en_all_d0.png",
+      "sha256": "bd441d9c850c859091b4d04beca15097208be828690adb53db8bd33ea642b3d0"
+    }
+  },
+  {
+    "filename": "library-genres-en.png",
+    "sha256": "04fcc9728309f72b9209e75df586766bb41260d5eb0a9f1f817220b5704f70b6",
+    "width": 640,
+    "height": 960,
+    "versionCode": 135,
+    "apkSHA256": "faeaaafb0ce44658fc0a81a09face069aa1c51b0599c3fefcfc1134528dc067b",
+    "locale": "en",
+    "scene": "genres",
+    "capturedAtUTC": "2026-09-13T08:54:21.903046+00:00",
+    "composition": "upper above lower; native pixels; no crop, resize or retouch",
+    "pixelEqualityVerified": true,
+    "upper": {
+      "originalCapture": "en_genres_d1.png",
+      "sha256": "d6d27c851bd184c05281819df90027c56cac85561349183e001105b8e17de97f"
+    },
+    "lower": {
+      "originalCapture": "en_genres_d0.png",
+      "sha256": "01b7e6854458bdb60018e8ea7c4c6d05d72131bb3dc38958cdbd6dc03fe3119a"
+    }
   }
 ]
