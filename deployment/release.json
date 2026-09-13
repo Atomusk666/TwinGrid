@@ -1,0 +1,9 @@
+{
+  "versionCode": 135,
+  "versionName": "0.9.0",
+  "package": "com.rgds.ultimate.shell",
+  "certificateSHA256": "1e9019315ba95df9a5cfd51c5bc81d81db472bcb5cdc10e9c055054d32494a3e",
+  "previousDistributedMaximumCode": 134,
+  "optimize": true,
+  "productName": "TwinGrid"
+}

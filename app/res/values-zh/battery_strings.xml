@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ui_ba77000001">电量显示</string>
+    <string name="ui_ba77000002">以图标或数字百分比显示电量。</string>
+    <string name="ui_ba77000003">图标</string>
+    <string name="ui_ba77000004">数字</string>
+    <string name="ui_ba77000005">电量显示设置保存失败，请重试。</string>
+</resources>

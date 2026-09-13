@@ -1,0 +1,12 @@
+NDS metadata subset (2026-09-06)
+Source: Bangumi official v0 API; https://github.com/bangumi/api
+Copyright: Bangumi subject contributors
+License: Creative Commons Attribution-ShareAlike 3.0 Unported
+https://creativecommons.org/licenses/by-sa/3.0/
+https://bgm.tv/about/copyright
+
+Derived dataset only: 1096 explicit-NDS subjects from platform browse and partitioned discovery; selected subject fields.
+No artwork or user reviews included. Exact requests, dates and content hashes are included in the JSON resource.
+This snapshot was retrieved on the development host. It is not evidence of successful device networking.
+Game association, script conversion and short extracts are derived locally; original summaries remain alongside derived fields.
+Dataset SHA256: fb34ed98096f889680d1716ab81db1af0d598ae719c20adf4f6ce1fceab8de95

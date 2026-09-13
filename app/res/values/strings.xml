@@ -1,0 +1,1123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="app_name">TwinGrid</string>
+  <string name="ui_df95c2b8810c" formatted="false">"Local search is updating. Please wait."</string>
+  <string name="ui_4ded08c5e852" formatted="false">"Select an available NDS game in this list."</string>
+  <string name="ui_f35fad4b266b" formatted="false">"The game folder is unreadable. Check Settings."</string>
+  <string name="ui_9203bfc35aa6" formatted="false">"The page or selection changed. Launch cancelled."</string>
+  <string name="ui_a8a407f6e8ac" formatted="false">"The system accepted the selected ROM launch request."</string>
+  <string name="ui_1357501d4655" formatted="false">"A supported DraStic installation was not found. Check that the emulator supplied with your firmware is installed, then return to the library."</string>
+  <string name="ui_ce8b16a08faf" formatted="false">"This folder or emulator entry cannot launch a ROM directly. Select an NDS folder on the device or SD card in Settings, and check DraStic."</string>
+  <string name="ui_745015a4107c" formatted="false">"This game could not be opened. Check that the SD card and folder are accessible, then select the game again."</string>
+  <string name="ui_0a54d1d4eacd" formatted="false">"Game could not launch"</string>
+  <string name="ui_572cf45ba436" formatted="false">"Back"</string>
+  <string name="ui_37ac171c052a" formatted="false">"Storage usage"</string>
+  <string name="ui_e1771fd27af7" formatted="false">"Clear downloaded images?"</string>
+  <string name="ui_cff0421ce0ad" formatted="false">"\n\nOnly downloaded images without a user assignment will be cleared. User covers, local originals, bundled text and corrections are retained."</string>
+  <string name="ui_c194f4e29f23" formatted="false">"Clear downloaded images"</string>
+  <string name="ui_2cd0f3be8738" formatted="false">"Cancel"</string>
+  <string name="ui_2da3906a24ee" formatted="false">"Version"</string>
+  <string name="ui_7dbc0f12979e" formatted="false">"Open emulator home only"</string>
+  <string name="ui_3748cebf17a2" formatted="false">"Could not retain read-only folder permission: "</string>
+  <string name="ui_5396f565de9c" formatted="false">"Reading local records. Please wait."</string>
+  <string name="ui_ff51eefcab52" formatted="false">"System folder picker unavailable"</string>
+  <string name="ui_85bd3094bc9b" formatted="false">"Could not open the image picker"</string>
+  <string name="ui_db5e6454eba0" formatted="false">"Export picker unavailable"</string>
+  <string name="ui_57fdffffe362" formatted="false">"Export to the device\'s Documents folder."</string>
+  <string name="ui_3a598e4a4a48" formatted="false">"Export to Documents. Game and save folders cannot be export destinations."</string>
+  <string name="ui_628537a06225" formatted="false">"Export path could not be verified. Nothing was written."</string>
+  <string name="ui_9a1d8c6a5082" formatted="false">"Tasks"</string>
+  <string name="ui_0c048f4df0b5" formatted="false">"Search"</string>
+  <string name="ui_2810958ffa3b" formatted="false">"Game slot"</string>
+  <string name="ui_551e846a4ac6" formatted="false">"Select a game"</string>
+  <string name="ui_20a9019157a2" formatted="false">"Open library"</string>
+  <string name="ui_b8eb5f068caf" formatted="false">"All games"</string>
+  <string name="ui_39a25feec6ca" formatted="false">"Loading library"</string>
+  <string name="ui_9385bfefca58" formatted="false">"Favorites"</string>
+  <string name="ui_dbd67e367a67" formatted="false">"Recent launches"</string>
+  <string name="ui_eb4ea691c17c" formatted="false">"D-pad: choose   A: open\nRG: switch screen focus"</string>
+  <string name="ui_df3d58c7d84b" formatted="false">"Settings"</string>
+  <string name="ui_b1cbcac3ab62" formatted="false">"Choose a section to browse your games"</string>
+  <string name="ui_8f0167a6cfd7" formatted="false">"Search local games"</string>
+  <string name="ui_57b941db7f4b" formatted="false">"Composing text · choose an IME candidate first"</string>
+  <string name="ui_b55da8e1078d" formatted="false">"Clear the filter or search text"</string>
+  <string name="ui_bec6ab1883ad" formatted="false">"B Back"</string>
+  <string name="ui_a2fea32bc688" formatted="false">"Y Info"</string>
+  <string name="ui_b550716adad2" formatted="false">"X Favorite"</string>
+  <string name="ui_7ea101e4f250" formatted="false">"Sort / Page"</string>
+  <string name="ui_b57db9dbc9eb" formatted="false">"A Launch"</string>
+  <string name="ui_cbd2484a0364" formatted="false">"X Unfav."</string>
+  <string name="ui_b60eb48519aa" formatted="false">"Options"</string>
+  <string name="ui_f21e774869bf" formatted="false">"Pages"</string>
+  <string name="ui_4b6cbd00369e" formatted="false">"A Games"</string>
+  <string name="ui_d107036c6b53" formatted="false">"A Open"</string>
+  <string name="ui_159faf025b61" formatted="false">"Unavailable"</string>
+  <string name="ui_29d0fbe5e5fb" formatted="false">"No game"</string>
+  <string name="ui_bd7d47428640" formatted="false">"A Launch"</string>
+  <string name="ui_f75607bd165e" formatted="false">"Edit query · Search to confirm, B to dismiss"</string>
+  <string name="ui_5addbef7de97" formatted="false">"Updating local search…"</string>
+  <string name="ui_51600b82b280" formatted="false">"A View games · L/R Switch section"</string>
+  <string name="ui_e683cc0e3347" formatted="false">" games"</string>
+  <string name="ui_25a7d39c1df9" formatted="false">"Tasks ◦"</string>
+  <string name="ui_f46d4d0784fd" formatted="false">"Tasks •"</string>
+  <string name="ui_5253040db864" formatted="false">"Tasks"</string>
+  <string name="ui_085afb40867c" formatted="false">"Task center · "</string>
+  <string name="ui_c9b9ae7a6144" formatted="false">"Prev"</string>
+  <string name="ui_8a8542f69648" formatted="false">"Next"</string>
+  <string name="ui_498e1d59b4d7" formatted="false">"Exit"</string>
+  <string name="ui_58e382bd001f" formatted="false">"Choose below · A Apply · B Back"</string>
+  <string name="ui_e081321dee47" formatted="false">"Game details"</string>
+  <string name="ui_800e19b42961" formatted="false">"File information"</string>
+  <string name="ui_a24d74d6915b" formatted="false">"Edit metadata"</string>
+  <string name="ui_b2793c3ef951" formatted="false">"Diagnostic logging: On"</string>
+  <string name="ui_353a09283917" formatted="false">"Diagnostic logging: Off"</string>
+  <string name="ui_190475c54441" formatted="false">"B / Y Back · ←→ Switch tab · ↑↓ Scroll"</string>
+  <string name="ui_0940d41da308" formatted="false">"Browse options"</string>
+  <string name="ui_21517c09a6e0" formatted="false">"Genre filter"</string>
+  <string name="ui_5ee87e65261b" formatted="false">"Close"</string>
+  <string name="ui_1a9a02338a37" formatted="false">"TwinGrid / Genres"</string>
+  <string name="ui_c71bdd4fb6c1" formatted="false">"TwinGrid / Library"</string>
+  <string name="ui_ba778fd157de" formatted="false">"TwinGrid / Settings"</string>
+  <string name="ui_e6f1802d5388" formatted="false">"TwinGrid / Details"</string>
+  <string name="ui_cb3b0d25b019" formatted="false">"TwinGrid / Browse options"</string>
+  <string name="ui_f4c9c9027065" formatted="false">"Library"</string>
+  <string name="ui_00b514c36a6c" formatted="false">Organize library</string>
+  <string name="ui_7523035d2123" formatted="false">"Details"</string>
+  <string name="ui_552ce5566a77" formatted="false">"TwinGrid / Tasks"</string>
+  <string name="ui_fc518cef07c1" formatted="false">"B / Y Back · ↑↓ Scroll"</string>
+  <string name="ui_e6f38016ef98" formatted="false">"Launch the selected game"</string>
+  <string name="ui_3fe126996739" formatted="false">"Browse all games by name or modification time"</string>
+  <string name="ui_6e29647e81ee" formatted="false">"Keep favorite games easy to find"</string>
+  <string name="ui_20b52fa40ae6" formatted="false">"View recent game launch requests"</string>
+  <string name="ui_27aa5714b07a" formatted="false">"Manage folders, scans and exports"</string>
+  <string name="ui_95717615adbe" formatted="false">"Reading local records…"</string>
+  <string name="ui_0d76a5b95647" formatted="false">"Open the library to choose a game"</string>
+  <string name="ui_28297a18a5fa" formatted="false">"Choose an NDS game folder first"</string>
+  <string name="ui_fb3452f072e2" formatted="false">"Tap the slot below to set up. You can add a save folder later."</string>
+  <string name="ui_f1371857d45c" formatted="false">"Choose a game from All games"</string>
+  <string name="ui_2b82c9974f0f" formatted="false">"First use"</string>
+  <string name="ui_97a678c88209" formatted="false">"Choose NDS game folder"</string>
+  <string name="ui_b3085d4e8662" formatted="false">"Game folder unavailable"</string>
+  <string name="ui_6642afa69fe3" formatted="false">"A / Tap to choose folder"</string>
+  <string name="ui_aeb021e52aa1" formatted="false">"A / Tap to launch game"</string>
+  <string name="ui_64c026ac4dd6" formatted="false">" games"</string>
+  <string name="ui_a6448f2038d4" formatted="false">" favorites"</string>
+  <string name="ui_41929be0bae2" formatted="false">"No launch history yet"</string>
+  <string name="ui_c1978ecafd88" formatted="false">"Genres · Entire library"</string>
+  <string name="ui_2c15f0da9558" formatted="false">"13 genres · "</string>
+  <string name="ui_65fa1a09242d" formatted="false">" local games"</string>
+  <string name="ui_9cb5cd37c956" formatted="false">"Games can belong to multiple genres"</string>
+  <string name="ui_f2ee580869fe" formatted="false">" games"</string>
+  <string name="ui_84fe0a63a434" formatted="false">" Save"</string>
+  <string name="ui_f76c1468225a" formatted="false">"Folders &gt; "</string>
+  <string name="ui_0b556c3b6d9d" formatted="false">" · Storage folder"</string>
+  <string name="ui_dad6577a91dd" formatted="false">"Genres &gt; "</string>
+  <string name="ui_2c515b3e2e59" formatted="false">" · Entire library"</string>
+  <string name="ui_e04531121e86" formatted="false">"Scope ▾"</string>
+  <string name="ui_b7c94e4a08a3" formatted="false">"All games ▾"</string>
+  <string name="ui_45d50a18dc43" formatted="false">"Filter: "</string>
+  <string name="ui_b7425c2ae9c0" formatted="false">" · "</string>
+  <string name="ui_7c7bdd10ca4d" formatted="false">" · Items here: "</string>
+  <string name="ui_d93765d316c0" formatted="false">"Searching locally…"</string>
+  <string name="ui_0bc454c73213" formatted="false">"Folder temporarily unreadable"</string>
+  <string name="ui_9c2b015d5b46" formatted="false">"Folder count: ROMs including subfolders"</string>
+  <string name="ui_f0bc66d16cda" formatted="false">"Folder count: matches / all nested ROMs"</string>
+  <string name="ui_9a29764ac591" formatted="false">"No game folder selected\nTap to choose an NDS folder"</string>
+  <string name="ui_574707af706a" formatted="false">"Game folder unreadable\nTap to choose again; records are retained"</string>
+  <string name="ui_bbe13eb92758" formatted="false">"Searching local games…"</string>
+  <string name="ui_aba835d41b80" formatted="false">"No matching local games\nTap to clear the query or change scope"</string>
+  <string name="ui_e404ebe0a0a8" formatted="false">"No games of this genre in this scope\nTap to clear the genre filter"</string>
+  <string name="ui_99c36dcbd065" formatted="false">"No NDS games in this folder\nTap to go back"</string>
+  <string name="ui_763f295b200a" formatted="false">"No favorites yet\nBrowse all games and press X to add one"</string>
+  <string name="ui_927ec36c05f6" formatted="false">"No launch history yet\nTap to browse all games"</string>
+  <string name="ui_e6f70897f436" formatted="false">"No NDS games found here\nTap to choose another folder"</string>
+  <string name="ui_aa48fbe25242" formatted="false">"Storage folder"</string>
+  <string name="ui_e3f404a27945" formatted="false">"Searching"</string>
+  <string name="ui_e7031f38e27a" formatted="false">"No search results"</string>
+  <string name="ui_01f197da56f2" formatted="false">"No game selected"</string>
+  <string name="ui_3d7e4d715f5c" formatted="false">"Folder overview"</string>
+  <string name="ui_62aaca039b03" formatted="false">"This folder: "</string>
+  <string name="ui_ff7e66657eff" formatted="false">" NDS games\n"</string>
+  <string name="ui_36ab0c896a02" formatted="false">" subfolders · Total: "</string>
+  <string name="ui_907d6f843340" formatted="false">" games including subfolders\n\n"</string>
+  <string name="ui_1c803026148e" formatted="false">"There are no NDS games to browse here. Press B to go back or search the entire library below."</string>
+  <string name="ui_8405530715ec" formatted="false">"Press A to view games and subfolders here. Press B to return to the previous folder position."</string>
+  <string name="ui_9e9eca600584" formatted="false">"Original folder hierarchy retained"</string>
+  <string name="ui_2674088ab88b" formatted="false">"Current filter matches: "</string>
+  <string name="ui_2edd4da9d287" formatted="false">"A Open · B Back"</string>
+  <string name="ui_044bdf657544" formatted="false">"Choose a game folder first"</string>
+  <string name="ui_be38b4dc60cd" formatted="false">"Choose a folder containing NDS games below and grant read-only access. You can add a save folder later."</string>
+  <string name="ui_8615b0d9dd38" formatted="false">"Game folder temporarily unreadable"</string>
+  <string name="ui_aea4c85d3fb0" formatted="false">"Your index, favorites and text are retained. Choose the folder again below to continue browsing."</string>
+  <string name="ui_a2e47200f639" formatted="false">"Check folder"</string>
+  <string name="ui_0b8e2a71b899" formatted="false">"Composing input"</string>
+  <string name="ui_ad5213dcfce0" formatted="false">"Editing search text"</string>
+  <string name="ui_c5d750690e03" formatted="false">"Searching the local library"</string>
+  <string name="ui_25dedbd2e350" formatted="false">"Choose an IME candidate below, then press Search. Dismissing the keyboard with B retains the last committed query."</string>
+  <string name="ui_72411c064185" formatted="false">"Confirm the query to show matching game details. Press Search to finish or B to dismiss the keyboard."</string>
+  <string name="ui_ab75a9a953f2" formatted="false">"Game details will appear when the local query completes."</string>
+  <string name="ui_0e3a7b6b00bf" formatted="false">"Search input"</string>
+  <string name="ui_3c4761459801" formatted="false">"No matching local games"</string>
+  <string name="ui_ebf33e450d2a" formatted="false">"Clear the query or switch to the entire library below. Results contain only ROMs in your current library."</string>
+  <string name="ui_78dd4d296482" formatted="false">"This folder contains no NDS games"</string>
+  <string name="ui_1dc644043af9" formatted="false">"Press B to go back or search all games below. Folder counts include their subfolders."</string>
+  <string name="ui_8413b6cec2be" formatted="false">"Empty folder"</string>
+  <string name="ui_45bd81dd675c" formatted="false">"No favorites yet"</string>
+  <string name="ui_a9994e596ce6" formatted="false">"Browse all games below, select a game and press X to add it."</string>
+  <string name="ui_f669cedcee98" formatted="false">"Games appear here after a launch request, ordered by recency. Launch history does not indicate a savestate."</string>
+  <string name="ui_8fd443351725" formatted="false">"No games in this scope"</string>
+  <string name="ui_7e56b00c9752" formatted="false">"Clear the genre filter below or choose another game folder."</string>
+  <string name="ui_abec6d162f0a" formatted="false">"Favorite · "</string>
+  <string name="ui_cec2c0623d2c" formatted="false">"Save found"</string>
+  <string name="ui_bf9f3397ade0" formatted="false">"Save folder unreadable"</string>
+  <string name="ui_e8e71cadf7d0" formatted="false">"Description"</string>
+  <string name="ui_be8185bbfb32" formatted="false">"Clear the filter below or search the entire library."</string>
+  <string name="ui_5ad78db20614" formatted="false">"No description"</string>
+  <string name="ui_4aa9da2993c3" formatted="false">"Folder unreadable · Local records retained"</string>
+  <string name="ui_e6e811e5a738" formatted="false">"Y Full details and sources"</string>
+  <string name="ui_daab6a438b4b" formatted="false">"All settings"</string>
+  <string name="ui_85ca81cf6abd" formatted="false">" pages"</string>
+  <string name="ui_d572a5f0de51" formatted="false">"Recent launches · Fixed order"</string>
+  <string name="ui_de3c35c2a69a" formatted="false">"Sort: "</string>
+  <string name="ui_d44e9b3d3b31" formatted="false">"Name"</string>
+  <string name="ui_257bbcc44c83" formatted="false">"Modified"</string>
+  <string name="ui_952473714e9a" formatted="false">" · A Toggle"</string>
+  <string name="ui_514a19b8f839" formatted="false">"Target page: "</string>
+  <string name="ui_5b0bc83fbb10" formatted="false">"Go to target page"</string>
+  <string name="ui_45a8c1cc2b22" formatted="false">"First page"</string>
+  <string name="ui_27a262b56810" formatted="false">"Last page"</string>
+  <string name="ui_c7cd55e79b2a" formatted="false">"B Back to library"</string>
+  <string name="ui_b24b994c733f" formatted="false">"↑↓ Choose · ←→ 1 page · L/R 10 pages · A Apply"</string>
+  <string name="ui_8cb1111910aa" formatted="false">"Battery —"</string>
+  <string name="ui_84c2f35e52cc" formatted="false">"Charging "</string>
+  <string name="ui_25a3be6b5a1f" formatted="false">"Battery "</string>
+  <string name="ui_fdaac418aab6" formatted="false">"EEE, d MMM yyyy"</string>
+  <string name="ui_b90321fed934" formatted="false">"No game is selected.\n\n"</string>
+  <string name="ui_52afba8ade75" formatted="false">"Original filename\n"</string>
+  <string name="ui_76fc98780855" formatted="false">"\n\nROM internal title\n"</string>
+  <string name="ui_50c02b3b52dd" formatted="false">"\nFile size: "</string>
+  <string name="ui_ffd988675f80" formatted="false">"\nROM modified: "</string>
+  <string name="ui_b6afebd7143c" formatted="false">"\n\nSave status: "</string>
+  <string name="ui_43ebb962a8a6" formatted="false">"\nSave file: "</string>
+  <string name="ui_e4066ea46ec1" formatted="false">".dsv\nSave size: "</string>
+  <string name="ui_852f9c9992f9" formatted="false">"\nSave updated: "</string>
+  <string name="ui_206e1adf56b8" formatted="false">"\n\nBanner title\n"</string>
+  <string name="ui_243339b84365" formatted="false">"\n\nROM path / URI\n"</string>
+  <string name="ui_9e7da55686df" formatted="false">"\n\nSave folder\n"</string>
+  <string name="ui_94bc3d40defe" formatted="false">"Not authorized"</string>
+  <string name="ui_3b9e0caad093" formatted="false">"\n\nDiagnostics\n"</string>
+  <string name="ui_dfc133e3b1bf" formatted="false">"No read errors recorded"</string>
+  <string name="ui_e1bf2210611d" formatted="false">"\n\nLaunch history records requests accepted by the system; it does not measure play time."</string>
+  <string name="ui_4f14043eeba3" formatted="false">"Version information unavailable"</string>
+  <string name="ui_86bd26c5aad8" formatted="false">" · DS Classic\n\nDiagnostic logging: "</string>
+  <string name="ui_80f7cda74fe0" formatted="false">"On (for troubleshooting)"</string>
+  <string name="ui_6744b4c6a9aa" formatted="false">"Off"</string>
+  <string name="ui_872ea7eee520" formatted="false">"\nUse the top-right button to toggle. Leave it off for everyday use.\n\nLocal games: "</string>
+  <string name="ui_bf05f62ec00e" formatted="false">"   Favorites: "</string>
+  <string name="ui_9344f704c8f3" formatted="false">"\nRecent launches: "</string>
+  <string name="ui_370b91fc1586" formatted="false">"\n\nGame folder (read-only)\n"</string>
+  <string name="ui_0d5583839a5a" formatted="false">"\n\nSave folder (read-only)\n"</string>
+  <string name="ui_a407b068a02a" formatted="false">"\n\nLaunch status\n"</string>
+  <string name="ui_eca3c4c02ad0" formatted="false">"\n\nUpper screen status\n"</string>
+  <string name="ui_bd723cde2772" formatted="false">"\n\nDisplay 0 / 2 · 640 × 480\nLegacy play records are retained in exports.\nThis app does not modify ROM or save files."</string>
+  <string name="ui_5e5292523205" formatted="false">"%d / %02d"</string>
+  <string name="ui_85217f7aff77" formatted="false">"Su"</string>
+  <string name="ui_51a75f4634df" formatted="false">"Mo"</string>
+  <string name="ui_084b42f6e95e" formatted="false">"Tu"</string>
+  <string name="ui_a4c3313deb18" formatted="false">"We"</string>
+  <string name="ui_754a9d5828d5" formatted="false">"Th"</string>
+  <string name="ui_c9b87f516a38" formatted="false">"Fr"</string>
+  <string name="ui_de07b5383874" formatted="false">"Sa"</string>
+  <string name="ui_5f62d65013a2" formatted="false">"Fill covers"</string>
+  <string name="ui_75f853d938c7" formatted="false">"Pause downloads"</string>
+  <string name="ui_7730fe6c7fbe" formatted="false">"Resume downloads"</string>
+  <string name="ui_70b1aaf12ba1" formatted="false">"Retry failures"</string>
+  <string name="ui_f12249e193c2" formatted="false">"Pausing…"</string>
+  <string name="ui_4fd026d051ac" formatted="false">"Unavailable"</string>
+  <string name="ui_5ed4dd2d1738" formatted="false">"No cover task yet"</string>
+  <string name="ui_65724f2085ff" formatted="false">"Preparing cover task"</string>
+  <string name="ui_c6329a5ac882" formatted="false">"Filling missing covers"</string>
+  <string name="ui_0b6197d7c036" formatted="false">"Paused · Completed work retained"</string>
+  <string name="ui_84322925c212" formatted="false">"Waiting for network"</string>
+  <string name="ui_9dbf36b68701" formatted="false">"Waiting for unmetered network"</string>
+  <string name="ui_85fd10dfa05b" formatted="false">"Waiting for source retry time"</string>
+  <string name="ui_56d1aee96e19" formatted="false">"Paused while outside TwinGrid / playing"</string>
+  <string name="ui_e9b92e7af99a" formatted="false">"Paused while sleeping / lid closed"</string>
+  <string name="ui_f22047630838" formatted="false">"This run completed"</string>
+  <string name="ui_34b4f1b79ed0" formatted="false">"Run ended · Gaps remain"</string>
+  <string name="ui_e3a62a01c589" formatted="false">"Nothing needs processing"</string>
+  <string name="ui_ae7f1d2afa20" formatted="false">"Task could not complete"</string>
+  <string name="ui_b9c14cc8a16f" formatted="false">"Last run interrupted · Can resume"</string>
+  <string name="ui_1b5cc7f39f38" formatted="false">"Processed: "</string>
+  <string name="ui_53a32e161089" formatted="false">"Checking task scope"</string>
+  <string name="ui_69ab2f9c68be" formatted="false">"Tasks · "</string>
+  <string name="ui_00431791047b" formatted="false">"Index updated: "</string>
+  <string name="ui_9327267c0765" formatted="false">"\nIndex failed: "</string>
+  <string name="ui_5341313c41cd" formatted="false">"\nAwaiting retry: "</string>
+  <string name="ui_f73b52f0eac4" formatted="false">"\nCover downloads: "</string>
+  <string name="ui_e9e0fdc242b4" formatted="false">" images"</string>
+  <string name="ui_e15546316dd9" formatted="false">"New links: "</string>
+  <string name="ui_878eb42b5b3e" formatted="false">" · Reused: "</string>
+  <string name="ui_db23e83f5d5d" formatted="false">"\nNo source image: "</string>
+  <string name="ui_1b4cbfef18ff" formatted="false">" · Identity unknown: "</string>
+  <string name="ui_1267d615d5c3" formatted="false">"\nFailed: "</string>
+  <string name="ui_ace2cb819f0b" formatted="false">" · Left library: "</string>
+  <string name="ui_b98d2034ea90" formatted="false">"\nActual downloads: "</string>
+  <string name="ui_f6fedd26989d" formatted="false">"Not started: "</string>
+  <string name="ui_cdbb372d8d32" formatted="false">" · In progress: "</string>
+  <string name="ui_31e09a81adb8" formatted="false">" · Awaiting retry: "</string>
+  <string name="ui_ba12515d27c4" formatted="false">"Cancelling the connection and waiting for the current write to finish"</string>
+  <string name="ui_1a793081db29" formatted="false">"Resume requested; checking running conditions"</string>
+  <string name="ui_f7127024f49f" formatted="false">"A finished run does not mean the entire library is complete"</string>
+  <string name="ui_9709f5bfcae3" formatted="false">"Completed work retained; network will be checked on resume"</string>
+  <string name="ui_8cca87194c0f" formatted="false">"Actual folder"</string>
+  <string name="ui_393dbfc51f2d" formatted="false">"No confirmed cover"</string>
+  <string name="ui_f2a1d8f27455" formatted="false">"Loading cover…"</string>
+  <string name="ui_c86bc011ec0a" formatted="false">"Cover temporarily unreadable"</string>
+  <string name="ui_c501b90a29a7" formatted="false">"Long description · Press Y for full text"</string>
+  <string name="ui_6e4431fa826e" formatted="false">"Release candidates need confirmation"</string>
+  <string name="ui_66e747fdfdba" formatted="false">"No work linked"</string>
+  <string name="ui_fbdc06f77669" formatted="false">"Description is in another language; requested language is missing"</string>
+  <string name="ui_d579f1912fe1" formatted="false">"Description hidden"</string>
+  <string name="ui_4f359773470f" formatted="false">"Description missing in selected language"</string>
+  <string name="ui_42f98ea02db3" formatted="false">"Preparing metadata"</string>
+  <string name="ui_066186b9f36f" formatted="false">"Text exists; content review is pending"</string>
+  <string name="ui_349cd074f6b4" formatted="false">"Genre unclassified"</string>
+  <string name="ui_3fdefb0b4da8" formatted="false">"Cover missing"</string>
+  <string name="ui_2100bcbf5d23" formatted="false">"Loading history"</string>
+  <string name="ui_ce51e885a005" formatted="false">"Retry from Tasks later."</string>
+  <string name="ui_f525b84f31d6" formatted="false">"History"</string>
+  <string name="ui_33393b6d0318" formatted="false">"No task results yet. The latest 20 completed runs are retained."</string>
+  <string name="ui_0881017b5c27" formatted="false">"Recent history · "</string>
+  <string name="ui_1cff767116f0" formatted="false">"The latest 20 receipts are retained.\nLater edits do not change their recorded counts."</string>
+  <string name="ui_b28945155ccd" formatted="false">" · Unread"</string>
+  <string name="ui_890a508d1360" formatted="false">"Task result is not ready"</string>
+  <string name="ui_797dc05aa611" formatted="false">"Check task history later. No new task was started."</string>
+  <string name="ui_40759665c9a1" formatted="false">"Task result"</string>
+  <string name="ui_104d652c7f2c" formatted="false">"There is no terminal receipt yet, or this result is older than the latest 20 records. The running task is unaffected."</string>
+  <string name="ui_6d617b8e6946" formatted="false">"Current metadata gaps"</string>
+  <string name="ui_190fce48f46b" formatted="false">"Dismiss this result notice"</string>
+  <string name="ui_8b2b90c6413c" formatted="false">"\nRun scope: "</string>
+  <string name="ui_083a89bb1070" formatted="false">" · Recorded members: "</string>
+  <string name="ui_4d5eec3556dc" formatted="false">"\nDownloaded images: "</string>
+  <string name="ui_1da2c5590d3c" formatted="false">"\nResults use the state recorded at completion. Current edits do not rewrite history."</string>
+  <string name="ui_d683105e64ea" formatted="false">"\nThis older receipt did not record the candidate subtype. It is shown as an unclassified historical identity result; current state is not used to guess it."</string>
+  <string name="ui_a65e06308a92" formatted="false">"Results of this run"</string>
+  <string name="ui_d5725d2c38ad" formatted="false">"Then: "</string>
+  <string name="ui_f78aff3d2ce6" formatted="false">"\nNow: "</string>
+  <string name="ui_8502e1849f65" formatted="false">"Not in current library"</string>
+  <string name="ui_30d5449b06f6" formatted="false">"Metadata gaps resolved"</string>
+  <string name="ui_14b507659d56" formatted="false">"Left the current library"</string>
+  <string name="ui_27f6ca245dc5" formatted="false">"Could not read results"</string>
+  <string name="ui_2e1020ee77e6" formatted="false">"Receipt format is invalid. The original record is retained."</string>
+  <string name="ui_e049eecf1e4a" formatted="false">"Text exists; content incomplete"</string>
+  <string name="ui_92f6f4dda77e" formatted="false">"Genre unclassified / conflicting"</string>
+  <string name="ui_248e73813cb2" formatted="false">"Work not linked"</string>
+  <string name="ui_1d66da6d252d" formatted="false">"Candidates to confirm"</string>
+  <string name="ui_3d02e5d60310" formatted="false">"Failed / Awaiting retry"</string>
+  <string name="ui_3cd2358ccd54" formatted="false">"All entries needing attention"</string>
+  <string name="ui_bbfca5de3962" formatted="false">"Metadata coverage and repair"</string>
+  <string name="ui_5fb51de67a93" formatted="false">"\n\nDeferring an entry marks it only; it still counts as a gap."</string>
+  <string name="ui_52f2a1639bef" formatted="false">"Deferred · "</string>
+  <string name="ui_dfd571b88b19" formatted="false">" / User fields need review"</string>
+  <string name="ui_44ce7ae909bb" formatted="false">"Search"</string>
+  <string name="ui_2428420e407f" formatted="false">"Total: "</string>
+  <string name="ui_a7f4dfd234a4" formatted="false">" entries · "</string>
+  <string name="ui_5def7dddbe8f" formatted="false">"No gaps match this filter. Change the query or go back."</string>
+  <string name="ui_609fd385ab8c" formatted="false">"\n\nA Resolve · B Back\n"</string>
+  <string name="ui_1ae2217dfeae" formatted="false">"Search name, Game Code or reason"</string>
+  <string name="ui_2fa6a18b4490" formatted="false">"Names and offline matching"</string>
+  <string name="ui_4c5633dac508" formatted="false">"Edit description"</string>
+  <string name="ui_a925027f048c" formatted="false">"Find online text candidates"</string>
+  <string name="ui_0f7bbcedd844" formatted="false">"Edit genres"</string>
+  <string name="ui_3e93d591e3cd" formatted="false">"Find and correct release"</string>
+  <string name="ui_a4c3d775ea6a" formatted="false">"Cover options"</string>
+  <string name="ui_ad92339e3794" formatted="false">"Edit display name"</string>
+  <string name="ui_2ca3c6035ae9" formatted="false">"Sources, matching and field status"</string>
+  <string name="ui_63273e998700" formatted="false">"Sources and current metadata"</string>
+  <string name="ui_d4261b27d48d" formatted="false">"Reviewed; keep current user fields"</string>
+  <string name="ui_6b0e13e42b1d" formatted="false">"Restore one automatic field"</string>
+  <string name="ui_ccffeab00aac" formatted="false">"Resume reminders"</string>
+  <string name="ui_94b5f1c50075" formatted="false">"Defer (still counted as a gap)"</string>
+  <string name="ui_3a8eccc0bfda" formatted="false">"\n\nAt the time of this run: "</string>
+  <string name="ui_e883092566d4" formatted="false">"\n\nChoose a field to edit. Local files and saves are separate."</string>
+  <string name="ui_3003318e729a" formatted="false">"Find"</string>
+  <string name="ui_083bb67ab5a1" formatted="false">"Enter a search query"</string>
+  <string name="ui_b14629ce8a9c" formatted="false">"Link work · Name / Alias / Game Code"</string>
+  <string name="ui_96e790b9c8af" formatted="false">"Correct release · Name / Full Game Code"</string>
+  <string name="ui_f4c0b6ae298a" formatted="false">"Finding offline candidates"</string>
+  <string name="ui_451afc6b49e5" formatted="false">"Searching bundled text and indexes…"</string>
+  <string name="ui_6930f34d6130" formatted="false">"No offline candidates"</string>
+  <string name="ui_6bab9756d1e8" formatted="false">"Try a Chinese alias, English release name or full Game Code. Unknown identities are not matched automatically."</string>
+  <string name="ui_dd40b3f79c39" formatted="false">"Change search terms"</string>
+  <string name="ui_d3cfbb878a07" formatted="false">"Write a description"</string>
+  <string name="ui_fb1c97956dae" formatted="false">"Defer"</string>
+  <string name="ui_f474dbebef25" formatted="false">"More candidates"</string>
+  <string name="ui_c11330b85234" formatted="false">"Choose "</string>
+  <string name="ui_37a3a796866b" formatted="false">"work "</string>
+  <string name="ui_a2a41a1d7535" formatted="false">"release "</string>
+  <string name="ui_64af28c77281" formatted="false">"candidate"</string>
+  <string name="ui_3628e1991667" formatted="false">"\nCandidates are for review and have not been applied."</string>
+  <string name="ui_286035213d7c" formatted="false">"Preview and confirm link"</string>
+  <string name="ui_ef92046f7b74" formatted="false">"\n\nUser names, descriptions, genres and chosen covers are retained. Identity changes prompt a review. No images will be downloaded."</string>
+  <string name="ui_e40c61166db8" formatted="false">"Link this work"</string>
+  <string name="ui_f619cd28c688" formatted="false">"Confirm this release"</string>
+  <string name="ui_aaa866e9443d" formatted="false">"Release code differs from local file"</string>
+  <string name="ui_50bc0750e9bb" formatted="false">"\nThis may be a sequel, regional release or beta. Continue only after verifying the actual modified ROM identity."</string>
+  <string name="ui_fa0bc3899679" formatted="false">"Confirm this link anyway"</string>
+  <string name="ui_56ab25af509b" formatted="false">"Reading current description"</string>
+  <string name="ui_8ff96a94dabe" formatted="false">"Reading offline text…"</string>
+  <string name="ui_738b740a69f6" formatted="false">"Description could not be read"</string>
+  <string name="ui_46ac2d847e22" formatted="false">"\nExisting metadata is unchanged. Go back and retry."</string>
+  <string name="ui_186e8932efa1" formatted="false">"Use Hide explicitly for an empty override. Saving does not verify gameplay facts."</string>
+  <string name="ui_d046b2cbf4c9" formatted="false">"Changes the display name only; the filename is retained."</string>
+  <string name="ui_a3030bf8f16d" formatted="false">"Save"</string>
+  <string name="ui_83c52129032a" formatted="false">"Hide description"</string>
+  <string name="ui_8836276c613c" formatted="false">"Use automatic"</string>
+  <string name="ui_1c354c142669" formatted="false">"Enter valid text: up to 5000 characters for a description or 300 for a name."</string>
+  <string name="ui_6bdb4435095e" formatted="false">"Saving…"</string>
+  <string name="ui_1bd91a7d0c53" formatted="false">"Saved"</string>
+  <string name="ui_a3294623e030" formatted="false">"Hide this entry\'s description?"</string>
+  <string name="ui_24b18fa06a22" formatted="false">"This keeps an explicit empty override and counts as a gap. Restoring automatic text is a separate action."</string>
+  <string name="ui_145219e726b8" formatted="false">"Hide"</string>
+  <string name="ui_42702bd480e5" formatted="false">"Discard unsaved text?"</string>
+  <string name="ui_e7f51b070eff" formatted="false">"Discard"</string>
+  <string name="ui_fd4b9e3b6c68" formatted="false">"Keep editing"</string>
+  <string name="ui_f8b4e7548fbd" formatted="false">"Unsaved text"</string>
+  <string name="ui_6b32fb6a3e5d" formatted="false">"Edit genres · Select multiple"</string>
+  <string name="ui_2f40aeca61ca" formatted="false">"Description override → Automatic text"</string>
+  <string name="ui_23446e27d61d" formatted="false">"Confirmed online text → Bundled text"</string>
+  <string name="ui_f705268e2037" formatted="false">"Genres → Automatic genres"</string>
+  <string name="ui_2d35f40c0846" formatted="false">"Display name → Automatic name"</string>
+  <string name="ui_ff9c275ef972" formatted="false">"Work / Release → Automatic identity"</string>
+  <string name="ui_e11837488a8f" formatted="false">"Chosen cover → Automatic cover"</string>
+  <string name="ui_1df265afa661" formatted="false">"Only the selected field is restored. Other corrections, favorites and launch history are retained."</string>
+  <string name="ui_a8e1cdc7cd12" formatted="false">"Remove only this field\'s override and use current automatic metadata."</string>
+  <string name="ui_e0534b8a4e46" formatted="false">"Restore"</string>
+  <string name="ui_42969ebf2803" formatted="false">"Save failed · Retry available"</string>
+  <string name="ui_65c58b71e091" formatted="false">"Only the image link changes. Text and genres are retained.\nExisting image files are kept."</string>
+  <string name="ui_543fc1d9671a" formatted="false">"Choose a cached cover"</string>
+  <string name="ui_1aac1b284d8f" formatted="false">"Pick a local image"</string>
+  <string name="ui_b32369743a53" formatted="false">"Find a cover online"</string>
+  <string name="ui_61e7cee74847" formatted="false">"Waiting to retry source"</string>
+  <string name="ui_dadf38fa43fa" formatted="false">" or later. The source\'s retry delay is retained."</string>
+  <string name="ui_b9bad950786b" formatted="false">"Verify the cover\'s release first"</string>
+  <string name="ui_aa7d311fc771" formatted="false">"The linked work changed. Confirm the correct release or choose a local image. Original image files are retained."</string>
+  <string name="ui_8c4cc1bc31da" formatted="false">"Current release"</string>
+  <string name="ui_93bf32c1ba5f" formatted="false">"Previous link; review required"</string>
+  <string name="ui_257774dcb6e6" formatted="false">"Local cover"</string>
+  <string name="ui_ac5e0bd415b5" formatted="false">"Cached online cover"</string>
+  <string name="ui_1f4303748371" formatted="false">"No confirmed cached image"</string>
+  <string name="ui_237fc34c8c92" formatted="false">"Use the system picker to choose a local image. No network request was made."</string>
+  <string name="ui_24be4c21abf1" formatted="false">"Cached covers"</string>
+  <string name="ui_98bcff133ce2" formatted="false">"A previous image is not applied automatically after an identity change. Verify the work before choosing; only the cover field changes."</string>
+  <string name="ui_ed2b825a3f9d" formatted="false">"Use this cached cover?"</string>
+  <string name="ui_f2d7b38d7491" formatted="false">"Use this cover"</string>
+  <string name="ui_267c4a7a86dd" formatted="false">"All genres"</string>
+  <string name="ui_54b89f901274" formatted="false">"Unclassified"</string>
+  <string name="ui_be37d84119d6" formatted="false">"Action"</string>
+  <string name="ui_c79e8435b942" formatted="false">"Adventure"</string>
+  <string name="ui_a94c85829dc2" formatted="false">"RPG"</string>
+  <string name="ui_9c8eb75c7e58" formatted="false">"Strategy"</string>
+  <string name="ui_d2ff05cd7a92" formatted="false">"Racing"</string>
+  <string name="ui_ef7be5be3c13" formatted="false">"Sports"</string>
+  <string name="ui_6efa526f558b" formatted="false">"Fighting"</string>
+  <string name="ui_fbe878295afd" formatted="false">"Shooter"</string>
+  <string name="ui_646b073df633" formatted="false">"Puzzle"</string>
+  <string name="ui_db9514212493" formatted="false">"Music"</string>
+  <string name="ui_b09717236dd1" formatted="false">"Simulation"</string>
+  <string name="ui_d2909f1647e7" formatted="false">"Other"</string>
+  <string name="ui_0c165cf04230" formatted="false">"Offline matching is still running. Export again later."</string>
+  <string name="ui_8546c6a8eec3" formatted="false">"The library or offline bindings changed during export. Please retry."</string>
+  <string name="ui_2992d2200554" formatted="false">"Content follows app language"</string>
+  <string name="ui_9937e365aaf3" formatted="false">"简体中文"</string>
+  <string name="ui_1f57c28e086b" formatted="false">"System default"</string>
+  <string name="ui_98a28c9b4bbe" formatted="false">"Content language"</string>
+  <string name="ui_127527c89c51" formatted="false">"Language"</string>
+  <string name="ui_4294829eb5ed" formatted="false">"Content language controls descriptions and gap counts. Text and search terms in the other language are retained."</string>
+  <string name="ui_e18a6fb0cfe2" formatted="false">"Changes the TwinGrid interface language. Game, system and keyboard languages keep their own settings."</string>
+  <string name="ui_71ddd9c35faa" formatted="false">"Exact full Game Code / No-Intro serial match; release region = "</string>
+  <string name="ui_3925f665ba21" formatted="false">"; internal title = "</string>
+  <string name="ui_86c0c8eff102" formatted="false">"; releases sharing code = "</string>
+  <string name="ui_d3071f993892" formatted="false">". Base release metadata is linked. The modified ROM\'s complete checksum has not been verified."</string>
+  <string name="ui_78bd588dd823" formatted="false">" genre linked using this release record\'s CRC: "</string>
+  <string name="ui_71abe75e395a" formatted="false">", not the ROM header checksum."</string>
+  <string name="ui_2e08d71a6cfa" formatted="false">"This full serial has different release names or an unexpected internal title. Confirmation is needed."</string>
+  <string name="ui_458b8f2d0eb6" formatted="false">"Exact normalized name candidate. Game Code is unconfirmed, so it was not applied automatically."</string>
+  <string name="ui_181ceaf9ff03" formatted="false">"No full serial or name match. Original name and icon retained."</string>
+  <string name="ui_4d26bc13c4df" formatted="false">"Identified"</string>
+  <string name="ui_1bc2a5e16dd2" formatted="false">"Candidate to confirm"</string>
+  <string name="ui_ae7a38b48f18" formatted="false">"Source unavailable"</string>
+  <string name="ui_5619f3a11913" formatted="false">"Unidentified"</string>
+  <string name="ui_b9d0546ab47e" formatted="false">"User-marked gameplay text"</string>
+  <string name="ui_ab2a249cae2c" formatted="false">"User text · Facts unverified"</string>
+  <string name="ui_4e71a378dc47" formatted="false">"Source text · Gameplay review pending"</string>
+  <string name="ui_7b4e8faebb7d" formatted="false">"Story overview"</string>
+  <string name="ui_aaa46aa4ec01" formatted="false">"Reference overview"</string>
+  <string name="ui_4b99e0820e48" formatted="false">"Content and use"</string>
+  <string name="ui_26ac5cb501e8" formatted="false">"Gameplay overview"</string>
+  <string name="ui_fc21312490ab" formatted="false">"Start queued covers"</string>
+  <string name="ui_1e883999c246" formatted="false">"Tasks · New result"</string>
+  <string name="ui_5a574d4fee00" formatted="false">"Tasks •"</string>
+  <string name="ui_0da6ef405fa1" formatted="false">"Current local files: "</string>
+  <string name="ui_c23d37ec9507" formatted="false">" · Descriptions in selected language: "</string>
+  <string name="ui_65129dd345ae" formatted="false">"\nBundled text coverage: "</string>
+  <string name="ui_f537df555a2a" formatted="false">" · Language gaps: "</string>
+  <string name="ui_d8e77191667b" formatted="false">"\nCovers: "</string>
+  <string name="ui_ddd0392bcc1f" formatted="false">" · Unclassified: "</string>
+  <string name="ui_6390744e8a64" formatted="false">" · Preparing: "</string>
+  <string name="ui_91506b1c07d5" formatted="false">"\nOpen a gap category to resolve entries. Categories overlap and must not be added together."</string>
+  <string name="ui_d28efe456cb9" formatted="false">"Preparing metadata…"</string>
+  <string name="ui_69d24e5f811a" formatted="false">"Chinese metadata has not been updated"</string>
+  <string name="ui_6559ede452c6" formatted="false">"Reading local metadata…"</string>
+  <string name="ui_3194c51b5407" formatted="false">"Library audit exported to app-private storage"</string>
+  <string name="ui_6fc81641283c" formatted="false">"Audit export failed: "</string>
+  <string name="ui_0f2f210f449f" formatted="false">"Unmapped"</string>
+  <string name="ui_d2e7329fee33" formatted="false">"Downloaded images %.1f / 160 MiB\nLocal and user cover copies %.1f MiB\nDerived thumbnails %.1f / 64 MiB"</string>
+  <string name="ui_4d9bb79886d9" formatted="false">"\n\nLocal games: "</string>
+  <string name="ui_533f5177061b" formatted="false">"\nIdentified: "</string>
+  <string name="ui_35758b444ced" formatted="false">" · Awaiting confirmation: "</string>
+  <string name="ui_b244ae59098a" formatted="false">"\nUnclassified: "</string>
+  <string name="ui_c66fd79de46a" formatted="false">"\nLocal cover links: "</string>
+  <string name="ui_cb8ea1fa801f" formatted="false">" · Online cover links: "</string>
+  <string name="ui_9e06636c65de" formatted="false">"\nActual downloaded images: "</string>
+  <string name="ui_ecb746332e17" formatted="false">"%.1f MiB (limit 160 MiB)"</string>
+  <string name="ui_e02b6bd74d88" formatted="false">"\nLocal / user cover copies: "</string>
+  <string name="ui_aea00e89371c" formatted="false">"\nPending: "</string>
+  <string name="ui_0f02b0205454" formatted="false">" · Failed / Retry: "</string>
+  <string name="ui_1fd972460257" formatted="false">"Local metadata ready"</string>
+  <string name="ui_8f0af14424a4" formatted="false">"Metadata read failed; original files retained"</string>
+  <string name="ui_050f56927a6e" formatted="false">"New games / Missing covers"</string>
+  <string name="ui_d3e0d04ab38b" formatted="false">"Bundled release index"</string>
+  <string name="ui_814d955e5f34" formatted="false">"Queued for the next run. Resume this run before starting the alternative download."</string>
+  <string name="ui_a85e9197b799" formatted="false">"Queued for the next run; this run\'s scope is unchanged."</string>
+  <string name="ui_94da0ac260ab" formatted="false">"The next-run queue is full. Finish the current task and retry."</string>
+  <string name="ui_d9c49b140d84" formatted="false">"Online alternative cover for this game"</string>
+  <string name="ui_ddc279c63cc6" formatted="false">"Queued; download will start on resume"</string>
+  <string name="ui_e96c7a8eb517" formatted="false">"Cover check started for this game"</string>
+  <string name="ui_15eb787febf8" formatted="false">"Current library · Check all; fill missing covers"</string>
+  <string name="ui_a3b57d62c6d2" formatted="false">"Could not save this run\'s plan; existing metadata retained"</string>
+  <string name="ui_ff53a8ec0a7b" formatted="false">"Automatic covers enabled for new games or missing images. User pause is retained."</string>
+  <string name="ui_0e451fa30bf2" formatted="false">"Automatic covers disabled. The current explicit task is still controlled in Tasks."</string>
+  <string name="ui_4634c948a23a" formatted="false">"Queued alternative covers"</string>
+  <string name="ui_0a88d1fa5eb5" formatted="false">"Paused; retry on resume"</string>
+  <string name="ui_d090743fb72a" formatted="false">"Cover connections and writes have stopped; offline matching runs independently"</string>
+  <string name="ui_5f2b35a1c936" formatted="false">"Resume after returning to TwinGrid; user pause is retained"</string>
+  <string name="ui_c1c38f7edf8c" formatted="false">"Recheck running conditions after opening the lid"</string>
+  <string name="ui_72339e9a480a" formatted="false">"Checking cover source connection"</string>
+  <string name="ui_dc4ed99f8997" formatted="false">"Network restricted or paused"</string>
+  <string name="ui_00c986eb36f2" formatted="false">"Cover source responded · Received "</string>
+  <string name="ui_d4a8cbd37f96" formatted="false">" KiB of index; metadata unchanged"</string>
+  <string name="ui_258bcab7dd4f" formatted="false">"Source check paused"</string>
+  <string name="ui_852e8f24aacd" formatted="false">"Source check incomplete: "</string>
+  <string name="ui_9ef14ec17d7b" formatted="false">"Completed work retained"</string>
+  <string name="ui_a07c1ef4e882" formatted="false">"Waiting for the local library"</string>
+  <string name="ui_7d2a4db21646" formatted="false">"Entry is no longer in this library"</string>
+  <string name="ui_5f0ca2e5f6fb" formatted="false">"Usable cover already exists"</string>
+  <string name="ui_52c0f1f875d3" formatted="false">"No image in the source index; recheck time has not arrived"</string>
+  <string name="ui_517c46af2960" formatted="false">"Release needs confirmation; no image download requested"</string>
+  <string name="ui_2a106930e2af" formatted="false">"Continue when an unmetered network is allowed; user pause is separate"</string>
+  <string name="ui_6e1677a53291" formatted="false">"Recheck automatically when network returns; downloads retained"</string>
+  <string name="ui_a3c113878b89" formatted="false">"Downloading and validating cover index"</string>
+  <string name="ui_705e41fefba2" formatted="false">"Matching source, downloading and validating image"</string>
+  <string name="ui_cbd1bb4a9a88" formatted="false">"Cover source index"</string>
+  <string name="ui_b1e810c4ba34" formatted="false">"Cover index updated; metadata and completed items retained"</string>
+  <string name="ui_a9b68aff6627" formatted="false">"New cover validated and linked"</string>
+  <string name="ui_f0a3a5a18118" formatted="false">"Reused a verified image"</string>
+  <string name="ui_a275fe4346b8" formatted="false">"Release identity needs confirmation"</string>
+  <string name="ui_e44943297d50" formatted="false">"This release\'s image key is absent from the current source index. Refresh the index or choose another source."</string>
+  <string name="ui_8041e9a113b4" formatted="false">"Task yielded; content retained"</string>
+  <string name="ui_ae5ead4d8907" formatted="false">"Connection timed out"</string>
+  <string name="ui_9b59256c370f" formatted="false">"This source\'s exact image URL returned 404"</string>
+  <string name="ui_135b6570effd" formatted="false">"Source temporarily unavailable: "</string>
+  <string name="ui_d335fafb7106" formatted="false">"Retry-After retained; next retry: "</string>
+  <string name="ui_b9ea83a6997b" formatted="false">"Reading cover source index"</string>
+  <string name="ui_eb894f64f3a2" formatted="false">"Reading additional genre and description index…"</string>
+  <string name="ui_5d43f5eaf480" formatted="false">"Unique matching filename or confirmed full Game Code image in the authorized folder"</string>
+  <string name="ui_af7a608e371f" formatted="false">"Genre metadata downloaded: %.1f MiB"</string>
+  <string name="ui_55ef88781a74" formatted="false">"Entry changed; preview again before applying"</string>
+  <string name="ui_e2655567e176" formatted="false">"Entry has left the current library"</string>
+  <string name="ui_a00495c1c28d" formatted="false">"Identity changed. Existing user fields are retained; review the description, genres and chosen cover. Old automatic images are hidden, but files are kept."</string>
+  <string name="ui_6d605b9cf7b3" formatted="false">"Read the offline release index first"</string>
+  <string name="ui_418cbdedc5c6" formatted="false">"Release explicitly confirmed by user"</string>
+  <string name="ui_2da6e861ba67" formatted="false">"Saved data did not match its readback"</string>
+  <string name="ui_70bcc8f27997" formatted="false">"Saved and verified by readback"</string>
+  <string name="ui_05bd8e6f3e80" formatted="false">"Save failed; input retained: "</string>
+  <string name="ui_9ab52bc4933e" formatted="false">"Local image chosen by user"</string>
+  <string name="ui_be7b9ed1920e" formatted="false">"Invalid local cover: "</string>
+  <string name="ui_f651c9b6ba91" formatted="false">"No retryable failures in this run"</string>
+  <string name="ui_95e5ac19005c" formatted="false">"Retry only the previous run\'s failures"</string>
+  <string name="ui_6b0f7d245946" formatted="false">"Source retry delay retained"</string>
+  <string name="ui_961efdb8130c" formatted="false">"Refresh cover index only"</string>
+  <string name="ui_78e520865295" formatted="false">"Finish the current cover task before refreshing the index"</string>
+  <string name="ui_cf0eaaff9bb1" formatted="false">"Download cache cleared; user covers and metadata retained"</string>
+  <string name="ui_15e608217008" formatted="false">"\n\nFailed / Awaiting retry\n"</string>
+  <string name="ui_8321455db9bb" formatted="false">"\nNext retry: "</string>
+  <string name="ui_4016edf3dedf" formatted="false">"libretro / No-Intro\nNDS release index: full serial, region and original CRC/SHA1. Metadata is linked locally using library identifiers. ROMs are not uploaded.\n\nlibretro genre / developer / publisher\nLinked using the release record\'s CRC. Missing fields remain unclassified. A ROM header checksum is not a full-ROM CRC.\n\nlibretro-thumbnails\nOnly Named_Boxarts images for confirmed releases are downloaded. Images belong to their rights holders and are not bundled in the APK.\n\nGameTDB / DS-Homebrew\nPublic Game Code cover methods were investigated. Recorded GameTDB TLS/HTTP restrictions are not bypassed.\n\nScreenScraper\nNot enabled. It requires your own developer authorization and user credentials, subject to account quotas. No other project\'s keys are used.\n\nTwilightBoxart\nPublic source documentation was consulted. Its GPL-3.0 implementation was not copied.\n\nNo analytics reporting. HTTPS requests obtain public indexes and requested images. Paths, saves, ROMs and play history are not sent. Metadata is stored in app-private storage."</string>
+  <string name="ui_567f03d91413" formatted="false">"Preparing bundled metadata"</string>
+  <string name="ui_9166fc79df48" formatted="false">"\nPlatform: Nintendo DS\nGenres: "</string>
+  <string name="ui_5dc9f4687208" formatted="false">"Chinese text: "</string>
+  <string name="ui_65364e6fd8c7" formatted="false">"Missing"</string>
+  <string name="ui_4d99c976beb8" formatted="false">"Available"</string>
+  <string name="ui_4578dccccd49" formatted="false">"This work has no bundled Chinese description"</string>
+  <string name="ui_9defcc6b60d3" formatted="false">"\n\nWork ID: "</string>
+  <string name="ui_56b148e28bac" formatted="false">"Link this work explicitly; retain the local release"</string>
+  <string name="ui_0d4d02d59fb1" formatted="false">"Release record: "</string>
+  <string name="ui_9be9a769f5b8" formatted="false">"\nCandidates come from bundled names, aliases and complete identifiers. Verify the edition before selecting."</string>
+  <string name="ui_29bcf77f48ce" formatted="false">"New metadata could not be prepared; previous metadata and user data retained"</string>
+  <string name="ui_eaf098989e8a" formatted="false">"Offline metadata unavailable; user names and library retained"</string>
+  <string name="ui_ce22080b0203" formatted="false">"Matching bundled metadata · No network needed"</string>
+  <string name="ui_759fcd29e97a" formatted="false">"Offline metadata unreadable; previous valid content retained"</string>
+  <string name="ui_c3e0d92c8b62" formatted="false">"Matching is already current · This data pack still contains gaps"</string>
+  <string name="ui_1b2cbe1233d3" formatted="false">"Offline matching complete · Linked: "</string>
+  <string name="ui_8a319d14ce9f" formatted="false">"; descriptions available: "</string>
+  <string name="ui_5116b1d54c97" formatted="false">"Offline links unavailable; local names and search retained"</string>
+  <string name="ui_89f6dd9c5397" formatted="false">"This match failed · Previous valid content retained"</string>
+  <string name="ui_679745227ba1" formatted="false">"Metadata is still being linked. Please retry later."</string>
+  <string name="ui_a6331a4547d6" formatted="false">"Could not read current text: "</string>
+  <string name="ui_d8ea5b864bba" formatted="false">"Work link changed. Reopen the editor."</string>
+  <string name="ui_160743299abe" formatted="false">"Bundled text in selected language: "</string>
+  <string name="ui_e2faba8465e6" formatted="false">"Offline text pack: "</string>
+  <string name="ui_3ff2762c7023" formatted="false">"\nRelease catalog: "</string>
+  <string name="ui_20f2b2fbe836" formatted="false">" entries · Chinese drafts: "</string>
+  <string name="ui_0d10e0e2da62" formatted="false">" works\nBundled links: "</string>
+  <string name="ui_36fcc2e1f963" formatted="false">" local files · Bundled text coverage: "</string>
+  <string name="ui_28a5c369ca52" formatted="false">" entries\nText matching and editing do not trigger cover downloads."</string>
+  <string name="ui_6470fbb77ba4" formatted="false">"Source has release information only; not treated as a gameplay description"</string>
+  <string name="ui_6ec3bac650d6" formatted="false">"Source release SHA1 / Full serial link"</string>
+  <string name="ui_5b6946b4dee7" formatted="false">"; source releaseReferenceURL matches; work = "</string>
+  <string name="ui_0a5e5a09d03f" formatted="false">"; gameplay metadata shared only"</string>
+  <string name="ui_5cd62a579fcf" formatted="false">"; this release or a revision with identical name and serial"</string>
+  <string name="ui_806b5b5ad72b" formatted="false">"; field-providing releaseID = "</string>
+  <string name="ui_ace1aa2a6856" formatted="false">"; local ROM and cover release identity unchanged"</string>
+  <string name="ui_80a851b1df45" formatted="false">"All entries"</string>
+  <string name="ui_e35442d3a457" formatted="false">"Unknown identity / Legacy detail absent"</string>
+  <string name="ui_5e7990d59972" formatted="false">"No image obtained this run"</string>
+  <string name="ui_364f5245d2d6" formatted="false">"Left library this run"</string>
+  <string name="ui_9ef3543e96c1" formatted="false">"New cover links"</string>
+  <string name="ui_ee17c664a740" formatted="false">"Reused existing covers"</string>
+  <string name="ui_c69291da629b" formatted="false">"Interrupted / Unprocessed"</string>
+  <string name="ui_c27041585556" formatted="false">"Unreadable"</string>
+  
+  
+  <string name="ui_80a57e03f071" formatted="false">"Not configured"</string>
+  
+  <string name="ui_202126859f48" formatted="false">"Choose a game folder"</string>
+  <string name="ui_ffeaf8d489fb" formatted="false">"Local cache unavailable; scan from Settings"</string>
+  <string name="ui_110531ee537b" formatted="false">"TwinGrid data exported (ROM and save contents excluded)"</string>
+  <string name="ui_c55e9d64e5b5" formatted="false">"Export failed: "</string>
+  <string name="ui_95ecd0c86947" formatted="false">"Scan cancelled; existing entries and favorites retained"</string>
+  <string name="ui_a730a8f0d387" formatted="false">"NDS folder not authorized"</string>
+  <string name="ui_e65f626686ff" formatted="false">"New folder; scanning"</string>
+  <string name="ui_652c7360d9be" formatted="false">"Scanning folders… Can cancel"</string>
+  <string name="ui_77b4016f3f11" formatted="false">"Checked: "</string>
+  <string name="ui_34fe26432073" formatted="false">" folders; found: "</string>
+  <string name="ui_907b5e07a511" formatted="false">" NDS games"</string>
+  <string name="ui_1530a48ad04b" formatted="false">"ROM read failed: "</string>
+  <string name="ui_8107a88d1d89" formatted="false">"Read: "</string>
+  <string name="ui_1ee6ed6dd781" formatted="false">"; can cancel"</string>
+  <string name="ui_4afb214ff4b0" formatted="false">"Scan completed: "</string>
+  <string name="ui_ae8651bdd05e" formatted="false">"Scan incomplete; cached entries retained: "</string>
+  <string name="ui_e8fb2f295e3b" formatted="false">" NDS / Saves: "</string>
+  <string name="ui_7ac123ae60eb" formatted="false">" / Read errors: "</string>
+  <string name="ui_a49dd8af7a35" formatted="false">"Folder unreadable; cache retained: "</string>
+  <string name="ui_32c7a9c13309" formatted="false">"Cached: "</string>
+  <string name="ui_da215a7b74f2" formatted="false">" (refreshed)"</string>
+  <string name="ui_d6f0778c2741" formatted="false">" (folder unauthorized / unreadable)"</string>
+  <string name="ui_17effe38ee70" formatted="false">"Folder unreadable; cache and favorites retained"</string>
+  <string name="ui_48a5e7b07125" formatted="false">" NDS games; checking folder"</string>
+  <string name="ui_8da97ddda990" formatted="false">"On"</string>
+  <string name="ui_3fd47edce45b" formatted="false">"Off"</string>
+  <string name="ui_ce7ef28b670a" formatted="false">"Allowed"</string>
+  <string name="ui_4a044484f863" formatted="false">"Not allowed"</string>
+  <string name="ui_323d825eab5d" formatted="false">"Cancel scan"</string>
+  <string name="ui_743497b67cd2" formatted="false">"Start scan"</string>
+  <string name="ui_1182c5454f11" formatted="false">"Not selected"</string>
+  <string name="ui_bc00d7ae4871" formatted="false">"Readable"</string>
+  <string name="ui_4f9ee8dd92b7" formatted="false">"Unreadable"</string>
+  <string name="ui_521e65ffc7d0" formatted="false">"Authorized"</string>
+  <string name="ui_9741f68e19c7" formatted="false">"Matching"</string>
+  <string name="ui_cde760b90387" formatted="false">"Match again"</string>
+  <string name="ui_db8db0530432" formatted="false">"View"</string>
+  <string name="ui_f88182fcd575" formatted="false">"Open"</string>
+  <string name="ui_5d4a2e74561e" formatted="false">"Check existing covers and download missing images.\nRun progress and library coverage are shown separately.\nPause controls the cover network task only."</string>
+  <string name="ui_5bfd872d077b" formatted="false">"\n\nUses the bundled text pack; no network needed.\nMissing drafts require a later content update. Repeating a match does not download new descriptions."</string>
+  <string name="ui_791618e0bf0a" formatted="false">"Missing covers for newly scanned entries join a later run.\nEnabling the policy does not resume a task paused by the user."</string>
+  <string name="ui_05c2afbc1ba3" formatted="false">"When off, only unmetered networks are used.\nResuming still checks network conditions."</string>
+  <string name="ui_11f1f4bcbdc9" formatted="false">"Enabling requests system permission.\nSilent alerts report complete, partial or failed runs. Tapping opens results only.\nDeclining permission retains all in-app feedback."</string>
+  <string name="ui_3c492cc0378e" formatted="false">"Grant read-only access through the system picker.\n\n"</string>
+  <string name="ui_c5768ca9726c" formatted="false">"Not selected yet"</string>
+  <string name="ui_1fa5970669a2" formatted="false">"Current folder is readable"</string>
+  <string name="ui_ef46f10dd318" formatted="false">"Folder temporarily unreadable; index retained"</string>
+  <string name="ui_f7eb11036c9e" formatted="false">"Read save status only; emulator data is not modified.\n\n"</string>
+  <string name="ui_65e720010933" formatted="false">"Read-only folder permission retained"</string>
+  <string name="ui_9df45f19ede6" formatted="false">"\n\nFolder scans and cover tasks have separate controls."</string>
+  <string name="ui_6601885a6e27" formatted="false">"Browsing and searching use the current sort order.\nRecent launches always use launch time.\nEach section retains its own position and sort order."</string>
+  <string name="ui_ddb086a646ac" formatted="false">"\n\nClear only automatically downloaded images without user assignments.\nUser covers, local originals, text and corrections are retained."</string>
+  <string name="ui_1158671ac122" formatted="false">"Update only the libretro-thumbnails image index.\nFailure retains the old index. Descriptions, genres and successful items are not reset."</string>
+  <string name="ui_29db79aadf48" formatted="false">"\n\nBundled metadata\n"</string>
+  <string name="ui_308be5e9bc37" formatted="false">"Covers and metadata"</string>
+  <string name="ui_e99481375acf" formatted="false">"Tasks, offline matching and downloads"</string>
+  <string name="ui_a03119e61efc" formatted="false">"Game folders"</string>
+  <string name="ui_e2c975763d9d" formatted="false">"Read-only access, scanning and status"</string>
+  <string name="ui_8448941cc31e" formatted="false">"Display and browsing"</string>
+  <string name="ui_1319dcff652f" formatted="false">"Language, sorting and library access"</string>
+  <string name="ui_2100fbd17556" formatted="false">"Data and storage"</string>
+  <string name="ui_6114c7a84492" formatted="false">"Exports, storage and cache cleanup"</string>
+  <string name="ui_0a114f362a5f" formatted="false">"About and diagnostics"</string>
+  <string name="ui_cd178652fde7" formatted="false">"Version, attribution and maintenance"</string>
+  <string name="ui_9ebc9b65d3fd" formatted="false">"Current task and recent results"</string>
+  <string name="ui_fbbab41c24b1" formatted="false">"Fill missing covers"</string>
+  <string name="ui_027c3daadb67" formatted="false">"Check library; reuse existing covers"</string>
+  <string name="ui_5b251c155155" formatted="false">"Offline bilingual metadata"</string>
+  <string name="ui_697afc9da29b" formatted="false">"Content version and offline matching"</string>
+  <string name="ui_eaca0caa328b" formatted="false">"Library coverage and gap reasons"</string>
+  <string name="ui_2285ca6e0448" formatted="false">"Review exceptions"</string>
+  <string name="ui_c6c2933ea3ed" formatted="false">"Unconfirmed releases and missing text"</string>
+  <string name="ui_b38296844b70" formatted="false">"Automatic covers"</string>
+  <string name="ui_2185225aef79" formatted="false">"Missing-cover policy for new games"</string>
+  <string name="ui_1828b630a3f0" formatted="false">"Metered downloads"</string>
+  <string name="ui_f7904cccd849" formatted="false">"Allow covers over metered networks"</string>
+  <string name="ui_3be8decba2c5" formatted="false">"Task notifications"</string>
+  <string name="ui_a16a3489b2cb" formatted="false">"Silent alerts; disable any time"</string>
+  <string name="ui_53f5ff328e34" formatted="false">"NDS game folder"</string>
+  <string name="ui_396a05bdeb74" formatted="false">"Choose a read-only game folder"</string>
+  <string name="ui_6ac797305105" formatted="false">"DraStic save folder"</string>
+  <string name="ui_ad2f33dd71de" formatted="false">"Read save status only"</string>
+  <string name="ui_e32545d75592" formatted="false">"Folder scan"</string>
+  <string name="ui_7e09b942dad8" formatted="false">"Start / Cancel and previous result"</string>
+  <string name="ui_01ea8c5a2c99" formatted="false">"Chinese, English or system default"</string>
+  <string name="ui_3fa405d23dda" formatted="false">"Choose description and gap language"</string>
+  <string name="ui_a29375e863f0" formatted="false">"Browse sort order"</string>
+  <string name="ui_d0c49b7d7b36" formatted="false">"Recent launches keep a fixed order"</string>
+  <string name="ui_596a53ed74d5" formatted="false">"Return to library"</string>
+  <string name="ui_4e9dc0b51bd1" formatted="false">"Choose filters in the library"</string>
+  <string name="ui_ced3e1c3dc55" formatted="false">"Export favorites and records"</string>
+  <string name="ui_b3692b013a24" formatted="false">"Save to the device\'s Documents folder"</string>
+  <string name="ui_56738959f3bf" formatted="false">"Downloads, local copies and thumbnails"</string>
+  <string name="ui_d3a48e753c9e" formatted="false">"Review scope and space before clearing"</string>
+  
+  <string name="ui_a99b3e159d92" formatted="false">"System handling, permission and recovery"</string>
+  <string name="ui_974deaa7005f" formatted="false">"Application and bundled content versions"</string>
+  <string name="ui_70174055607c" formatted="false">"Sources and licenses"</string>
+  <string name="ui_2bca4380acb8" formatted="false">"Source attribution and runtime licenses"</string>
+  <string name="ui_4097bbc80765" formatted="false">"Engineering diagnostics"</string>
+  <string name="ui_0d414dcf6206" formatted="false">"Access, displays and logs"</string>
+  <string name="ui_bb1d19b85634" formatted="false">"Diagnostic logging"</string>
+  <string name="ui_6e9546160e58" formatted="false">"Enable only when troubleshooting"</string>
+  <string name="ui_4605735ff535" formatted="false">"Cover source connectivity"</string>
+  <string name="ui_9bedeeb99ebf" formatted="false">"Check this device\'s actual connection"</string>
+  <string name="ui_0ec1aca58598" formatted="false">"Refresh cover index"</string>
+  <string name="ui_0af420cb2691" formatted="false">"Update image list only"</string>
+  <string name="ui_218b2741bf4c" formatted="false">"Export library audit"</string>
+  <string name="ui_dbb7393b6619" formatted="false">"Read-only source and mapping report"</string>
+  <string name="ui_907451385fe4" formatted="false">"Metadata action"</string>
+  <string name="ui_67202af2d97b" formatted="false">"\n\nEnter text on the lower screen.\nSave to apply. Failed saves retain input.\nCancel retains existing metadata.\n\nConfirm IME candidates when composing.\nROM files are not modified."</string>
+  <string name="ui_e27f88063ce1" formatted="false">"\n\nChoose an entry or action below.\nB returns to the parent view.\nThe underlying game cannot launch here."</string>
+  <string name="ui_997a5e6e513f" formatted="false">"Recent"</string>
+  <string name="ui_5c55a67935af" formatted="false">"All"</string>
+  <string name="ui_ba40014ff496" formatted="false">"Genres"</string>
+  <string name="ui_7c7802d8adae" formatted="false">"Folders"</string>
+  <string name="ui_60a53514eb92" formatted="false">"Favorites"</string>
+  <string name="ui_bde0a2267d13" formatted="false">"Preparing folder index"</string>
+  <string name="ui_ea750e4cf350" formatted="false">"Entire library · All genres"</string>
+  <string name="ui_e5918e6e2955" formatted="false">"Restoring library…"</string>
+  <string name="ui_6ac3d059b677" formatted="false">"Could not read records; original data retained"</string>
+  <string name="ui_257f4442af73" formatted="false">"Current folder"</string>
+  <string name="ui_c2544ca67689" formatted="false">" (with subfolders) · "</string>
+  <string name="ui_8a6a3b0fdfd9" formatted="false">"Folder history is restoring. Export later."</string>
+  <string name="ui_aaf6ceaacbd2" formatted="false">"Cover task results"</string>
+  <string name="ui_26cd8ef77a6d" formatted="false">"Not allowed by system"</string>
+  <string name="ui_550330de23f8" formatted="false">"Notification channel disabled"</string>
+  <string name="ui_f28461bb49c8" formatted="false">"Completed"</string>
+  <string name="ui_dd52d161c87d" formatted="false">"Ended; gaps remain"</string>
+  <string name="ui_6401bce93bfc" formatted="false">"Nothing pending"</string>
+  <string name="ui_28384d7afd2e" formatted="false">"Failed"</string>
+  <string name="ui_22a39a9a9f0a" formatted="false">"Interrupted; can resume"</string>
+  <string name="ui_46e616014c77" formatted="false">"Choose a task or open its results below."</string>
+  <string name="ui_12742a646356" formatted="false">"Online covers"</string>
+  <string name="ui_303d815d4b50" formatted="false">"Offline bilingual text"</string>
+  <string name="ui_455a6eee5aa7" formatted="false">"Run results"</string>
+  <string name="ui_ffd7729194b3" formatted="false">"Library coverage"</string>
+  <string name="ui_d301bc125833" formatted="false">"Dismiss"</string>
+  <string name="ui_b194c91c8af2" formatted="false">"↑↓ Choose · A Apply · Tasks persist outside this page"</string>
+  <string name="ui_30f56b622137" formatted="false">"Offline bilingual text · "</string>
+  <string name="ui_e09018d23553" formatted="false">"Matching"</string>
+  <string name="ui_fd78c7e04c22" formatted="false">"Match results"</string>
+  <string name="ui_3bb9b69a5858" formatted="false">"\nBundled metadata · No download"</string>
+  <string name="ui_0697e5bb4469" formatted="false">"Check library covers and reuse existing images"</string>
+  <string name="ui_3ac7daba04fb" formatted="false">"Start a check from the lower screen"</string>
+  <string name="ui_14a34f949f08" formatted="false">"Nothing pending in this scope"</string>
+  <string name="ui_d62aa3cf9886" formatted="false">"Local files: "</string>
+  <string name="ui_cc75e3a08518" formatted="false">"\nLinked: "</string>
+  <string name="ui_0fb405757ec1" formatted="false">"\nDescriptions in selected language: "</string>
+  <string name="ui_250259f0be00" formatted="false">"Bundled text missing: "</string>
+  <string name="ui_9f6df9569991" formatted="false">"\nWork unconfirmed: "</string>
+  <string name="ui_d7aba94465df" formatted="false">"\n\nResolve entries from library coverage"</string>
+  <string name="ui_ac365634941b" formatted="false">"Cover index checked."</string>
+  <string name="ui_345a62481c83" formatted="false">"Open Results to view the processed items."</string>
+  <string name="ui_e1ff28ce396f" formatted="false">"Current entry\n"</string>
+  <string name="ui_fd8eb5d6f632" formatted="false">"Matching does not download new text."</string>
+  <string name="ui_77cce4053f9a" formatted="false">"Matching and cover queues are independent; read failure retains previous valid content"</string>
+  <string name="ui_8c0708691126" formatted="false">"Recent result archived"</string>
+  <string name="ui_afba391c0c3d" formatted="false">"Open Recent history below for the recorded scope and entries"</string>
+  <string name="ui_cdb4dc10938d" formatted="false">"Task notice dismissed"</string>
+  <string name="ui_63f2a58f1377" formatted="false">"Current metadata and gaps\nOpen Library metadata coverage"</string>
+  <string name="ui_feb4d3a7f61c" formatted="false">"Read / Dismiss affects reminders only\nMetadata gaps remain actionable"</string>
+  <string name="ui_375b68b67f62" formatted="false">"New task results have separate notifications"</string>
+  <string name="ui_b8793686aabb" formatted="false">"This run\'s result is in history. Dismissing its notice does not restart downloads."</string>
+  <string name="ui_0f2ec1ce1dbc" formatted="false">"Result archived"</string>
+  <string name="ui_541e6553303b" formatted="false">"Not started"</string>
+  <string name="ui_d6e2a093827f" formatted="false">"Matching…"</string>
+  <string name="ui_3600a5ba2e65" formatted="false">"Queued for next run: "</string>
+  <string name="ui_f80f7fbbe9f6" formatted="false">" games; this run\'s denominator is unchanged"</string>
+  <string name="ui_d784f1abb480" formatted="false">"Request accepted"</string>
+  <string name="ui_29bc72c04e12" formatted="false">"Bangumi · Community text"</string>
+  <string name="ui_f60717abaa3a" formatted="false">"Text request history"</string>
+  <string name="ui_2bddbec702f5" formatted="false">"No online text queries yet."</string>
+  <string name="ui_e7fd12affb10" formatted="false">"Only explicit text queries are recorded here. Cover tasks are managed separately."</string>
+  <string name="ui_83f3af69098a" formatted="false">"\nAfter the process exits, query again to obtain a preview. Existing descriptions are unaffected."</string>
+  <string name="ui_47b675fcb07c" formatted="false">"History is unreadable; original records retained."</string>
+  <string name="ui_f446d799ff74" formatted="false">"Requested content language: "</string>
+  <string name="ui_7ac4d6a91f7c" formatted="false">"\nChoose a source, then review the query name to be sent."</string>
+  <string name="ui_bf86632624a6" formatted="false">"Bangumi Chinese candidates"</string>
+  <string name="ui_677a75f6a341" formatted="false">"Wikipedia English candidates"</string>
+  <string name="ui_83a44e563667" formatted="false">"View text request history"</string>
+  <string name="ui_b0206a4d0caf" formatted="false">"Online query · Only this name is sent"</string>
+  <string name="ui_6bafc2ce74d8" formatted="false">"Enter a work name"</string>
+  <string name="ui_4b3fbd4121fa" formatted="false">"Up to 200 characters. ROM paths and play history are not sent."</string>
+  <string name="ui_7c4e957a3609" formatted="false">"Replaced by a newer query"</string>
+  <string name="ui_da97628c2ca6" formatted="false">"The query exceeded its 35-second total deadline. Retry, change source or edit offline."</string>
+  <string name="ui_e09acbc20337" formatted="false">"Searching · "</string>
+  <string name="ui_3e6216ae864d" formatted="false">"The source requires a later retry. Offline matching and editing remain available."</string>
+  <string name="ui_17a4fbf932c9" formatted="false">"No candidate with a verifiable Nintendo DS platform was obtained. Change the name or try offline matching."</string>
+  <string name="ui_fb2c345f6352" formatted="false">"A work was found without usable text in the requested language. Preview shows the actual language."</string>
+  <string name="ui_729046f8eb38" formatted="false">"Candidates are ready. Review the work, platform and text before saving."</string>
+  <string name="ui_8b53375b71be" formatted="false">"Connection timed out. Retry or choose another source."</string>
+  <string name="ui_fc4309c95619" formatted="false">"The source response format was unexpected and cannot be used as a text candidate."</string>
+  <string name="ui_7eae9ed98192" formatted="false">"Network request incomplete ("</string>
+  <string name="ui_55a437b6e7fe" formatted="false">"). Retry, change source or use offline metadata."</string>
+  <string name="ui_24cdb6a2713d" formatted="false">"Source returned HTTP "</string>
+  <string name="ui_72e92bfd6731" formatted="false">"; retry later or choose another source."</string>
+  <string name="ui_8583bf80ca2c" formatted="false">"The source did not return JSON text data."</string>
+  <string name="ui_3f48e7476393" formatted="false">"Checking platform and description · "</string>
+  <string name="ui_fce9bdb6725b" formatted="false">"Wikipedia could not process this query."</string>
+  <string name="ui_130b9a21a9ab" formatted="false">"Searching"</string>
+  <string name="ui_5784a1b4ae38" formatted="false">"No candidates"</string>
+  <string name="ui_e1915a0200e0" formatted="false">"Requested-language text missing"</string>
+  <string name="ui_6b9df175c462" formatted="false">"Source unavailable"</string>
+  <string name="ui_88c035ff99b6" formatted="false">"Network error"</string>
+  <string name="ui_0145ec462b1b" formatted="false">"Query timed out"</string>
+  <string name="ui_a37778f17c5f" formatted="false">"Cancelled"</string>
+  <string name="ui_f63cd1ec1c37" formatted="false">"Preview ready"</string>
+  <string name="ui_570d60206779" formatted="false">"Saving"</string>
+  <string name="ui_6309a3bb5ba4" formatted="false">"Save failed"</string>
+  <string name="ui_6875f3ce0ea5" formatted="false">"Online text request"</string>
+  <string name="ui_e3e0faa1e395" formatted="false">"Preview candidates"</string>
+  <string name="ui_78e3f326fb5b" formatted="false">"Retry / Other options"</string>
+  <string name="ui_6f88b3b88f3e" formatted="false">"Cancel request"</string>
+  <string name="ui_16967f66e88d" formatted="false">"Cancelled by user; existing description retained."</string>
+  <string name="ui_82795f7a16d0" formatted="false">"Continue metadata repair"</string>
+  <string name="ui_5bb56202f5be" formatted="false">"Retry this query"</string>
+  <string name="ui_0b0fcbca3f64" formatted="false">"Change source or name"</string>
+  <string name="ui_337fa2bfda84" formatted="false">"Write description manually"</string>
+  <string name="ui_e3cda824413b" formatted="false">"Online text candidates"</string>
+  <string name="ui_1000aa43d539" formatted="false">"Obtaining candidates does not link or save them."</string>
+  <string name="ui_1a6371b05a88" formatted="false">"\nPlatform: "</string>
+  <string name="ui_3470cca033be" formatted="false">"\nActual text language: "</string>
+  <string name="ui_3d41860fb577" formatted="false">"\nOther platforms are mentioned. Review the DS-specific text manually first."</string>
+  <string name="ui_ff302300f5e4" formatted="false">"\nSave under the text\'s actual language. Other languages are unaffected."</string>
+  <string name="ui_0eff9f589d97" formatted="false">"Preview online text"</string>
+  <string name="ui_1b9743ac7a0d" formatted="false">"Confirm save · "</string>
+  <string name="ui_6623d2a971b4" formatted="false">"Write manually"</string>
+  <string name="ui_4ffde288db5f" formatted="false">"Identity or edited content changed. Query again to prevent an old result from replacing newer metadata."</string>
+  <string name="ui_38abb602c89a" formatted="false">"Metadata changed"</string>
+  <string name="ui_b81e6a8cfb6f" formatted="false">"Saving and reading back the description."</string>
+  <string name="ui_df0297c214e9" formatted="false">"Description saved"</string>
+  <string name="ui_e757f80baa21" formatted="false">"Save payload format is invalid; original metadata retained."</string>
+  <string name="ui_cf2abf0c5be3" formatted="false">"Japan"</string>
+  <string name="ui_58857e5318f3" formatted="false">"USA"</string>
+  <string name="ui_8ef85828ff9c" formatted="false">"Europe"</string>
+  <string name="ui_0b1001a02c97" formatted="false">"Australia"</string>
+  <string name="ui_f0e9521611bb" formatted="false">"China"</string>
+  <string name="ui_963cd7300454" formatted="false">"Korea"</string>
+  <string name="ui_fc0f28fd9a7f" formatted="false">"User description"</string>
+  <string name="ui_94289f0cf51f" formatted="false">"Confirmed source text"</string>
+  <string name="ui_77dbb04ae4f1" formatted="false">" · Other-language fallback"</string>
+  <string name="ui_2fc80cadc873" formatted="false">"Local search scope"</string>
+  <string name="ui_cb7b17064938" formatted="false">"Entire library · All genres (default)"</string>
+  <string name="ui_f5fc4e86df84" formatted="false">"Current filter (includes subfolders)"</string>
+  <string name="ui_149e1c3e0c20" formatted="false">"Current folder and subfolders · All genres"</string>
+  <string name="ui_36489c77e39b" formatted="false">"Local search options"</string>
+  <string name="ui_eba29ff35db1" formatted="false">"Entire library / Previous scope"</string>
+  <string name="ui_0c559649e30a" formatted="false">"Sort by name / File modification time"</string>
+  <string name="ui_3507e11a268e" formatted="false">"Genre filter · Keep current scope"</string>
+  <string name="ui_44400dfc7c58" formatted="false">"All games in this genre"</string>
+  <string name="ui_c50f46fcd38f" formatted="false">"Sources and attribution"</string>
+  <string name="ui_4c828fc6ac13" formatted="false">"Runtime licenses"</string>
+  <string name="ui_52ac486e9f66" formatted="false">"Bundled licenses could not be read. See the release notes supplied with the package."</string>
+  <string name="ui_d411d99bc5f1" formatted="false">"NDS offline bilingual metadata\nDescriptions are edited and translated on the development host before delivery with the app. Game details show sources and review status. Unwritten entries remain gaps. Model review does not mean per-entry user approval.\n\nBangumi community entries\nDerived text retains attribution and is offered under CC BY-SA 3.0. Original snapshots stay on the development host. User comments were not collected.\nhttps://bgm.tv/about/copyright\nhttps://creativecommons.org/licenses/by-sa/3.0/\n\nOpenVGDB v29, publishers and Nintendo\nUsed to check release identity and gameplay facts. Bundled prose is editorial text; original source prose and entire source databases are not distributed. Underlying rights are retained.\nhttps://github.com/OpenVGDB/OpenVGDB/releases/tag/v29.0\n\nNo-Intro / libretro-database\nFrozen NDS release catalog. A source SHA1 is not a measured hash of your modified ROM.\nhttps://github.com/libretro/libretro-database\n\nCovers\nImages come from libretro-thumbnails online or existing local caches. Image copyright remains with its owners.\nhttps://github.com/libretro-thumbnails/Nintendo_-_Nintendo_DS\n\nRuntime licenses\nOkHttp, Okio, Kotlin and JetBrains annotations: Apache-2.0. Public Suffix List: MPL-2.0. Open Runtime licenses below for complete bundled licenses.\n\nNo analytics reporting. ROMs, saves and play history are not sent."</string>
+  <string name="ui_e4945e179ec5" formatted="false">"Choose a game"</string>
+  <string name="ui_96ed33a5b867" formatted="false">" · User corrections take priority"</string>
+  <string name="ui_8b2e7df88917" formatted="false">"\nGenres: "</string>
+  <string name="ui_ee2b1373f1d8" formatted="false">"User correction"</string>
+  <string name="ui_b8f1b4accf34" formatted="false">"\nThis is your saved local description."</string>
+  <string name="ui_1a6ec37b5032" formatted="false">"\nBase work information; consult local version notes for modifications."</string>
+  <string name="ui_0205b71380a6" formatted="false">"\n\nConfirmed text source\n"</string>
+  <string name="ui_de133b188c64" formatted="false">"\nText fingerprint: "</string>
+  <string name="ui_10b6dedef910" formatted="false">"\nUser description currently takes priority"</string>
+  <string name="ui_8d45cbe9b1b7" formatted="false">"No text yet"</string>
+  <string name="ui_d96afca50e37" formatted="false">"Bundled reference (local override currently displayed)"</string>
+  <string name="ui_7cfd73ea03e8" formatted="false">"Current bundled draft"</string>
+  <string name="ui_53578ef8c236" formatted="false">"\nBundled content category: "</string>
+  <string name="ui_c12fd1b769b6" formatted="false">"\nBundled review: Codex edited and reviewed source material; no per-entry user approval"</string>
+  <string name="ui_2c115e9a54ba" formatted="false">"\n\nBundled text fingerprint: "</string>
+  <string name="ui_bcb2e8da229f" formatted="false">"\nOriginal genre: "</string>
+  <string name="ui_4ccd84a1a719" formatted="false">"\n\nSource title\n"</string>
+  <string name="ui_d6f8a049c8ea" formatted="false">"\nRelease region: "</string>
+  <string name="ui_3ce6801169a7" formatted="false">"\nDeveloper: "</string>
+  <string name="ui_7ab6fbf16db4" formatted="false">"\nPublisher: "</string>
+  <string name="ui_8ee942068fc6" formatted="false">"\nRelease date (source text): "</string>
+  <string name="ui_b322b1e6ba12" formatted="false">"\n\nLocal version tags: "</string>
+  <string name="ui_7423e5b0e2aa" formatted="false">"\n\nSources and matching evidence\n"</string>
+  <string name="ui_b80a27f373ae" formatted="false">"\nRelease record: "</string>
+  <string name="ui_21de2b207e82" formatted="false">"\nGenre source: "</string>
+  <string name="ui_081ba82dbd99" formatted="false">"\nOpenVGDB release ID: "</string>
+  <string name="ui_81b65d29b5db" formatted="false">"\nOriginal SHA1: "</string>
+  <string name="ui_e3eb2ff1b2a5" formatted="false">"\nFetched at: "</string>
+  <string name="ui_f0b82d28726a" formatted="false">"\n\nExisting local cover saved"</string>
+  <string name="ui_40fdbd8d26bd" formatted="false">"\nOnline cover verified and cached\n"</string>
+  <string name="ui_835217271169" formatted="false">"\nSource status: "</string>
+  <string name="ui_ef437fadcf66" formatted="false">"\n\nMissing fields stay blank. Display names are separate from original ROM filenames."</string>
+  <string name="ui_eeb24be3e851" formatted="false">"Reading local game metadata…"</string>
+  <string name="ui_ff27ffa07399" formatted="false">"Metadata index not ready"</string>
+  <string name="ui_eb2d78f4c1a8" formatted="false">"The bundled index is preparing. Retry shortly. Searching and saving corrections both work offline."</string>
+  <string name="ui_7336e6535d26" formatted="false">"Traditional Chinese patch"</string>
+  <string name="ui_5279d84d4d35" formatted="false">"Simplified Chinese patch"</string>
+  <string name="ui_6822a7f3dd71" formatted="false">"Chinese patch"</string>
+  <string name="ui_c2cb144c8158" formatted="false">"Chinese voices"</string>
+  <string name="ui_336f5df2f102" formatted="false">"Fix applied"</string>
+  <string name="ui_04542ccc30cc" formatted="false">"Modified version"</string>
+  <string name="ui_5eb1b36eee24" formatted="false">"Japanese release"</string>
+  <string name="ui_436c4edd1c0f" formatted="false">"The process ended before this request completed. Start a new query."</string>
+  <string name="ui_55822afa174d" formatted="false">"Request interrupted"</string>
+  <string name="ui_66d17059821e" formatted="false">" · English text: "</string>
+  <string name="ui_0b9701c7e80e" formatted="false">"English description missing"</string>
+  <string name="ui_dae2ca72e96a" formatted="false">"Close"</string>
+  <string name="ui_0e272086d7b0" formatted="false">"Metadata storage could not be written. Your previous data is unchanged and your input is retained. Check free space and storage availability, then retry."</string>
+  <string name="ui_d50000000001" formatted="false">"RPG"</string>
+  <string name="ui_d50000000002" formatted="false">"Text logs"</string>
+  <string name="ui_d50000000003" formatted="false">"Read"</string>
+  <string name="ui_d50000000004" formatted="false">"Open Results for items.\nOpen Coverage to continue repairs."</string>
+  <string name="ui_d50000000005" formatted="false">"Added "</string>
+  <string name="ui_d50000000006" formatted="false">"Reused "</string>
+  <string name="ui_d50000000007" formatted="false">"Missing "</string>
+  <string name="ui_d50000000008" formatted="false">"Identity "</string>
+  <string name="ui_d50000000009" formatted="false">"Failed "</string>
+  <string name="ui_d5000000000a" formatted="false">"Removed "</string>
+  <string name="ui_d5000000000b" formatted="false">"Downloads "</string>
+  <string name="ui_d5000000000c" formatted="false">"Fonts and icons"</string>
+  <string name="ui_d5000000000d" formatted="false">"Fusion Pixel 10px Proportional SC · 2026.09.01\nSIL Open Font License 1.1\nhttps://github.com/TakWolf/fusion-pixel-font\nTwinGrid icons: original 16 × 16 pixel drawings. All app text uses this 10px pixel family at 2x. The native editor preserves unsupported input; U+20BB7 is an uncovered glyph and requires a matching future font."</string>
+  <string name="ui_d50610000001" formatted="false">"Enter text below. Save applies the change; failed saves keep your draft. Cancel leaves the original metadata unchanged. Confirm IME candidates before saving."</string>
+  <string name="ui_d50620000001" formatted="false">"Review the candidate below.\nCheck its language, version and source.\nCancel keeps the existing text."</string>
+  <string name="ui_d67000000001" formatted="false">"Cover index updated"</string>
+  <string name="ui_d67000000002" formatted="false">"Cover index"</string>
+  <string name="ui_d67000000003" formatted="false">"Index version: "</string>
+  <string name="ui_d67000000004" formatted="false">"Not recorded"</string>
+  <string name="ui_d67000000005" formatted="false">"Index entries: "</string>
+  <string name="ui_d67000000006" formatted="false">"No cover images downloaded"</string>
+  <string name="ui_d67000000007" formatted="false">"Operations: "</string>
+  <string name="ui_d67000000008" formatted="false">"Task kind not recorded"</string>
+  <string name="ui_d67000000009" formatted="false">"New links "</string>
+  <string name="ui_d6700000000a" formatted="false">"Reused "</string>
+  <string name="ui_d6700000000b" formatted="false">"No image "</string>
+  <string name="ui_d6700000000c" formatted="false">"Identity "</string>
+  <string name="ui_d6700000000d" formatted="false">"Failed "</string>
+  <string name="ui_d6700000000e" formatted="false">"Removed "</string>
+  <string name="ui_d6700000000f" formatted="false">"Image downloads "</string>
+  <string name="ui_d67000000010" formatted="false">"The cover directory was updated.\nExisting covers and gaps are unchanged."</string>
+  <string name="ui_d67000000011" formatted="false">"Index receipt"</string>
+  <string name="ui_d67000000012" formatted="false">"Current game"</string>
+  <string name="ui_d67000000013" formatted="false">"Content language: "</string>
+  <string name="ui_d67000000014" formatted="false">"Commit the keyboard candidate, then save."</string>
+  <string name="ui_d67000000015" formatted="false">"Check the candidate work, edition and language."</string>
+  <string name="ui_d67000000016" formatted="false">"Current: "</string>
+  <string name="ui_d67000000017" formatted="false">"Candidate: "</string>
+  <string name="ui_d67000000018" formatted="false">"Original: "</string>
+  <string name="ui_d67000000019" formatted="false">"Try another query, or tap here to clear it."</string>
+  <string name="ui_d6700000001a" formatted="false">"You are searching the entire library. Try a filename, alias or Game Code."</string>
+  <string name="ui_d6700000001b" formatted="false">" game"</string>
+  <string name="ui_d6700000001c" formatted="false">" games"</string>
+  <string name="ui_d6700000001d" formatted="false">"Overview · full text"</string>
+  <string name="ui_d6700000001e" formatted="false">"Work links"</string>
+  <string name="ui_d6700000001f" formatted="false">"Text in selected language"</string>
+    <string name="ui_77000000">Organize library</string>
+    <string name="ui_77000001">Organize library</string>
+    <string name="ui_77000002">Needs your input</string>
+    <string name="ui_77000003">Recent activity</string>
+    <string name="ui_77000004">Dismiss notice</string>
+    <string name="ui_77000005">Match text and genres offline, then fill missing covers.</string>
+    <string name="ui_77000006">Local metadata</string>
+    <string name="ui_77000007">Matching offline metadata</string>
+    <string name="ui_77000008">Linked works </string>
+    <string name="ui_77000009">Saved. List updated.</string>
+    <string name="ui_7700000a">The work and release conflict. Choose again.</string>
+    <string name="ui_7700000b">Text is available offline. Covers await a network.</string>
+    <string name="ui_7700000c">Organization finished</string>
+    <string name="ui_7700000d">Remaining from this run</string>
+    <string name="ui_7700000e">Nothing needs attention</string>
+    <string name="ui_7700000f">Match work and release</string>
+    <string name="ui_77000010">Edit overview</string>
+    <string name="ui_77000011">Choose genres</string>
+    <string name="ui_77000012">Review cover</string>
+    <string name="ui_77000013">More options</string>
+    <string name="ui_77000014">Current issue</string>
+    <string name="ui_77000015">No bundled overview yet. You can write one here.</string>
+    <string name="ui_77000016">Back</string>
+    <string name="ui_77000017">Save</string>
+    <string name="ui_77000018">Pause</string>
+    <string name="ui_77000019">Continue</string>
+    <string name="ui_7700001a">Pausing</string>
+    <string name="ui_7700001b">Covers</string>
+    <string name="ui_7700001c">New links </string>
+    <string name="ui_7700001d">Waiting for the library</string>
+    <string name="ui_7700001e">Preparing</string>
+    <string name="ui_7700001f">Paused. Resume when ready.</string>
+    <string name="ui_77000020">Past results remain in history. This list shows issues that still need attention.</string>
+    <string name="ui_77000021">Change search</string>
+    <string name="ui_77000022">Identity and work</string>
+    <string name="ui_77000023">Work identified; revision unknown</string>
+    <string name="ui_77000024">History: original results</string>
+    <string name="ui_77000025">Identified; no bundled overview in this language</string>
+    <string name="ui_77000026">Covers and local metadata</string>
+    <string name="ui_77000027">Reused </string>
+    <string name="ui_77000028">Default home</string>
+    <string name="ui_77000029">Choose in Android. This firmware may restore its own home after reboot.</string>
+    <string name="ui_7700002a">Choose TwinGrid home</string>
+    <string name="ui_7700002b">Choose another home</string>
+    <string name="ui_7700002c">Android settings</string>
+    <string name="ui_7700002d">Open original launcher</string>
+    <string name="ui_7700002e">Current default home</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <string name="ui_7700003e">Could not read settings. Nothing was written.</string>
+    <string name="ui_7700003f">Retry</string>
+    <string name="ui_77000040">Finish without these covers</string>
+    <string name="ui_77000041">Local metadata is saved. Retry missing covers later.</string>
+    <string name="ui_77000042">Library organized</string>
+    <string name="ui_77000043">Version and integration</string>
+    <string name="ui_77000044">More metadata tools</string>
+    <string name="ui_77000045">Return to running game</string>
+    <string name="ui_77000046">Android selected TwinGrid</string>
+    <string name="ui_77000047">Android is using another home</string>
+    <string name="ui_77000048">Not enabled</string>
+    <string name="ui_77000049">Permission and original value</string>
+    <string name="ui_7700004a">Cancel</string>
+    <string name="ui_7700004b">Choose a match</string>
+    <string name="ui_7700004c">Needs attention: </string>
+    <string name="ui_7700004d">Overview</string>
+    <string name="ui_7700004e">Identity needs confirmation</string>
+    <string name="ui_7700004f">Check existing cover</string>
+    <string name="ui_77000050">Confirm this cover</string>
+    <string name="ui_77000051">This run matched text and genres offline</string>
+    <string name="ui_77000052">Choose a candidate. Insufficient evidence remains unresolved.</string>
+    <string name="ui_77000053">Only the revision is unknown. The work needs no further confirmation.</string>
+    <string name="ui_77000054">Organize text offline; get covers online</string>
+    <string name="ui_77000055">Enable failed; original value restored</string>
+    <string name="ui_77000056">No running game window to return to</string>
+    <string name="ui_77000057">Save failed. Draft retained</string>
+    <string name="ui_77000058">Stop waiting</string>
+    <string name="ui_77000059">Organizing locally without a network</string>
+    <string name="ui_7700005a">Text and genres</string>
+    
+    
+    <string name="ui_7700005d">Text or genre gaps remain</string>
+    <string name="ui_7700005f">Review existing cover</string>
+    <string name="ui_77000060">Change search words</string>
+    <string name="ui_77000061">The linked work changed. Check the existing cover on the upper screen, then keep or replace it.</string>
+    <string name="ui_77000062">Keep this cover</string>
+    <string name="ui_77000063">Replace cover</string>
+    <string name="ui_77000064">Return to Home</string>
+    <string name="ui_77000065">The last emulator session may still be running. Return to it, or open the library and show the TwinGrid upper screen. This does not close the emulator or save the game.</string>
+    <string name="ui_77000066">Return to emulator</string>
+    <string name="ui_77000067">Open library</string>
+<string name="ui_77000068">Pause</string>
+<string name="ui_77000069">Continue</string>
+
+<string name="ui_7700006b">Work linked; revision unknown</string>
+
+<string name="ui_7700006d">Active default home. You can choose another home.</string>
+<string name="ui_7700006e">Not the default home. Android will ask you to choose.</string>
+<string name="ui_7700006f">Role is held, but Android currently resolves another home.</string>
+  <string name="ui_88000001" formatted="false">"Use TwinGrid as your home?"</string>
+  <string name="ui_88000002" formatted="false">"This is optional. Set as home opens system confirmation. Not now keeps the library available. You can change it later here:"</string>
+  <string name="ui_88000003" formatted="false">"V1.18 may restore the factory home after reboot. Default home settings also let you choose another home or open the factory launcher."</string>
+  <string name="ui_88000004" formatted="false">"Set as home"</string>
+  <string name="ui_88000005" formatted="false">"Not now"</string>
+  <string name="ui_88000006" formatted="false">"Offline catalog"</string>
+  <string name="ui_88000007" formatted="false">"Chinese and English content is bundled for offline reading. Update TwinGrid to update the catalog; external text-pack import is not supported yet. Sources are available below. Rematch only refreshes offline metadata for the current library."</string>
+  <string name="ui_88000008" formatted="false">"Rematch library"</string>
+  <string name="ui_88000009" formatted="false">"Display and startup"</string>
+    <string name="ui_8800000a">Chinese texts: </string>
+    <string name="ui_8800000b">English texts: </string>
+    <string name="ui_8800000c">Linked here: </string>
+    <string name="ui_8800000d">Readable now: </string>
+    <string name="ui_8800000e">View bundled text, sources and local matching</string>
+    <string name="ui_8800000f">Catalog association missing</string>
+    <string name="ui_88000010">More matching evidence needed</string>
+    <string name="ui_88000011">Conflicting identity evidence</string>
+
+    <string name="ui_93000000">Help</string>
+    <string name="ui_93000001">Quick start</string>
+    <string name="ui_93000002">Choose folder</string>
+    <string name="ui_93000003">Later</string>
+    <string name="ui_93000004">Next</string>
+    <string name="ui_93000005">Previous</string>
+    <string name="ui_93000006">Done</string>
+    <string name="ui_93000007">Browse your local NDS games on two screens: find a game below and read its cover and description above. An installed compatible emulator runs the game. No ROMs are included.</string>
+    <string name="ui_93000008">Choose your game folder. The app scans its subfolders, reads icons from ROMs and matches bundled Chinese and English names, genres and descriptions. Setup starts one library task; covers wait for an allowed network. You can pause it at any time.</string>
+    <string name="ui_93000009">Find games through All, Genres, Folders, Favorites, Recent or Search. Organize library checks metadata and missing covers. Needs attention lists unresolved items. Missing bundled text is not a network error; repeating the task cannot create new descriptions.</string>
+    <string name="ui_9300000a">A / Start confirms or launches; B goes back, Y opens details, X toggles favorites, and L / R switches tabs. Left / right changes pages. Settings contains folders, content language and network preferences. Display and startup contains default Home controls. See About for the verified RG key behavior.</string>
+    <string name="ui_9300000b">Choosing folders</string>
+    <string name="ui_9300000c">Choose the folder holding your .nds games, or a parent with game subfolders. For example: SD card → ROMs → NDS. Enter it and tap the system Use this folder button. Do not choose the root of a card or internal storage.</string>
+    <string name="ui_9300000d">This folder is used to recognize existing saves. It is not a ROM folder and selecting it does not back up saves. Choose the folder DraStic actually uses. You can add it later; browsing games does not require it.</string>
+    <string name="ui_9300000e">Current folder: </string>
+    <string name="ui_9300000f">Not selected</string>
+    <string name="ui_93000010">Cannot read this folder. Your previous folder is retained. Enter an actual subfolder and allow read access.</string>
+    <string name="ui_93000011">Folder verified and readable</string>
+    <string name="ui_93000012">Checking folder…</string>
+    <string name="ui_93000013">Setup will organize game information and fetch missing covers when the network allows. You can pause at any time.</string>
+    <string name="ui_93000014">Local information is ready; covers are waiting for a network</string>
+    <string name="ui_93000015">Game folder</string>
+    <string name="ui_93000016">Save folder</string>
+  <string name="ui_d100000001">" entry"</string>
+  <string name="ui_d100000002">" entries"</string>
+
+<string name="ui_11000000">Single cover task finished</string>
+<string name="ui_11000001">Cover task finished</string>
+<string name="ui_11000002">Offline matching finished</string>
+<string name="ui_11000003">Organization finished</string>
+<string name="ui_11000004"> · Gaps remain</string>
+<string name="ui_11000005">Data status · Decisions</string>
+<string name="ui_11000006">Automatic cover work</string>
+<string name="ui_11000007">Content package gaps</string>
+<string name="ui_11000008">Counts use unique games; groups may overlap. Only conflicts require a decision. Covers can be fetched automatically; text gaps await content updates.</string>
+<string name="ui_11000009">This task added / reused: </string>
+<string name="ui_1100000a">Missing / decisions: </string>
+<string name="ui_1100000b">Downloads / failed: </string>
+<string name="ui_1100000c">Local image read and linked</string>
+<string name="ui_1100000d">Cover association needs evidence</string>
+    <string name="ui_fa130001">TwinGrid was formerly known as RGDS Shell.</string>
+</resources>

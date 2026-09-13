@@ -1,0 +1,58 @@
+{
+  "product": "TwinGrid",
+  "package": "com.rgds.ultimate.shell",
+  "versionName": "0.9.0",
+  "versionCode": 135,
+  "apk": {
+    "filename": "TwinGrid-0.9.0-code135.apk",
+    "size": 6989166,
+    "sha256": "faeaaafb0ce44658fc0a81a09face069aa1c51b0599c3fefcfc1134528dc067b",
+    "certificateSHA256": "1e9019315ba95df9a5cfd51c5bc81d81db472bcb5cdc10e9c055054d32494a3e"
+  },
+  "catalog": {
+    "version": "2026.09.09-textbuild01-code113",
+    "sha256": "ad64ec385522e64b5c1b388bb30c898cee3267a84245f334657ddb9fee50414f",
+    "manifestSHA256": "0f6151c9ed40811427508e7c68713a3e6754fd668a9707aa24becf53661a153f",
+    "works": 3417,
+    "releases": 7701,
+    "editedBilingualWorks": 1360,
+    "fullBilingualComplete": false
+  },
+  "buildTimestamp": "2026-09-13T13:15:01.2808835+08:00",
+  "testedTarget": {
+    "device": "Anbernic RG DS",
+    "firmware": "V1.18 stock",
+    "android": 14,
+    "api": 34,
+    "drasticPackage": "com.dsemu.drastic",
+    "drasticApkSHA256": "4c9bd23fc7a3366f73bbcba4aef2858bfa3a3568b376160792322ed431180189"
+  },
+  "tag": "v0.9.0-beta.1-code135",
+  "prerelease": true,
+  "knownCompatibilityNotes": [
+    "GammaOS not fully verified",
+    "Gamma Nano native runner not integrated",
+    "Other Android DraStic builds require controlled compatibility testing and may not load the selected ROM",
+    "code135 targeted physical UI and preservation checks; broad core regression is historical code134",
+    "Historical bulk-read incident root cause remains unknown"
+  ],
+  "binaryManifestFlags": {
+    "debuggable": false,
+    "testOnly": false,
+    "allowBackup": false,
+    "usesCleartextTraffic": false
+  },
+  "signatureSchemes": {
+    "v2": true,
+    "v3": true
+  },
+  "publicRebuild": {
+    "unsigned": true,
+    "codeAndResourcePayloadsIdentical": true,
+    "onlyEntryDifferences": [
+      "META-INF/ANDROIDD.RSA",
+      "META-INF/ANDROIDD.SF",
+      "META-INF/MANIFEST.MF"
+    ]
+  }
+}

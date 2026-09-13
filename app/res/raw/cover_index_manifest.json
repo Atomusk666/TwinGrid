@@ -1,0 +1,11 @@
+{
+  "version": "2026.09.09-code112-a119dcab8fa0",
+  "revision": "a119dcab8fa04c9974b9c229eda824318d923322",
+  "treeSHA1": "7aad4cd04862e2e501a8a35bae5ef29018a0e33f",
+  "bytes": 1023852,
+  "sha256": "74ba6cf47c411995b86f20d11153f77a5438a516d9af767bcc63d39231546164",
+  "resources": 7335,
+  "imageBytesBundled": 0,
+  "provider": "libretro-thumbnails",
+  "usage": "Personal runtime retrieval from upstream; no grant of artwork redistribution rights. Upstream export can lag; bytes must match recorded Git blob digest."
+}

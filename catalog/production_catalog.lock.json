@@ -1,0 +1,9 @@
+{
+  "version": "2026.09.09-textbuild01-code113",
+  "files": {
+    "nds_catalog.sqlite": "ad64ec385522e64b5c1b388bb30c898cee3267a84245f334657ddb9fee50414f",
+    "nds_catalog_manifest.json": "0f6151c9ed40811427508e7c68713a3e6754fd668a9707aa24becf53661a153f"
+  },
+  "source": "catalog/RGDS_TextBuild01/data",
+  "baselineSHA256": "f1f2f534e9c031eeeed3d6175ade0c04b4f72a87dbc31daa69db30cebb583fb5"
+}

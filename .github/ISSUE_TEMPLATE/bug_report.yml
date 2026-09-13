@@ -1,0 +1,39 @@
+name: Bug report
+description: Report unexpected TwinGrid behavior
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "Do NOT upload ROMs or save files. Remove private paths, serials, credentials and account details from screenshots or logs."
+  - type: input
+    id: version
+    attributes:
+      label: TwinGrid version and code
+      placeholder: "0.9.0 / code135"
+    validations:
+      required: true
+  - type: input
+    id: firmware
+    attributes:
+      label: Device and firmware
+      placeholder: "Anbernic RG DS / stock V1.18 / Android 14"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Describe the starting screen and the buttons or touches used.
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshot or redacted log excerpt
+      description: Optional. Do not attach complete device logs or private archives.

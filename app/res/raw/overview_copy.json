@@ -1,0 +1,2111 @@
+{
+  "revision": 113,
+  "drafts": [
+    {
+      "workId": "nds-cea83cfe-c581-575e-9cd8-4580cd2ab5e2",
+      "locale": "en",
+      "sourceSHA256": "360602d05daff7a28d638e32d7ef90937b039b8a350326adf0916af6fedfd114",
+      "text": "Switch between Jonathan and Charlotte to combine their different abilities in two-dimensional exploration and combat inside Castlevania.",
+      "provenance": "Condensed from this exact bundled summary; mechanics checked against source paragraph; no new gameplay claims",
+      "review": "Codex source-to-draft comparison; user approval not implied",
+      "evidenceSHA256": "acb934b390de07e0b1cdebd8dc8e405751e54650f3088be3420994d014b54782"
+    },
+    {
+      "workId": "nds-cea83cfe-c581-575e-9cd8-4580cd2ab5e2",
+      "locale": "zh",
+      "sourceSHA256": "23165ecc448b96d001c834ca598f909cb3fbebc4d25035b996758078e498ce34",
+      "text": "在二维恶魔城中切换乔纳森与夏洛特，配合两人的不同能力战斗、探索并越过障碍，调查城堡再现的原因。",
+      "provenance": "Condensed from this exact bundled summary; mechanics checked against source paragraph; no new gameplay claims",
+      "review": "Codex source-to-draft comparison; user approval not implied",
+      "evidenceSHA256": "ac79d4d11f71f48f24c08d67ad3595087681c529ef78056a908eb69f7e00d981"
+    },
+    {
+      "workId": "nds-04d45ca7-30b4-5651-b729-949ebcb80acd",
+      "locale": "en",
+      "sourceSHA256": "48a0bd3a79ede4e0812d4fdfe52ab1387d25e7b3094451bbc1c10777afc8f0d9",
+      "text": "Fight Yoma with Clare's sword and locate foes on the lower-screen radar. Release Yoki for stronger attacks or healing, but excessive use causes awakening and failure.",
+      "provenance": "Condensed from this exact bundled summary; mechanics checked against source paragraph; no new gameplay claims",
+      "review": "Codex source-to-draft comparison; user approval not implied",
+      "evidenceSHA256": "230c1ed238267d415770c6a8659ecb9fcccd9f888f4e5621520e4f946abca59a"
+    },
+    {
+      "workId": "nds-04d45ca7-30b4-5651-b729-949ebcb80acd",
+      "locale": "zh",
+      "sourceSHA256": "3d3f1e913ff765c141d31c0a9cf2650b5981a2da28c6220cb2174c284710e830",
+      "text": "操控克蕾雅挥剑迎战妖魔，用下屏雷达寻找敌人。释放妖力可强化攻击或恢复体力，但过度使用会觉醒并失败，需要控制收益与风险。",
+      "provenance": "Condensed from this exact bundled summary; mechanics checked against source paragraph; no new gameplay claims",
+      "review": "Codex source-to-draft comparison; user approval not implied",
+      "evidenceSHA256": "3a6c49a66fd0c6e8dce73a52b8a60c60609ceb8c39003d73eadf097d22759b75"
+    },
+    {
+      "workId": "nds-3f0cd564-393e-5429-bdd2-d5a19feb0d9e",
+      "locale": "en",
+      "sourceSHA256": "1de2036f6a7232b2f6015c666288a8192ffd37174a57b41f53bada81b6ae5960",
+      "text": "Drive a train across Hyrule, plan routes and use its cannon. In dungeons, guide Link and a stylus-controlled Phantom past enemies and obstacles.",
+      "provenance": "Condensed from this exact bundled summary; mechanics checked against source paragraph; no new gameplay claims",
+      "review": "Codex source-to-draft comparison; user approval not implied",
+      "evidenceSHA256": "473f685103de837f0a8e723c076ba38591b4811c6b0347eaa6feae2968519d2d"
+    },
+    {
+      "workId": "nds-3f0cd564-393e-5429-bdd2-d5a19feb0d9e",
+      "locale": "zh",
+      "sourceSHA256": "7ec3d346284a9fb5909eb6cdcca49634857f7e2b904a3799c1a03179be1aa581",
+      "text": "驾驶火车规划路线、控制速度并开炮清除障碍；进入迷宫后，用触控笔指挥幻影铠甲抵挡敌人、跨越危险或搬运林克，配合两人的能力解开机关。",
+      "provenance": "Condensed from this exact bundled summary; mechanics checked against source paragraph; no new gameplay claims",
+      "review": "Codex source-to-draft comparison; user approval not implied",
+      "evidenceSHA256": "d250fc6efe1f1d5cd3d1a3b2f61a192eaa0a93de2a3d673ff1805e1c91a91c5a"
+    },
+    {
+      "workId": "nds-962daea8-42d9-581d-ada8-1fdf09e4d5bb",
+      "locale": "zh",
+      "sourceSHA256": "f32827d89368b978e62de80e1ae5a0f80347ab50f0bd8220f5985a1cecc62b10",
+      "evidenceSHA256": "e223cab6d7ba9675b9aeb404e254dfec63b5bf77d255418828b27493c16af855",
+      "text": "借助超能力腰带穿越比奇堡，在探索路线中使用跳跃、速度和力量等能力。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-962daea8-42d9-581d-ada8-1fdf09e4d5bb",
+      "locale": "en",
+      "sourceSHA256": "de8e33a8282fbae98bf13ee1ce7397d488e391b177163fa5e83294d66ef9312d",
+      "evidenceSHA256": "76704b4394dec8e32f82f867b5246138639a48f586054510b49a11cc74139205",
+      "text": "Explore Bikini Bottom with a belt that grants powers including enhanced jumping, speed and strength.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-15d06b12-600f-58fd-9f2a-df83c3d4433c",
+      "locale": "zh",
+      "sourceSHA256": "5bf5f3873edee3d669bb35eab633b4eb7bdc190da72c3fd3375da455886921a3",
+      "evidenceSHA256": "32e4f725182aeaba0cc968cec988ce699ca0fe41978b388ebb23dd68e6d6d7be",
+      "text": "DS版沿横向关卡移动，解决通路上的移动谜题并与敌人交战。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-15d06b12-600f-58fd-9f2a-df83c3d4433c",
+      "locale": "en",
+      "sourceSHA256": "bc4298e227b24d56fa55cb6a7c22ee9788156ae8ddef5552d8734219b3ec1ad0",
+      "evidenceSHA256": "682220be3d22129b8ee1e6e5cad1b4f2ec1969836c0335266f9eeb744318ac08",
+      "text": "The DS game uses side-scrolling stages with movement puzzles and combat.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-d2f887f2-7866-5769-b160-1df41ac20717",
+      "locale": "zh",
+      "sourceSHA256": "860b88f97950db7b1b6c078033b43eedac30515882431d6e23214c4f5d22b9fb",
+      "evidenceSHA256": "85bfa7df8a5a8bda9bb83bbfff350d721efe09fa43dd846a1f174de96161638d",
+      "text": "在海底工厂、街道和野外关卡中跳跃前进，处理沿途机器人和平台障碍。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-d2f887f2-7866-5769-b160-1df41ac20717",
+      "locale": "en",
+      "sourceSHA256": "2d9aeef2147b8ca3e755e5e9736878b491ba754536422efa9e39fbb1b5f0f3ec",
+      "evidenceSHA256": "50b78da3a68b73f5b28935e37a005e7e80d514416257df6634f24c8d100cbcf0",
+      "text": "Jump through underwater factories, streets and outdoor stages while fighting robots.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-36a59e10-8fac-5f71-83ce-7a1bfae0cb5d",
+      "locale": "zh",
+      "sourceSHA256": "8aa803ae0a0e79a0ff178e2bc5decedb8522dec4d4ce67c6223e7dbfb13d9557",
+      "evidenceSHA256": "b87ed04005db7695f017201f4a94a2dbf5e27ea15067e41d0bd1e4cf0982190a",
+      "text": "以乐队工作人员的身份度过为期三个月的职业体验，可围绕化妆师、造型师等工作方向参与演出筹备。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-36a59e10-8fac-5f71-83ce-7a1bfae0cb5d",
+      "locale": "en",
+      "sourceSHA256": "f1edf0ac9cc60a579d4e04d41649d1543b851de65f42ec41d3938636536d6703",
+      "evidenceSHA256": "24056efddacc3a0630e268e76a7929abe535f4fae58303308d69e8bcc47c2fad",
+      "text": "Spend three months working behind the scenes with the bands, following professional roles such as makeup artist or fashion stylist.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-abdcee09-05fa-5a1b-88c5-dd958501fe8b",
+      "locale": "zh",
+      "sourceSHA256": "645b064d6b5fae3bcbefdc9dc3e4501ce245446c7ab02428f07a3501f8b3829b",
+      "evidenceSHA256": "815593eb749e8b14ed135b3a2d4b7423752cac3fe63b9e60845a1d58ef27bd16",
+      "text": "DS版以连续跳跃、攀爬等杂技式移动为主，穿插短暂战斗。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-abdcee09-05fa-5a1b-88c5-dd958501fe8b",
+      "locale": "en",
+      "sourceSHA256": "5a9e2b76183f5c88d81f2be7ea587a0f04359075675792c93288acb78099eb8e",
+      "evidenceSHA256": "009ee73e3ca0e869ca5ab0d81d702af4ba7ea87ff1bec6638428c940c5723c87",
+      "text": "The DS version emphasizes acrobatic traversal, including jumps and climbing, with occasional fights between movement sections.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-4ab049a3-ecd5-5ebe-99aa-0ae75b1325f1",
+      "locale": "zh",
+      "sourceSHA256": "3bd8d21556f9608b9566c542128dde134c666cb245ceaf5503567ca4fdec2124",
+      "evidenceSHA256": "5db49ca562b4b08864ce2d6f4d9a5dff4afdb68cd23fc8f17d9b5bbef3719a4b",
+      "text": "DS版采用横向动作关卡，方向键负责移动、跳跃和冲刺，攻击由触控笔输入。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-4ab049a3-ecd5-5ebe-99aa-0ae75b1325f1",
+      "locale": "en",
+      "sourceSHA256": "9315008670c861863706548be43d100789e0b5ac757961a88877fec9e6e09a8f",
+      "evidenceSHA256": "ec2148511b06b684b2c9df79fe0115a360d1a9dbc433f850b9c964236f9d2cfa",
+      "text": "The DS game is a side-scrolling brawler: the directional pad handles movement, jumping and dashing, while the stylus controls attacks.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-6679820f-c26c-54ce-b9fc-ce0fc6e99eac",
+      "locale": "zh",
+      "sourceSHA256": "0f5e6b18782504e4da3de45bf88c68e0959f1bc60e702b9d61c89c1c5c47d3b0",
+      "evidenceSHA256": "2c0afe72fd28ed65f6d6ed08c0d3e2aad2e9d64d964a4cc54aced117f885ba25",
+      "text": "在任务中结合光剑与原力对付敌人，DS版通过触屏上的动作区域输入攻击。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-6679820f-c26c-54ce-b9fc-ce0fc6e99eac",
+      "locale": "en",
+      "sourceSHA256": "e191aa85e6af07ee6bcc288bf38ae789b676141c9c87977ffcbbd9b72c2feaff",
+      "evidenceSHA256": "5abaa965e1b0c8edcd0ee4336268f283ec72b7fadabc34ee327cb63ffaac9f23",
+      "text": "Fight through missions using a lightsaber and Force abilities.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-33657ee0-440f-5664-9f6e-1e756e7634c7",
+      "locale": "zh",
+      "sourceSHA256": "2d47dde5ae443eb8f8d62145cd661ad72664e87968d841045c43764840032dee",
+      "evidenceSHA256": "2620cd5598399996ffad9cee0cbd880dd5166363cec03ff4f571df61e680e852",
+      "text": "以斜俯视视角操作漫威英雄穿过关卡并击败敌人，使用拳脚、武器和角色能力处理战斗。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-33657ee0-440f-5664-9f6e-1e756e7634c7",
+      "locale": "en",
+      "sourceSHA256": "3c02a035c4297875fa6d0ddbc2858f165c0fb6c58a1fdd2ca7ed06d3c2858ff6",
+      "evidenceSHA256": "1f044b99b3a275c74954dbadf360c50d0bfc8bb24d7a6928afabbcdcd0d05796",
+      "text": "Control Marvel heroes from an overhead angled view, moving through stages and fighting with punches, weapons and character powers.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-e25b6208-6b38-5a0a-a821-671d85f1393b",
+      "locale": "zh",
+      "sourceSHA256": "9d71dd313850489130239cd104a66027478329ba6e56eb214c99b8ea61cfaeb6",
+      "evidenceSHA256": "6f93d04afbf289c68843bd66c253ea556c83cc10c1d95c7353d543d193fe3e12",
+      "text": "用触屏施放魔法并与龙沟通，在冒险中提升战斗、法术与武器能力。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-e25b6208-6b38-5a0a-a821-671d85f1393b",
+      "locale": "en",
+      "sourceSHA256": "8a43d8cf4da3a4022a14aa4c97972a359ef5ebf02f3a10673f4c9ce757c690d0",
+      "evidenceSHA256": "beed1d954d7cf45aeec0f89dbbf3895037eeee74787b108f3071c269ab2bb1f7",
+      "text": "Use the touch screen for magic and communication with the dragon, then develop combat skills, spells and weapons as the adventure progresses.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-615e94c3-3307-5d19-bbac-34eeb8939f9f",
+      "locale": "zh",
+      "sourceSHA256": "c389d0251af46e09fe9374d0051ed58fbab0bb0ea924dd1407d23cd931a187eb",
+      "evidenceSHA256": "c15b36dff6a29768c899e283add926fc0068b7e32af696e202b9be2baa442165",
+      "text": "沿2.5D横向场景奔跑、攀爬和跳跃，可利用边沿或藏身位置接近目标。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-615e94c3-3307-5d19-bbac-34eeb8939f9f",
+      "locale": "en",
+      "sourceSHA256": "0e5eaf769445da6b9740245fe95753744f63c24a3aaa447d34beff23c3bec444",
+      "evidenceSHA256": "62981891631fe213c79bb14db5d98c9452736e9acace60c310ae3421570bc6fc",
+      "text": "Run, climb and jump through 2.5D side-scrolling environments, using ledges and hiding places to approach objectives.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-78237b84-4e68-5912-9c95-4ad6824fc9a1",
+      "locale": "zh",
+      "sourceSHA256": "8c82bdaac06ee5862ec41b7e5809c1fb2e0903373e2c56f2480845935dc523c2",
+      "evidenceSHA256": "c3a29bc79e54c5aabd8c20e11dc6ec8fccce51ef4f6a8888e123c1d3acd357f4",
+      "text": "在塞伯坦的任务关卡中操作博派角色，与机器人敌人及大型头目交战。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-78237b84-4e68-5912-9c95-4ad6824fc9a1",
+      "locale": "en",
+      "sourceSHA256": "892e4de3cca2e55897e4f753edc3f9632cf14f2bdce8cb8817c426660fd642ad",
+      "evidenceSHA256": "9224bf3756e18d9a0295a1b90df5a508e2e4afe2f709947d163db84ba4cc1473",
+      "text": "Control Autobot characters through missions on Cybertron, fighting robotic enemies and larger bosses.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-f8b9ae71-029d-51c7-a44a-409f71a15083",
+      "locale": "zh",
+      "sourceSHA256": "a1608695378598f5e5944485f6d9439b9beee1081b057f954b6637993a531af3",
+      "evidenceSHA256": "c00737a0d65d46ff0c3909d910e09b40f653a8d81d00d4cf07d4ead4fca90f56",
+      "text": "蕾安娜负责射击和平台移动，机器人Zeeo则协助通过墙面、天花板或狭窄通道。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-f8b9ae71-029d-51c7-a44a-409f71a15083",
+      "locale": "en",
+      "sourceSHA256": "479ca72a1d70e25b7ffce2eca8523992486a458913605aebe46b7eb660c3441e",
+      "evidenceSHA256": "27a1b35bb2a60f84cf88904ecbfe636f34eb88ffe474fcb519cbabab905584ae",
+      "text": "Rianna handles shooting and platform traversal while Zeeo assists through walls, ceilings and confined routes.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-06ee17f7-cc23-5a4a-ad74-2a38aa971ad9",
+      "locale": "zh",
+      "sourceSHA256": "eaef0b853264b3189eb0ad5cb03f7b0f77c84f3d42db046fa9b55489f4c4d92d",
+      "evidenceSHA256": "8ac302b3911fe28ee46976ed740e82eda088ad0e12f9556b6762b1d28d0a75af",
+      "text": "DS版从世界地图进入二维平台关卡，经过跳跃和战斗后挑战头目。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-06ee17f7-cc23-5a4a-ad74-2a38aa971ad9",
+      "locale": "en",
+      "sourceSHA256": "41c4f7caec1cb4bd64fde04ffabf19ab3a2f31fbebd6574b71cce148b025c46c",
+      "evidenceSHA256": "ad0be4f170c877e892fbb91f25d3bf948358ad1d10ce1c7df3a023beea0ba8bc",
+      "text": "The DS version offers two-dimensional platform stages selected from a world map, with boss encounters along the way.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-ac0b1b72-7fe5-5085-9f67-8ae0ab5e0bba",
+      "locale": "zh",
+      "sourceSHA256": "11eac71baa3ecf2873de704e21a933650edb79b8a62b50f4d7a2654846e7436e",
+      "evidenceSHA256": "88eba82c8598ed05b78b63016a5adf996f8359d34bed2b72232e0da8b468ea3d",
+      "text": "关卡交替使用横向近战、平台跳跃与飞行射击。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-ac0b1b72-7fe5-5085-9f67-8ae0ab5e0bba",
+      "locale": "en",
+      "sourceSHA256": "57f4db34162db4f82472d7f33c854b227c976aa61d99e760dd1a236da8daa959",
+      "evidenceSHA256": "4727a2498a5ba0b11bb32fc0d3d5cfeeef8c19af154bc4ed0415898569144b76",
+      "text": "Stages alternate side-scrolling melee combat, platforming and horizontal shooting.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-fcedffea-60f0-5833-b8e1-94b1fdf32d5f",
+      "locale": "zh",
+      "sourceSHA256": "6bfe0097f34267a023a97b04d042c34432f559ea1a75e1c454e8f6ef6d81e4c5",
+      "evidenceSHA256": "4e2b7ba99b43cadf569268dd6e36c61f1151c2842f02aa55f834b11764e04aa7",
+      "text": "方向键控制移动、跳跃、爬墙与蛛丝摆荡，触屏划动或点按输入拳脚、蛛丝和特殊招式。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-fcedffea-60f0-5833-b8e1-94b1fdf32d5f",
+      "locale": "en",
+      "sourceSHA256": "e6704ecb60d325c89e9ea44fd0c4bab62550e299ce9a90be89bed124b8097cc6",
+      "evidenceSHA256": "870d42d9308dd671a6404869ab7bdd561515b3271128fcd3586600dcd0e92d89",
+      "text": "The directional pad handles movement, jumping, wall crawling and web swinging; touch gestures trigger strikes, web attacks and special moves.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-3fd8164a-62b9-5a03-9915-a0b3ff30e8ad",
+      "locale": "zh",
+      "sourceSHA256": "6fa2796489b147b13205c6111ae58e51ac0d2d56f0aed140ac4ffa6efa7b9d5c",
+      "evidenceSHA256": "a3fb9098c5eb249e1f03cca451bd1cd5b8c44650757e6968e3f6db6d56c1581f",
+      "text": "原版DS战斗在二维场地展开，直接操作一名角色，与队友配合衔接攻击和技能。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-3fd8164a-62b9-5a03-9915-a0b3ff30e8ad",
+      "locale": "en",
+      "sourceSHA256": "f1ba22c01ac2fedc7dd7fa556dbce4e05cb7d3da83600315fe9d64f7247384ec",
+      "evidenceSHA256": "25c0b022505733cd7542d7b048f0446642d5ffd9c51b628bf7b70978d7128878",
+      "text": "The original DS battles take place in a two-dimensional arena, with one directly controlled character fighting alongside allies.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-c9a1ab0c-fcfb-5bc9-84b1-4ca66be8c479",
+      "locale": "zh",
+      "sourceSHA256": "a18c3e315c786b6bcb0133b5ec12d8d976737bd7632080eda21f7a36fa81c5ab",
+      "evidenceSHA256": "42e3e255b742b1b7c0c8177992c8d3a569164109aa7aaba5f9cde5a388bce2c0",
+      "text": "组建不同职业的队伍，在城镇、野外与迷宫之间探索，以回合制指令应对敌人。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-c9a1ab0c-fcfb-5bc9-84b1-4ca66be8c479",
+      "locale": "en",
+      "sourceSHA256": "c277c9f7a14fc9f29aa946fc280ea2317f0ad9ff36ed08891b48f09cb8984421",
+      "evidenceSHA256": "58a4f890c884f3e9d30ef1a0ff824c19ece49a1e4a0f04ef45d1598844275c73",
+      "text": "Build a party from different classes and explore towns, fields and dungeons through turn-based encounters.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-d2092b6f-2dd6-58d4-bc04-4bbca804b0dc",
+      "locale": "zh",
+      "sourceSHA256": "28f2dc2f215f6b2b393b26378c304665185ea8e2924d49a999fa493b24a3be0d",
+      "evidenceSHA256": "6c86acf017aa736ab7eb05d374e4be9e4d4830ab22a250ccb19165a69d940802",
+      "text": "DS版通过回合指令和队伍站位进行战斗，也可运用幻兽能力。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-d2092b6f-2dd6-58d4-bc04-4bbca804b0dc",
+      "locale": "en",
+      "sourceSHA256": "deb433213f96d8ec7a9858cc44d646a6599c1368f9bc7c45f540e02c30c85369",
+      "evidenceSHA256": "ab351a89d0f9fe01724a4e68bf8d91575237535a970c17831eaadd80d907af39",
+      "text": "The DS version uses turn-based commands and party positioning in battles, alongside familiar abilities.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-0bb42c30-2551-5a95-b579-49a783c1d8af",
+      "locale": "zh",
+      "sourceSHA256": "f585507df184937755cb7c9957bfd264f1d31fb81886da6ed34db2ce8f7f9bef",
+      "evidenceSHA256": "fca05f37fcbcb3aa8d0f4e868ef266a5fcb359d4c846d04a0a2d0efcaefb97a2",
+      "text": "故事对话之后进入自动生成的迷宫，应对敌人、陷阱并搜集物品。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-0bb42c30-2551-5a95-b579-49a783c1d8af",
+      "locale": "en",
+      "sourceSHA256": "0772c65dbcd2edce56963d434fd2f1eb1429478c19f17edb5d5f9705f71f1131",
+      "evidenceSHA256": "9f8ada435c35ba28b77b4c6692c928fded58ecdb0aaf680032c3ea3099599e15",
+      "text": "Enter automatically generated dungeons between story conversations, dealing with enemies and traps while gathering items.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-3ab44e88-8aa2-5d33-bc8b-9f06d5357745",
+      "locale": "zh",
+      "sourceSHA256": "ec1fab8494bf7bf6a603f382802dd05cef0f311a4ae8fa034ea50f21aceb26b6",
+      "evidenceSHA256": "1771e947352340d020240e11d940ce12fe9da159c693ca41f57ade93d253ff99",
+      "text": "围绕迷宫探索安排移动、战斗和道具使用，壶等物品具有不同用途：有的存放物品，有的提供特殊效果。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-3ab44e88-8aa2-5d33-bc8b-9f06d5357745",
+      "locale": "en",
+      "sourceSHA256": "1e043b10b47caa89530e5d449e8d83be29e139be5a8ef66696542b48826fc691",
+      "evidenceSHA256": "96b70c3b432802e8990cee953ba5deb02949325accb698e1e82d5bcdcf9cf654",
+      "text": "Advance through dungeons by balancing movement, combat and item use.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-6577a2a2-ba7d-520f-bed8-b9ce026804d0",
+      "locale": "zh",
+      "sourceSHA256": "75a7a1f94ccfbee29a4a904550ad5954df60ed6f86f90f065207212b7b942bc7",
+      "evidenceSHA256": "9074a9c2d96a8232d6fb9b18bc63ac86981ad45046b6a805501b4dc0c217e2be",
+      "text": "在未来篇背景的角色扮演流程中推进剧情与战斗，利用指环装备系统调整角色配置。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-6577a2a2-ba7d-520f-bed8-b9ce026804d0",
+      "locale": "en",
+      "sourceSHA256": "db4fcc08084ba60dc69e36e80480dbb1c087adc42fd1a3909031178998c6f093",
+      "evidenceSHA256": "3fa51574270d1655021e1f00d8a8b0ba8b7f5059ce7d0f19b53d5c068eca3cdc",
+      "text": "Progress through story events and battles in an RPG set during the Future arc.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-bcdababe-e478-5b67-87bd-25f4588afb0d",
+      "locale": "zh",
+      "sourceSHA256": "ce9bd39257ffe59693a01620aed7f7feb1fae59ff24fd98bd78132aed00ccb9b",
+      "evidenceSHA256": "8b55cf37c866ed674820127ac1a55aff931d6e42a626de379999fcdfae4c5051",
+      "text": "在回合战斗中分配行动资源，组合攻击推进战局，并通过成长资源强化技能。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-bcdababe-e478-5b67-87bd-25f4588afb0d",
+      "locale": "en",
+      "sourceSHA256": "43f31b0bbd87414030a0d930d2964834115e46be37142821acce6802fdca3d5e",
+      "evidenceSHA256": "88bda9947bbd24bc5764c808c7f3df7f4807cc5411cb8749ca0cf296ef445ac1",
+      "text": "Allocate action resources during turn-based battles and combine attacks to advance encounters.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-ad900e6d-b5a4-5682-9a65-0cdcb131b0d7",
+      "locale": "zh",
+      "sourceSHA256": "5e49193def18f98fe78f0ac6b14c453f735bc51d99b61d535a503c265fb29ec8",
+      "evidenceSHA256": "cf088583684819ce361de874d0782c8a396ef1115773e57db8854c868ed6d7f4",
+      "text": "带领漫威英雄队伍穿过多层任务场景，结合近身攻击和雷电等超能力对付敌人。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-ad900e6d-b5a4-5682-9a65-0cdcb131b0d7",
+      "locale": "en",
+      "sourceSHA256": "2231efa5524ae350f468900462d9cdba97a5897766e265d9eb4d559145d2eebe",
+      "evidenceSHA256": "05d484a6d56549c97a64a5ffd644648ceb63e8b1368d01fe9ef33724e6e0c0ad",
+      "text": "Lead Marvel heroes through multi-level missions, combining close-range attacks with powers such as lightning.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-5982c583-b6dd-5125-a4fc-863e38599596",
+      "locale": "zh",
+      "sourceSHA256": "124e549b123ed3272b63f6a83624fac7624cf0d22b3724ecd5684c70dcea86e9",
+      "evidenceSHA256": "73e4451a889f40da0f9896f3ebabfd70d3cfdb8b52a8893af12ce34180796447",
+      "text": "在格子地图上调度小队，接敌后用回合指令与恶魔能力展开战斗。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-5982c583-b6dd-5125-a4fc-863e38599596",
+      "locale": "en",
+      "sourceSHA256": "bc6b0608d6b7c77b2ab4797039ae8b3eebb38c4dd84d956f1e7d9f7aa002462f",
+      "evidenceSHA256": "7013407b6e1e7b61465ab7a35b2aa4ad87e9cb7479784dd5064c7f6f9e78f614",
+      "text": "Move teams across a tactical grid, then use turn-based commands and demon abilities in encounters.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-c0df641c-4733-512a-a174-d2e631f0d00d",
+      "locale": "zh",
+      "sourceSHA256": "7c203e0dc3a1f42e3b80a981e889a39b17fade757b1fd43fd9fb1699ae8f7de5",
+      "evidenceSHA256": "e509980a18fedc2bba97028739ae66a03e735635c8268a99b3b4b79dce9cbace",
+      "text": "回合轮到角色时，按时机衔接预设攻击，将敌人维持在浮空状态以延续连击。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-c0df641c-4733-512a-a174-d2e631f0d00d",
+      "locale": "en",
+      "sourceSHA256": "064b79c0b64bac36f51b1196fcc2a59c5c59d21d96d6fd396c3eddb3f4b7b86e",
+      "evidenceSHA256": "20690131ea4049e8864f39e97c0f8e12636c5dc57770ada98adf6ddab00adefd",
+      "text": "When a character's turn arrives, time inputs to connect preset attacks and keep an enemy airborne.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-6b3f254b-dc8c-5f0b-a31b-7254e3e04be0",
+      "locale": "zh",
+      "sourceSHA256": "96cdfa8f9f04082843072b9bdb37b374043db33228536c45029acee43e40797c",
+      "evidenceSHA256": "91bf295a9fa2514e34bfc421499efdddb5da05e886e0658dfc114cef3e7a7af1",
+      "text": "在废土上探索城镇与危险区域，驾驶并改造战车，追捕有赏金的强敌。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-6b3f254b-dc8c-5f0b-a31b-7254e3e04be0",
+      "locale": "en",
+      "sourceSHA256": "c4f008855ee8cd3ab955f78ef6098bdf8eb3b7039ea95a0cb91f90dc9813ee00",
+      "evidenceSHA256": "8133f15a0d53ce14301265528afbbdebb46ad3d6835f3775bccfdf34813855f4",
+      "text": "Explore settlements and dangerous areas across the wasteland, drive and customize tanks, and hunt powerful wanted enemies.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-0a8cf60a-ed53-50e3-8817-128a0de66936",
+      "locale": "zh",
+      "sourceSHA256": "11276c0f895577db0ab0234377dd7d26352911a035f5284babd01bb61f05cb83",
+      "evidenceSHA256": "41a2d3d0996075df9fac50713538ec8d58753010134604cfd8951ca71118a4a8",
+      "text": "敌我交替行动，移动路线可与普通攻击结合，魔法等技能则有不同发动条件。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-0a8cf60a-ed53-50e3-8817-128a0de66936",
+      "locale": "en",
+      "sourceSHA256": "e6353c07ad896ab280bcd3270d3a28829bd70c00e666e5c445f30a22f61f7eda",
+      "evidenceSHA256": "9aaaa8e68afbf470bda5046cdf6bd20a0011e9e7f7ddf47ff9e08d49400f929b",
+      "text": "Player and enemy phases alternate, with movement routes supporting ordinary attacks while magic follows different activation conditions.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-0899a2e7-0aaf-5551-9d72-c80ad4fd59b3",
+      "locale": "zh",
+      "sourceSHA256": "bcf1934c960d2223a18fb0a8aab3a399c684cc8c00c3ad4a3190ab08cd309840",
+      "evidenceSHA256": "a948f445f0e6c2b7f26ca2527167b4ff7b9af1c91667408c91c5028761b21c6b",
+      "text": "在战棋地图上以主机与副机构成搭档单位，可交换主副位置并考虑机体奖励与支援条件。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-0899a2e7-0aaf-5551-9d72-c80ad4fd59b3",
+      "locale": "en",
+      "sourceSHA256": "5227cfec02dfe24989367781d4570aaea8f7a3cd528f77f4e4b35a07326054f0",
+      "evidenceSHA256": "82288a8dab3ca96b2e116c63da61b9cd2800c813a5439d743264f608ba39b585",
+      "text": "Form partner units with a main and sub machine on the tactical map.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-f57f69f9-6a29-526a-b891-cb988cc89e39",
+      "locale": "zh",
+      "sourceSHA256": "703cd473489df1b50a9aa3d631e460c5878c562a70e9c4074bebfa360503dbfb",
+      "evidenceSHA256": "3f3231b26bb471f8ee6466623039f1f77eea6f02e5a58114c1ba96a1798ca8f1",
+      "text": "在回合制战棋中安排机体移动与攻击，利用连击处理多个目标，并在条件允许时请求支援。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-f57f69f9-6a29-526a-b891-cb988cc89e39",
+      "locale": "en",
+      "sourceSHA256": "d86bbbcc583ce152700410f814f51ff9bef25a6914314cb31d70bfb8a8f45d09",
+      "evidenceSHA256": "00154b7daea9bba028029dc7b345b9798fb1e34aaa6e7fd0e357b1912798f837",
+      "text": "Arrange movement and attacks in turn-based tactical battles, using combo attacks against multiple targets and calling support when its conditions allow.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-ff0834b4-9c48-5175-8445-ebb0dbc170a8",
+      "locale": "zh",
+      "sourceSHA256": "1ea4a8cc2647f87d1fe54a950216d6172de94d54330e7cb21e07af06e66965a5",
+      "evidenceSHA256": "53196b94d1b8f788ba642a5bb0b07a74d186773afbbdccfc5b307b96c4ab31e1",
+      "text": "把原作赌局变成规则挑战：限定猜拳需要管理剩余卡牌和星数，E卡考验牌种克制与出牌判断。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-ff0834b4-9c48-5175-8445-ebb0dbc170a8",
+      "locale": "en",
+      "sourceSHA256": "993a6f418bdf91dccff07ed4af24a2fb77819ece754a607bb3b3efd9b82dae4f",
+      "evidenceSHA256": "613a0d882b37e5463b70d78f1ae4006b6356e61c06e76f512b117845538ebaf1",
+      "text": "The story's gambles become distinct rule-based challenges.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-fe210736-5dea-5820-91b8-43dbcfe6e5e5",
+      "locale": "zh",
+      "sourceSHA256": "f848ad17782cad4acb9db2b3d9b4df472f44c90d1a1fd8863c1e14fee20676f9",
+      "evidenceSHA256": "8d58b2d462b51e4552a3d25f9cd035555f17d18843b5f562e013de2dd291d289",
+      "text": "DS版沿横向场景跳跃、使用蛛丝摆荡，并以拳脚和蛛丝招式击败敌人及头目。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-fe210736-5dea-5820-91b8-43dbcfe6e5e5",
+      "locale": "en",
+      "sourceSHA256": "132528ee70344ff608b1745415a00c1124a1994b080956afec7b3a54aec67c33",
+      "evidenceSHA256": "d52b9add57277039920bc7d4343483f15668518022887ae1dd1cc2907b1dcc8d",
+      "text": "Jump and web-swing through side-scrolling environments in the DS version, fighting enemies and bosses with strikes and web moves.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-0f3f80c7-253c-5830-813e-d753c1a08e40",
+      "locale": "zh",
+      "sourceSHA256": "806da0c96b33bd0f108fa1da608b1665a3ca4b8cbda0ac665ef9f4c21e8c6446",
+      "evidenceSHA256": "b0147bec16f16a75b453da857a1b5e394e32083d088fa9988abee66659fb5e4b",
+      "text": "以第一人称视角参与SAS和海军陆战队的作战任务，在三维场景中观察目标并射击。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-0f3f80c7-253c-5830-813e-d753c1a08e40",
+      "locale": "en",
+      "sourceSHA256": "94e56e19ecae2d8d78b6bcf5349554aaa8937e6df7a1cc709cef2e9a2d8621a1",
+      "evidenceSHA256": "3adb66396a988b06dfd9ce79d029fe68f0207e57eab0f613287a5e0a43d6376d",
+      "text": "Play first-person combat missions involving SAS and Marine forces in three-dimensional environments.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-f32561b0-d6b1-5f08-be9d-402989c1889c",
+      "locale": "zh",
+      "sourceSHA256": "7d1793d5cc27a3bc10c7701934589cf910aa343d9798926b958ae44cc546111d",
+      "evidenceSHA256": "aeca111968d09f48f30975f3ac1883afb93db11ba4435f423d11327a1f9115ac",
+      "text": "通过阅读文字、观看角色表现并选择分支推进恋爱故事，选择会通向不同后续与结局。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-f32561b0-d6b1-5f08-be9d-402989c1889c",
+      "locale": "en",
+      "sourceSHA256": "2f7e7932195d0101909914da1aa4df24f28e803a9a44ede52b0d70aaf418ce19",
+      "evidenceSHA256": "baf913bba0a90556a00992d2f526a9b6db4cf0d31a3b7cb28158c9c6c82b803b",
+      "text": "Read dialogue and character scenes, then choose branches that lead toward different developments and endings.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-f115aa68-a3b2-5e9d-b27d-704e1555a9a9",
+      "locale": "zh",
+      "sourceSHA256": "c9b168925247671e367c91d408fffda9b1b0f1ed91635a16a8c8d39606801646",
+      "evidenceSHA256": "6536d68ddb766ea5fb2aa3e97d1c8bb5095ada9b1ee23e275cd72d8b964a5f08",
+      "text": "以一周为单位安排思考与行动，培养心情参数，并把契机种子放入对应角色的花盆来触发交流事件。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-f115aa68-a3b2-5e9d-b27d-704e1555a9a9",
+      "locale": "en",
+      "sourceSHA256": "63eae13087d9b515f7fb78cd04220a651fa3e0934f02fdb4748dc1da8ce5cf32",
+      "evidenceSHA256": "f5a879e26098533d13fcf5257ec00b81bb2a238d758a5997854c3dc62617c448",
+      "text": "Plan thoughts and actions a week at a time, develop emotional parameters and place opportunity seeds in character pots to trigger interactions.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-6f52e901-53c1-5b7a-95bd-77fb2439a004",
+      "locale": "zh",
+      "sourceSHA256": "32fbff3f51291d97cf19e29e7c5d9ee5c4d32bb6f5c06d40400d77fc24c0e19a",
+      "evidenceSHA256": "4a337abb317fd06725bfb8fa0892de8fc54d8c4157b08899002fd7f8107b3157",
+      "text": "阅读章节并选择交流对象和对话选项，借由好感变化推进角色事件与路线结局。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-6f52e901-53c1-5b7a-95bd-77fb2439a004",
+      "locale": "en",
+      "sourceSHA256": "308234b8fc780fa66fd2bddb91a93ced49afdd4d6ccc1b0a81a28581bf6e721a",
+      "evidenceSHA256": "f111d6b1858072431be4b50385959a6a8d454072ab769b8ac52765302c41e599",
+      "text": "Read chapters and choose conversation partners and dialogue responses to develop affection, character events and route endings.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-80910701-9a19-5676-b40e-4fdb1bd49204",
+      "locale": "zh",
+      "sourceSHA256": "32c9b59d5e03d58dee91243f63fc70f21123b2f1567c21e518b7b5a901ca579b",
+      "evidenceSHA256": "ed93c17598020a53ae2d5cac82c8c1ad87ff0727ea03f55f86fad83e22a24caf",
+      "text": "以公关部接待工作推进流程，通过服务客人、争取指名来偿还债务，并发展与成员的关系。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-80910701-9a19-5676-b40e-4fdb1bd49204",
+      "locale": "en",
+      "sourceSHA256": "cf4c5751767bfe49e728072f4a627efa8624f1958d9c8767242c503b034bdc3a",
+      "evidenceSHA256": "733c199be5c48b36ab7b9ef7a267f2e6d5258a19c0aa46a1f88a0871342d960d",
+      "text": "Work in the host club, serve guests and gain requests as part of repaying the debt while developing relationships with club members.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-7558e024-1b71-5c38-9966-64f582615d67",
+      "locale": "zh",
+      "sourceSHA256": "d5d7416600ae24cea906845b1d885a8b6f8487b516cd4e8c8274292e3367c134",
+      "evidenceSHA256": "8198ee4917ef8b346c0f56b34e52acc019e11fb43d12ff2525ad7bcbdd8db236",
+      "text": "操纵忍者猫参加不同地点的小型挑战，例如滑雪橇、奔牛和贡多拉竞速。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-7558e024-1b71-5c38-9966-64f582615d67",
+      "locale": "en",
+      "sourceSHA256": "c49f66ed45ef2386d20f6951128d143c442da1dfaf318271737d773a8d587529",
+      "evidenceSHA256": "49d6d873b5160f41ba82f089cacc9a06f566e407628db521103eba464728ac98",
+      "text": "Guide ninja cats through varied minigame challenges, including sledding, bull running and gondola racing.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-ff11edb1-d8b2-5f1b-a657-c344181d75e8",
+      "locale": "zh",
+      "sourceSHA256": "8bc3903b18e9d89b0fe63ae4a53b3a141bd48ed3560712232eb46f9b8f02310f",
+      "evidenceSHA256": "ea5301167f645be6c65cf2d81704ba433ddf3d6f4e08a37d3df2bd357bf9007a",
+      "text": "探索时运用地、水、火、风四类精神力解开机关，战斗中则用同样的元素力量应对敌人。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-ff11edb1-d8b2-5f1b-a657-c344181d75e8",
+      "locale": "en",
+      "sourceSHA256": "0d450bd29f132d2c6d29b33e1fe9d35a023a20520dcddf35fec4cf2da4157a9b",
+      "evidenceSHA256": "0df718e4279bc4308e2e1cddb71ac6f1a6d57917cc30bf236d61e24eee5d379f",
+      "text": "Exploration uses elemental Psynergy to solve obstacles, while the same powers also help the party in combat.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-f081015c-27cc-5149-bb00-6ce3c1da3978",
+      "locale": "zh",
+      "sourceSHA256": "4d6f00b4d31e45eb4049323acf05881d27b5f835be182b8ca33328a00e591bd1",
+      "evidenceSHA256": "d20ba14cbcb115e3fd7203fe21e1f00d360c3a127a8ac86c377ac8c995112d3d",
+      "text": "原版采用像书本一样竖握DS的方式。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-f081015c-27cc-5149-bb00-6ce3c1da3978",
+      "locale": "en",
+      "sourceSHA256": "efac69e4f65992bfb8d046567cd06c6a6644b6702e9c531534ab250dc3d9e02b",
+      "evidenceSHA256": "5d81615990b9f5867dfb0a969bf6a2a4edc24c4850a30820025f0931b10bb25b",
+      "text": "The original DS presentation is held sideways like a book.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-c439f94e-07ce-5bdb-b26f-d1ed510062f9",
+      "locale": "zh",
+      "sourceSHA256": "6971afb4fb5a0f9aab2f03a5f3b384a4df36616654b98e5a1a888d76adbe36ed",
+      "evidenceSHA256": "3b98624bed2f06690709852b0f648b8d0f4c9959983d067090595854188f8bbc",
+      "text": "战斗采用回合制，可通过触屏排列和选择战斗指令。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-c439f94e-07ce-5bdb-b26f-d1ed510062f9",
+      "locale": "en",
+      "sourceSHA256": "677d4cd6547d6e41eeea79d1808ca4ff4e542c72a8761e4ae44a270b6a09f87f",
+      "evidenceSHA256": "5ea46808b577549783270043468e9ab6ffcf38d7aaf40662e747e196c932a83e",
+      "text": "Battles are turn based, with touchscreen commands whose layout can be customized.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-5414adab-b8b5-5c87-9a85-482d9209f3b0",
+      "locale": "zh",
+      "sourceSHA256": "0df9a04b17ade599c021b7575d77e764be2407e0b8f42ca41e78f4301f31a29d",
+      "evidenceSHA256": "91c5a1bf625b2af79a6bab0a0b5768249d29c1b5e9c40d2fce3086d49890cf1b",
+      "text": "调动步兵夺取据点以取得资金，并利用侦察单位在战争迷雾中发现敌军。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-5414adab-b8b5-5c87-9a85-482d9209f3b0",
+      "locale": "en",
+      "sourceSHA256": "d355fefe41eba28163b90e5649f63bce2400dbc86f09c9214562f4743432dfcb",
+      "evidenceSHA256": "c9804702c472a2c042b1cc1f37930ebc95035dbca6996c32110e71a597457d80",
+      "text": "Capture bases with infantry to support the army's finances, and use reconnaissance to locate enemies in fog.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-5aea6d2c-06e4-5c61-9558-ac61f5623a5e",
+      "locale": "zh",
+      "sourceSHA256": "90a47c5391072dcbc892ae3ce498e4969f2f008e0a814dc745b3ebf12b52888c",
+      "evidenceSHA256": "b2e1bbed9c45a2ce4154282ee83388e1f68660447037c2703a1dcd1529650e60",
+      "text": "在关卡中切换英雄，利用各自能力解开机关并打倒敌人。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-5aea6d2c-06e4-5c61-9558-ac61f5623a5e",
+      "locale": "en",
+      "sourceSHA256": "3d28fb841c11ae439df0ed820b126ed9c81a00ec2fce029bde61e209ad217c4a",
+      "evidenceSHA256": "0733fae198a47f0f16a54fd2f9b7ef5c2ff9e139ff547c5c3ce47937732cefca",
+      "text": "Switch between heroes to solve puzzles with their different abilities and fight the criminals encountered along the way.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-47b9403d-8af6-540e-ab46-ba780c8a69ba",
+      "locale": "zh",
+      "sourceSHA256": "322c6849d58e996647291bed940d7911d30b7881b74da06ee23a88b253881581",
+      "evidenceSHA256": "2eed8e08aa537c44511ecbe9057eb28939a302cb569db817e19dee8ea0b381b6",
+      "text": "先从不同种族和角色类型中建立自己的冒险者，再在三维区域里战斗并寻找武器与道具。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-47b9403d-8af6-540e-ab46-ba780c8a69ba",
+      "locale": "en",
+      "sourceSHA256": "1189d89a1d519108c0ca8f420b992c7fbaecb90c6fd054523500bc260d3f4260",
+      "evidenceSHA256": "d2f84b6199057c001478c81969a9e0a99cec6e572ac0a3d306268ce1cc08598e",
+      "text": "Create an adventurer from the available races and character types, then explore three-dimensional areas in search of weapons and items.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-a28ec293-8848-556e-8f69-3e8a54442a14",
+      "locale": "zh",
+      "sourceSHA256": "527e7e9cdeba448b175e1b738b30dcf1d7bb871bbfa1076cd29a0b73ed22597b",
+      "evidenceSHA256": "901e6f096128005f67383607b185f37dbf1f1aed75a2d2dcd421059c3ff134be",
+      "text": "在地图上以最多三人的小队行动，移动和战斗都会消耗行动点数；只要点数尚有剩余，就能继续安排动作。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-a28ec293-8848-556e-8f69-3e8a54442a14",
+      "locale": "en",
+      "sourceSHA256": "91a7a0df1a180b1543c81c9132aa74c8408934ad051b20dde62bbd3730bd6e5d",
+      "evidenceSHA256": "668d8f9cee9e0c49e08085e767d9db03bc268292f979df0acb6a1d4db060bb3e",
+      "text": "Move characters in teams of up to three.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-9ad4a2b8-d5bf-521a-a052-4f74331ea58a",
+      "locale": "zh",
+      "sourceSHA256": "d9de1bd0e5388f320814f84085be619e4b18231ec66bf532139bc18636d9fa15",
+      "evidenceSHA256": "a6c235d1bc0738507a633040d20e3740a648f746b7c1875f2e5317d20aac54c0",
+      "text": "故事模式沿电影情节展开战斗、解谜和探索。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-9ad4a2b8-d5bf-521a-a052-4f74331ea58a",
+      "locale": "en",
+      "sourceSHA256": "a9a2bedbdbfd68448dfd8372ca801368645829098a92d5295b504614f94d1422",
+      "evidenceSHA256": "eee4c864edee3cf4895018a736531bf224fe295ba8a1662064d8104b46a6a66e",
+      "text": "Story Mode follows the films through combat, puzzles and exploration.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-f2d9723d-3082-5a27-b43e-368911b08591",
+      "locale": "zh",
+      "sourceSHA256": "9477af49f7de4e99b7e952e6870be9a4adfee71917e884dfb5199e368e6b6087",
+      "evidenceSHA256": "53bbc759c2d02b9ba1333f394db7960ee9ca4338c6ca58354f5176a4f91dd837",
+      "text": "玩家直接控制乐高化的电影角色，按故事顺序推进冒险。",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-f2d9723d-3082-5a27-b43e-368911b08591",
+      "locale": "en",
+      "sourceSHA256": "61ad8ad8ed8f22fca69087e6d5f923de34b185f027e850399e9ed5d336b2e51a",
+      "evidenceSHA256": "d7623ca7ce325991bfa64baf5ada4759283c4e873ac03c2afb7edbef7e843241",
+      "text": "Control LEGO versions of the film characters as the adventure follows the trilogy's events.",
+      "provenance": "Gameplay-first opening from reviewed DS gameplay paragraph, exact source hash bound",
+      "review": "Codex bilingual and edition self-review; no user approval"
+    },
+    {
+      "workId": "nds-c6d7eda2-ce83-5dde-930f-bfee7a16bb29",
+      "locale": "zh",
+      "sourceSHA256": "c0f644092f3f767f717ee41a2e1a5f7ac473ebbcc2bc8f1aca7257715772ae68",
+      "evidenceSHA256": "b980a55283698a9887fbd98046fc879576a322e80618200df345e9cdaa71a065",
+      "text": "触控挡板反弹小球，击碎屏幕上的砖块，并用强化道具改变攻势。",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-c6d7eda2-ce83-5dde-930f-bfee7a16bb29",
+      "locale": "en",
+      "sourceSHA256": "b9771231e6e47dd2fff48f96d048e9260d98685766c94c9fc748c5bf183afe1f",
+      "evidenceSHA256": "da9b4c13643f8e05a8e8b473fecf008fa4806400d1b2175c0526f8d782c6c31c",
+      "text": "Move the paddle to return the ball and clear formations of bricks, using power-ups to change the action.",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-36fe6232-f8a9-571b-8835-a661d6757848",
+      "locale": "zh",
+      "sourceSHA256": "d776391fdeb2bd1871702bf365b94d171f82d64a637864e571b60b298ab1f910",
+      "evidenceSHA256": "3a0c8429c62146919cd1bffb1eeadac8f328bdd98f584bc38ef6f808416a4574",
+      "text": "用触笔规划岛屿上的聚落，安排建设与资源供应，并通过航船探索新的土地。",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-36fe6232-f8a9-571b-8835-a661d6757848",
+      "locale": "en",
+      "sourceSHA256": "a5e01f52bdac0f145327e343c080f12d1513d8cb0f22225bbce49c6c05c5b120",
+      "evidenceSHA256": "12f5ab0796f52cd70fc43bc3340fb111d7d07abfd7583ff769563d4a5ccf68f8",
+      "text": "Use the stylus to establish island settlements, organize construction and supplies, and explore by ship.",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-2bf043ba-26a4-56da-be04-6136e39a18f9",
+      "locale": "zh",
+      "sourceSHA256": "86992c451621312f9faff2b67f403c13447dfc080a6c2f1ea2fca7214236a12e",
+      "evidenceSHA256": "5136360f2442ca572e357b33ca4ead5b1dbc61a481b489edb814dfc945e57836",
+      "text": "观察水流与地形，借助植物阻挡流水，用炸弹打开通道，把小鱼引向关卡底部的安全出口。",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-2bf043ba-26a4-56da-be04-6136e39a18f9",
+      "locale": "en",
+      "sourceSHA256": "7eb368160771927d2c06ca9732c18c7b703a8201493d551f52258dfe41b6bec8",
+      "evidenceSHA256": "085a80620ee0168e54767c5af9a8aff465eba3fcfd7c78dc17f6e94c0405d894",
+      "text": "Redirect flowing water to carry small fish to the safe exit at the bottom of a stage.",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-8cc4e67d-23a6-5468-b999-e5f727871fe2",
+      "locale": "zh",
+      "sourceSHA256": "ef36c19695c97b11271a3bb60d527b150e989c4127b034e8c77459c92fd4b446",
+      "evidenceSHA256": "84d8f9d1f8272405190661007ceeb0fcdb7182237505ec2080cb94cb738341ee",
+      "text": "驾驶授权车辆在城市赛道上竞速，掌握弯道与超车时机，以更好的名次完成比赛。",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-8cc4e67d-23a6-5468-b999-e5f727871fe2",
+      "locale": "en",
+      "sourceSHA256": "23d63554c271c9cdf53c9f862993cdf31df25b6129d06f9c5c65d37d8708e2b9",
+      "evidenceSHA256": "3e362a8987973bfd7c37ccb83e07e165558f0b5cd9741788c73e6b9af02c902a",
+      "text": "Race licensed cars around urban courses, choosing when to corner and overtake to improve your finishing position.",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-0cad2943-3de0-5f3b-b6fc-e2b80158d459",
+      "locale": "zh",
+      "sourceSHA256": "7c1271e0a2782153db272563c5d937134c5e22c52a41e86d863498d66c46c605",
+      "evidenceSHA256": "f2039e2da83a7cfd62cd62b5480235e4830dce09075b8f0f00e65edc81040e1c",
+      "text": "在街头赛道上驾驶汽车或摩托车，以氮气加速争取领先，也可以撞击对手改变局势。",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-0cad2943-3de0-5f3b-b6fc-e2b80158d459",
+      "locale": "en",
+      "sourceSHA256": "8c091432e03e1fdba02bcc246d303325faa7023212e12cfed005d055d236d119",
+      "evidenceSHA256": "cdc3d8935e25666999b95aed24ef556be98208153e54fc9da39ca5d8a8e72eb1",
+      "text": "Drive cars and motorcycles through street races, using nitro to gain speed and collisions to disrupt rivals.",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-f4768d2d-d203-5262-8ed0-b60a20dbcbe7",
+      "locale": "zh",
+      "sourceSHA256": "1d69064e3c8bc401709a18d3a95f935c780a9ddc6476960fefbb5ea0b4cacb31",
+      "evidenceSHA256": "e0b1d9cba30174e598a41e827bee49334377df3d1cf84dc1cdce4b4f71de8d41",
+      "text": "扮演机场塔台管制员，安排飞机起飞和降落，避免忙碌航班相互干扰。",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-f4768d2d-d203-5262-8ed0-b60a20dbcbe7",
+      "locale": "en",
+      "sourceSHA256": "8d9e3283635d0cc8cb9f5e7adcaac1f6bfca5f1e8bb45ecf28683b406c446dd5",
+      "evidenceSHA256": "55915e04cb331410d9def4fac16ac216df964be5eb5a8cc94efd70d8a07e5d6d",
+      "text": "Manage an airport control tower by issuing orders for takeoffs and landings.",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-a47c8154-e8a2-53ec-af02-2ce5b79a8203",
+      "locale": "zh",
+      "sourceSHA256": "de770046de98a52716c510f207a60e7fdfecd91e7ebfa71813e6a706571a71dd",
+      "evidenceSHA256": "6fdf147c8973414a0940c1fafc15f70769a6e0e6db659ed0ed0e380aa61c012a",
+      "text": "以八球或九球规则进行台球对局，瞄准后决定击球路线，争取连续进球。",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-a47c8154-e8a2-53ec-af02-2ce5b79a8203",
+      "locale": "en",
+      "sourceSHA256": "cd66d68b29a6e3a60b9c047b0329e752f081815db724d1958f181ec39a1a0542",
+      "evidenceSHA256": "b77aa858c143b27dc5e5faec1881f082c517cf2a46bc49fb92fd241b3e995089",
+      "text": "Play pool under eight-ball or nine-ball rules, planning a shot to pocket a ball and prepare the next opportunity.",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-b47515fc-5a53-53ec-bf40-b680153901cf",
+      "locale": "zh",
+      "sourceSHA256": "021f555f1c9eebfdddd637951769edafc14a35c5b8f21e84dd28844d830923fd",
+      "evidenceSHA256": "88d0a0a3de7f22d6dd0d0ca471974932e75194f787f64c1ffb7c324567752124",
+      "text": "在遗迹场景中按清单寻找隐藏物品，仔细检查拥挤画面中的形状与位置。",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-b47515fc-5a53-53ec-bf40-b680153901cf",
+      "locale": "en",
+      "sourceSHA256": "f36600c181d843f387c16ebb57f5c4a1b0e39d859d3d3c99afd6dffcd6a93841",
+      "evidenceSHA256": "f1575b33872b205fd01b7f897520144a13a74f93c892bcc2f33a830b0f2eac41",
+      "text": "Search illustrated ruins for objects named on a list, checking crowded scenes for the right shapes and positions.",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-ee993083-c5fb-5695-80e3-c3a8449b9df0",
+      "locale": "zh",
+      "sourceSHA256": "6313cda038b3a3f6bbcb99fadc22227dcab8ba22046a6a68f61c75a3da1a6f2c",
+      "evidenceSHA256": "e0f366d242d5f2b900621d381d060f5ec3b37d57ce0567914fcb84f9b8d4fa6b",
+      "text": "选择具有不同力量与控球特点的角色参加保龄球比赛，调整投球以争取全中和补中。",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-ee993083-c5fb-5695-80e3-c3a8449b9df0",
+      "locale": "en",
+      "sourceSHA256": "2227a58c324c9586af3905bbef82135eccf748a4ceabaf44a1a0666b44dbc795",
+      "evidenceSHA256": "2d0bb49116cca724e256f2a32c92482f61ba7ceddd32d691948852e2de29b644",
+      "text": "Choose a bowler with particular power and ball-control strengths, then aim for strikes and spares.",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-c1095db0-f0ee-56eb-8b57-4f0da16fc562",
+      "locale": "zh",
+      "sourceSHA256": "f0977f9dd4359988b8a3d01b49bb2484686e14dc07116cc7f88c286ee64f835d",
+      "evidenceSHA256": "3436001e65bdc444f3d6d425548e01083cfeb392d788f5b16e70836539bb7d54",
+      "text": "驾驶四轮越野车高速通过起伏赛道，利用跳台腾空并在落地前完成特技。",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-c1095db0-f0ee-56eb-8b57-4f0da16fc562",
+      "locale": "en",
+      "sourceSHA256": "fee6857106e45abe550fb3fd8748e83a4322d0ffbd27fe25fa8c145084c9a562",
+      "evidenceSHA256": "70c7056a4318b091c566c39ae6ad36753bc7a99013e2b650f5387056d291b422",
+      "text": "Race an ATV over uneven courses, launching from jumps and completing tricks before landing.",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-a1d693d9-39a2-5969-9995-19415999a5eb",
+      "locale": "zh",
+      "sourceSHA256": "50c968ec76f495277e433cb0eb9d53879d3faa2e3b0ed21e973e714b83c9796f",
+      "evidenceSHA256": "18df05d3e4e4b6009c210b256e62799d00d86e650285d6bff63c02e47ae9dd94",
+      "text": "记录日常活动与饮食，设定个人目标，并查阅卡罗尔提供的食谱。",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-a1d693d9-39a2-5969-9995-19415999a5eb",
+      "locale": "en",
+      "sourceSHA256": "aa30ae6cea3c9fed5d171b8854f40e99a914fa452baeaf8696536c7fe58f9a79",
+      "evidenceSHA256": "51dfcee924d5625a6f412a6526db60bfdf238761d3a3e580fc3336e65f9d1a73",
+      "text": "Record activity and food intake, set personal goals, and consult Carol Vorderman's recipes.",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-9644fdc8-d6bb-5483-a5ca-1f46e2a5c175",
+      "locale": "zh",
+      "sourceSHA256": "0bae6ef4fe0bf6de228be5471c72cb9fbbaa22c8f879ba0cbbb0d7c1ad320974",
+      "evidenceSHA256": "04252f380fbb74c7ec8f8eb2fa87aaa078eb7b825f90c2a578cefd1147e2bd81",
+      "text": "在啦啦队训练营中练习节奏动作，按提示完成舞步、手臂姿势与平衡训练。",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-9644fdc8-d6bb-5483-a5ca-1f46e2a5c175",
+      "locale": "en",
+      "sourceSHA256": "b5584078df72ead3aa98c76efce8c5ea7240137fc4e3c7951ad180af7456c83d",
+      "evidenceSHA256": "cd01e6b15503251c73043b5c6ac9c0eb31f99c3bee30453c4eba4503aa246419",
+      "text": "Train as a new cheerleader through rhythm routines, arm-position exercises and balance activities.",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-3a050a79-8cce-523c-940d-ef0f0509030b",
+      "locale": "zh",
+      "sourceSHA256": "2a8e81eb0dbd8c2ed096e94e946d14b0fe29f9f8f19c9d050dfcca65b6acee74",
+      "evidenceSHA256": "585f871c9a512381c75a956c9c56fab933233b162ae222fd3b140298bda833b2",
+      "text": "选择食谱后逐步查看烹饪指引，通过触屏或语音推进步骤。",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-3a050a79-8cce-523c-940d-ef0f0509030b",
+      "locale": "en",
+      "sourceSHA256": "0842990a32697f6acf5abcf32228d49163938fbb44cfa21d491085e1cee60541",
+      "evidenceSHA256": "5d06b1eb1e4894a6ce384503011dbc339881bf9adc4ad327a3a72927d8d91636",
+      "text": "Choose a recipe and follow its cooking guide using touch controls or voice commands.",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-f8b7a538-64c2-5803-8829-a95759d1c1d4",
+      "locale": "zh",
+      "sourceSHA256": "c7cae197c60f764ecafd5368a0f188dc1b1f40286f0e7089bbd5f7e4540b012b",
+      "evidenceSHA256": "d25a8cb6f50fe2be88e8962aed5611f92a90085391083874417bd687614e084e",
+      "text": "在古埃及场景中控制阿西尔调查诅咒，选择观察、拾取、使用或交谈指令与人物和物品互动。",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-f8b7a538-64c2-5803-8829-a95759d1c1d4",
+      "locale": "en",
+      "sourceSHA256": "2bf99e27982374fd0e4d59f411cebb69aa5f6eb56c982063334c92f07b64b467",
+      "evidenceSHA256": "b60dc9a77961adeb04343b717731feb422306866f3ce552047cd87be0a6ac679",
+      "text": "Guide Assil through ancient Egyptian locations while investigating a curse.",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-d67ecfa9-8ed2-5b33-9823-fbf8caf67254",
+      "locale": "zh",
+      "sourceSHA256": "3fe1d9cc1c2d384c029316471abd9ddd2a43ad66573ea38b6ea2253e6ccbfec3",
+      "evidenceSHA256": "ad5f3c80bf4c4ae6c785f9781b0b2e69af74a22a4a4424ef4fb6532824035c86",
+      "text": "通过喂食、清洁、散步和玩耍与动物建立关系，反复照料以提升亲密程度。",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-d67ecfa9-8ed2-5b33-9823-fbf8caf67254",
+      "locale": "en",
+      "sourceSHA256": "9e92776a2b8058608eee9a72d1ec4744c8871199cfc527a2ab5b4cc64fce544b",
+      "evidenceSHA256": "e5cdceb363e9fb7ac2350d725db3d0ace76ef1e3669719516604fbf2a77ffbc0",
+      "text": "Build relationships with animals through care activities such as feeding, cleaning, walking and playing.",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-2d688e10-ffe7-5c23-a4f7-370b34347367",
+      "locale": "zh",
+      "sourceSHA256": "acd0088dbdc1a03ec59dd9abe8d80c221130844dbe33535359557b268cc3e1a1",
+      "evidenceSHA256": "f586e54917a199671deb8d5ab4e8961f369396fd675eb758afa084f8a72f17b0",
+      "text": "通过动物主题小游戏练习观察、反应与知识辨认，为不同栖息地赢得动物。",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-2d688e10-ffe7-5c23-a4f7-370b34347367",
+      "locale": "en",
+      "sourceSHA256": "b6bcc72b848aa02a1a91c3af6fc8f9d1f14ea5732a5938182305c192caa3a1c0",
+      "evidenceSHA256": "c423b728d9bd55418f2b1e80e6ab217e257a25fdf9d951fe8acc74734d7c1fe5",
+      "text": "Complete animal-themed minigames that test recognition, knowledge and quick reactions to earn animals for their habitats.",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-0c5ae9fe-69ac-5626-ba81-49fd9c3f67c4",
+      "locale": "zh",
+      "sourceSHA256": "e1b2b41dd9997f15a5b3a285b22f9a29366d384f43adaec064ce1a4b19af7d24",
+      "evidenceSHA256": "f0200b4e26b4466bf589d7f7595339e1694655ff1626575182f9d088d7023caf",
+      "text": "从菜单选择雅达利街机和2600游戏，体验打碎小行星、拦截导弹或探索迷宫等不同规则。",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-0c5ae9fe-69ac-5626-ba81-49fd9c3f67c4",
+      "locale": "en",
+      "sourceSHA256": "135e2f4eba00203b45ecd113a37a7136bc20bcd14b15111a0423fcf6a13bd153",
+      "evidenceSHA256": "bd9b5436fe6e7bfcbd613453a0c3823345b21f78286c1367ebe327221ad807c2",
+      "text": "Select classic Atari arcade and 2600 games with separate rules, from breaking asteroids to defending against missiles or exploring Adventure.",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-3ecfc8ee-fabb-5f34-b018-d77b0ad1d52f",
+      "locale": "zh",
+      "sourceSHA256": "f8525fe6ba3c134d4e3c4da87841a0e8bff7e59fac9c93f476e6dc07e5322b08",
+      "evidenceSHA256": "b13d5d9954b64f22a1e21404a9fafa4e7665b37ea6037997433a501aba7d5137",
+      "text": "第二卷提供另一组雅达利街机和2600游戏，包括Asteroids Deluxe、Breakout等不同玩法。",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-3ecfc8ee-fabb-5f34-b018-d77b0ad1d52f",
+      "locale": "en",
+      "sourceSHA256": "be9a09039f50368cff09b9b0a938a8dedf272bf7bebc2155ba772a608e453b7c",
+      "evidenceSHA256": "c7733e2b62ee00c50e03f868b2198253a4775cc87c7774a728d4549505f784b1",
+      "text": "Volume 2 offers a different selection of Atari arcade and 2600 titles, including Asteroids Deluxe and Breakout.",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-c8256c18-f530-59ce-a1dd-f541119e3813",
+      "locale": "zh",
+      "sourceSHA256": "04ab79e5bb3a43e70466dd92ce1980244b78e061b07911eb2e3f49475492eda4",
+      "evidenceSHA256": "024e0bc78f938f3142e088feb2549f78c5bc8714f6ed7b5e8aab12770c81b736",
+      "text": "交换相邻符文，把三个或更多同类图案连成一线来消除方块，推进建筑工程。",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-c8256c18-f530-59ce-a1dd-f541119e3813",
+      "locale": "en",
+      "sourceSHA256": "b08d3b66e7804437c898a69df641370ad50a7a709e49a229aec76fbb428111ec",
+      "evidenceSHA256": "c58abf9e5ffd45dd02930456be74626549699eaa9d46b2503f71c69f7d484130",
+      "text": "Swap neighboring runes to form matches of three or more and clear blocks that support construction.",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-59ed7e27-be39-5321-98af-1df03dd92606",
+      "locale": "zh",
+      "sourceSHA256": "724b736bf6e17c5445d2d04cf0f9b96b55f3da00849f55cd26ede2d0f2b20383",
+      "evidenceSHA256": "c93aa80a55f57fd9f5b36a4cf90fad07d4e2fe97af8ee55fcd9cad37c74c57b7",
+      "text": "根据横向与纵向的提示填写单词，利用交叉字母逐步缩小答案范围。",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-59ed7e27-be39-5321-98af-1df03dd92606",
+      "locale": "en",
+      "sourceSHA256": "1796f1c38704a1f7c50cfec93a883906ead1c7fdc6d5355449474969859fbc5e",
+      "evidenceSHA256": "57128cf1530704dcd282d7b907e03bc1ca3d9feb59cd5ff5c90d854c5a4e718b",
+      "text": "Fill words from across and down clues, using letters at intersections to narrow the remaining answers.",
+      "provenance": "Gameplay/use first sentence from code112 source-reviewed prose",
+      "review": "DS edition and bilingual meaning self-review; not user approval"
+    },
+    {
+      "workId": "nds-d4d5a105-3490-50f2-811c-ceb952b50b67",
+      "locale": "zh",
+      "sourceSHA256": "185b26f6e61877bcee7bbf913ed4775c989116b33ec10740d12d50c76f36a787",
+      "evidenceSHA256": "7d880f6dabd318b5975e9344d61c5f4c29543964ff6a882177a3e8026dad93bb",
+      "text": "通过阅读人物思念与触笔刮擦调查线索，追查如月市接连发生的异变。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-d4d5a105-3490-50f2-811c-ceb952b50b67",
+      "locale": "en",
+      "sourceSHA256": "d0d499b3bf157a26cea8fabb0d602ca33c9b3a830b541704e0c6b1c059895690",
+      "evidenceSHA256": "2c2a09f25d9230f9b62582892f1d87570e0eed8ff6cfb97786e66d6496223e0c",
+      "text": "Investigate unusual incidents by reading people's thoughts and uncovering clues with stylus scraping.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-9d313c8a-324e-5f72-892a-e62488cf05ee",
+      "locale": "zh",
+      "sourceSHA256": "d20c2a15775c1e23d8da93078d3aad92de4b88e23b409a73b8e39b2bc48e25b1",
+      "evidenceSHA256": "47ad4de5a91272a2c5d7df2d342096f418128dc934cf7c2fe696bdda6483d3cc",
+      "text": "先以武将卡组成牌组，再在战场上击倒敌军，争取比对手更早攻下本阵。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-9d313c8a-324e-5f72-892a-e62488cf05ee",
+      "locale": "en",
+      "sourceSHA256": "f54c1608cfe7a2df537cc97ff237c6ca297d6660b2e8a01fa23c150eb63fce1e",
+      "evidenceSHA256": "f6e536e0ee8752fc95ecec47c2abc3e652aad62f001f100dd7b8c0f391b1edd5",
+      "text": "Build a deck of officer cards, then fight through enemy forces to capture the opposing headquarters first.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-8dc3e71c-e139-5a6e-bbe7-be46ee9ad584",
+      "locale": "zh",
+      "sourceSHA256": "96a6961cfb0aee703bcbd8b0d821af9a4c30d1cf4be3ab688c82f2bb79ea3c0f",
+      "evidenceSHA256": "99eb706c6761fa3edca5efeba5ca4a2e19e77034137ac1dafec53231c0564f90",
+      "text": "在故事冒险中切换具有不同能力的彩色炸弹，破解关卡机关并迎战首领，阻止敌方组织的计划。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-8dc3e71c-e139-5a6e-bbe7-be46ee9ad584",
+      "locale": "en",
+      "sourceSHA256": "c0b90a8eac3a75ffd9f68a37ad545a22ba5a57cec60189b174fd1b4c39599514",
+      "evidenceSHA256": "669c34f6228d7d16fbffbd664a635541d09730f4b68d247033d237f0caa1dcaa",
+      "text": "Switch between coloured bombs with different abilities to overcome stage obstacles and bosses in the story adventure.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-8c45e0bc-5f2b-576c-b58e-f67ceae84557",
+      "locale": "zh",
+      "sourceSHA256": "b4388523219e2550d588d659a8c13db340be0318bddc10d513d826c285cd2c32",
+      "evidenceSHA256": "31d634b91fbb3c6ac72fa2c185f2dbb96ff6901cbaededb9c5b11a6bb7a9ea2b",
+      "text": "用触笔探索海盗主题的炸弹岛，在景点小游戏和事件中争取海盗荣誉。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-8c45e0bc-5f2b-576c-b58e-f67ceae84557",
+      "locale": "en",
+      "sourceSHA256": "4d656e7a860b31d7a1a1d12d5e2e48af3d97b3a0405366d9a573c1bdc7adb45f",
+      "evidenceSHA256": "3c5b0179b5c0a7db580f86761b2e6c36792dbfd62661402676c8fe2218c6edc1",
+      "text": "Explore a pirate-themed island with the stylus, taking on attractions and events as you work towards its pirate honour.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-8439ea5f-11fc-5af3-bdee-00e9aa201b3b",
+      "locale": "zh",
+      "sourceSHA256": "62a18fd488f328592bec904ec6ac9fbb909ad39ba0d512755e5aaa8f2ac8c9f2",
+      "evidenceSHA256": "e3d4708eef21818d714c3cb4caf0fc1295202fa5dfd5255c2b40b69b4ca0d390",
+      "text": "操纵《死神》角色进行二维对战，并在情境战斗中应对随剧情变化的目标。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-8439ea5f-11fc-5af3-bdee-00e9aa201b3b",
+      "locale": "en",
+      "sourceSHA256": "f1c84569c8fcafb0d2164b13eb62bbb85f372cdb2086ab3e22e48d911b826a5c",
+      "evidenceSHA256": "84151f988b52db76b54d09f05507ed563adaf52ee11c895cb2d05db0ca9c9780",
+      "text": "Fight with Bleach characters in two-dimensional matches and tackle objectives that change with the story's situation battles.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-0974c0c5-542d-52f0-ac6c-638e7522029a",
+      "locale": "zh",
+      "sourceSHA256": "3e87cd2b39bc796af15a32e6efc233917c19bce8039445fcc4e488a6ed5d21c8",
+      "evidenceSHA256": "53046358cbca95759b586a69363a1351a3b467993359d5ea85a766d0189f72a6",
+      "text": "在三维战术地图上安排推进，再进入跨越上下屏的动作战斗。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-0974c0c5-542d-52f0-ac6c-638e7522029a",
+      "locale": "en",
+      "sourceSHA256": "9d33a967c127966c5774a7da1f2bad787d012a07ac31ce40d9a8e25aa90dae4c",
+      "evidenceSHA256": "135fe082b12e4002f362b977b4318ef771335df87360e7b331830e87c269a6db",
+      "text": "Plan progress on a three-dimensional tactical map, then enter action battles spanning both DS screens.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-5dde07cc-ed69-5aee-8539-c6db42baebe4",
+      "locale": "zh",
+      "sourceSHA256": "2c8906dfe6bdd44e08c8225dd4f2f1d2c0d7795b96b0fdc89ddf7d97f58efd2b",
+      "evidenceSHA256": "0501406d5ba4f23c921c98473eefead15578bdd3c114aed417731a3ce08e2877",
+      "text": "在上下屏呈现的不同世界之间，协助博士与冒险中的主角建立联系。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-5dde07cc-ed69-5aee-8539-c6db42baebe4",
+      "locale": "en",
+      "sourceSHA256": "2d922a521ee2f6c3270eee985b39aa6234613698dbdaee5a9a4b618be197a784",
+      "evidenceSHA256": "58328b176f514e895b4a5d1e1519adf240ea12ca2d5de78531f3f1f3892e1f8b",
+      "text": "Help a professor and an adventurer communicate across the different worlds shown on the two DS screens.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-cc011db9-3778-5e41-8c40-7562210a139b",
+      "locale": "zh",
+      "sourceSHA256": "5d2bd227e7b90938e38a385203178300c44ea9d9d1214aa9da34d1a679b98a01",
+      "evidenceSHA256": "fc581b3307728148a276bc958bf72423755eb035811ffc33d7ecc7ed37967938",
+      "text": "在战斗中扫描数码兽并培养自己的伙伴队伍，敌人种类会影响后续进化。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-cc011db9-3778-5e41-8c40-7562210a139b",
+      "locale": "en",
+      "sourceSHA256": "7c9765ca1fa2426a34e7d2db7387f33b52677c6991c14b866231987f0c06e007",
+      "evidenceSHA256": "149aac652c1a987702416b770ff86338d4c2bf78e3dc7546b68cd030714d4576",
+      "text": "Scan Digimon during battles and raise a team whose development is influenced by the enemies encountered.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-723901d9-e7b3-5230-a3a9-d57e2b018de7",
+      "locale": "zh",
+      "sourceSHA256": "e0abcf3112473d1b594202413c057fd33605a93cbafc8af5e0d51f04bbcdbfbd",
+      "evidenceSHA256": "eaa9ce214944e673098949a293a61b48b95d3c019597d56c9b33fd0edfec26fc",
+      "text": "在横跨两块屏幕、分成多个高度的场地上展开格斗，利用角色招式、道具与场地位置争取优势。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-723901d9-e7b3-5230-a3a9-d57e2b018de7",
+      "locale": "en",
+      "sourceSHA256": "acd7f324cf40e90baa8fff107ad414ee6264535b95c18f4054a09bd51c55c2c4",
+      "evidenceSHA256": "2d4224d4f90f5df6efb058d79e0678d19903249fbb37c9bb9dab690264a43f33",
+      "text": "Fight across a multi-level arena stretching over both DS screens, using character moves, items and positioning to gain an advantage.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-d5a739f7-cdf0-563d-8961-eb1893ff528c",
+      "locale": "zh",
+      "sourceSHA256": "1082a1b627172fdf389ee76c6a88e8f99e2cb19830390ab7483f8174c5ec6a3f",
+      "evidenceSHA256": "c6537db02d7147a6f17b53700243038e461746294f5aafb8ff14552fb0d21689",
+      "text": "在实时推进的战场上收集资源、召唤怪物，并根据地形安排进攻与防守。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-d5a739f7-cdf0-563d-8961-eb1893ff528c",
+      "locale": "en",
+      "sourceSHA256": "d51068d0ed206b05717000f5698f4d2685d684bde09e10fa258eee229cba2ade",
+      "evidenceSHA256": "d777dbc944f1e63a7b7ff142d0f9a773d1d3ed58e2c8283911a8326f85709141",
+      "text": "Gather resources, summon monsters and direct combat across varied terrain while the battle continues in real time.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-e5c6db40-4752-590f-8ea4-ccb6c4e566b1",
+      "locale": "zh",
+      "sourceSHA256": "05d18ae3474f269f725b3edf97fdcf10a44b0931975710bd3df1b9961e990ae6",
+      "evidenceSHA256": "ef4dcd0b0236999f3d7b2719fed014eed9b09c15d4813fcfd2abdcaec6b0ad8d",
+      "text": "在战术战斗中安排角色行动与连携，并通过可定制的魔法调整威力和作用范围。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-e5c6db40-4752-590f-8ea4-ccb6c4e566b1",
+      "locale": "en",
+      "sourceSHA256": "c0a20a407366ca95365b9f33251039f2424a3ce37faa86e49201fdc289a0dda1",
+      "evidenceSHA256": "252eaf4fc99e7bba4e7c33c2f4f7e845b2db7c8e8983aa4d3a02e5f9e2c9afc4",
+      "text": "Plan actions and coordinated attacks in tactical battles, then customise magic power and area of effect through the linked combat systems.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-7882fd9a-7963-58e0-9a59-9d61896e6213",
+      "locale": "zh",
+      "sourceSHA256": "12c35b797af23730080378963a9e2f1aaa877bfee7244c5c949df6e4230b31b3",
+      "evidenceSHA256": "26aa2567f6cd2ac389bfb340bdd545801783acbb28f02ad4989e79555ceca8a6",
+      "text": "跟随年轻送货员与同伴探索《露娜》的早期世界，通过战斗成长，也可以承接运送工作赚取资金、收集怪物掉落的特殊物品。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-7882fd9a-7963-58e0-9a59-9d61896e6213",
+      "locale": "en",
+      "sourceSHA256": "29997e0fa06b8928d113afbd1d02247d60e4f4642a4f6e5a89ca004dec1152ed",
+      "evidenceSHA256": "c78b4f9cf1a20ac0700f207e54482129f483f15a5522764f49de3cffd6c54d7e",
+      "text": "Travel through an earlier era of Lunar with a young courier and his companions.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-615e1920-b0af-5fed-a3d6-1183fcf721cb",
+      "locale": "zh",
+      "sourceSHA256": "3916a442459c06b500aba347abdf70d1e6261643c6b8bbf4ba7a522cb4016b01",
+      "evidenceSHA256": "8fbbfddcd2ef67f7bb33b1abcf1304d3b6083a151589e8b25887b4f11d5a66d6",
+      "text": "操纵小鼠雷米攀墙、走绳索并躲避发现，在巴黎的厨房等场景寻找食材。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-615e1920-b0af-5fed-a3d6-1183fcf721cb",
+      "locale": "en",
+      "sourceSHA256": "f7ef03268259d4c2c7bdf31b8c37cc15c2436ae22b817b556883a7b899432f24",
+      "evidenceSHA256": "59efe95399767f06419ffae141405a7aa6ec345fd9a9c285e3c1dd368d49e666",
+      "text": "Guide Remy along walls and ropes while avoiding detection and gathering ingredients around Parisian kitchens.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-de8a1d5a-9e5e-5957-a1ec-b019352f9181",
+      "locale": "zh",
+      "sourceSHA256": "baa57a93c9dcd1aa3fcd52f6649ea5eb28867d5867ab243d7e91b37e78b02fc8",
+      "evidenceSHA256": "a3c400b9cf0906198bd73dc779b6d0843c0d6dd1c1c6c483779f66b3f52ca379",
+      "text": "把装着小猴的球滚向终点，在狭窄路径和变化的关卡中控制方向与速度。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-de8a1d5a-9e5e-5957-a1ec-b019352f9181",
+      "locale": "en",
+      "sourceSHA256": "9069a32e4edef8f765f1534262144672f2f4325a2628e6aa18d2e9aeb82c1281",
+      "evidenceSHA256": "0bb1cf6724848086f1c2cd59052a6061c4f3574b681752e96daedb1fe4cb6281",
+      "text": "Roll a monkey's ball towards the goal, controlling its direction and speed across changing courses.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-c7cba78a-04c2-527d-a117-f340778ecf56",
+      "locale": "zh",
+      "sourceSHA256": "82870c3d525d523fdff75cf4ad28e920c4534faa0d766a96849e2bfcbecd6e6e",
+      "evidenceSHA256": "29a8efc4d51239a14826b3c3cc16424ce5a9c980e7876014f2723a4deea8faf8",
+      "text": "在三维呈现的球场进行棒球比赛，也可挑战全垒打竞赛。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-c7cba78a-04c2-527d-a117-f340778ecf56",
+      "locale": "en",
+      "sourceSHA256": "e1cc20c6fe3c1a3f982d8dceb0625e1b8437277c101aacbba7e479423bc94edc",
+      "evidenceSHA256": "80f1bc96d5b069183c0cbca428c81007ecb96fea8e0d93c826a5f29072e96cf1",
+      "text": "Play baseball on three-dimensional fields and take on a home-run contest.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-1c4cb898-8744-5f96-b7c0-a21a792d0b26",
+      "locale": "zh",
+      "sourceSHA256": "9dd4de82b3374f9a814e8d438bd3093bda8a70d7541e4f04553c822b8214e4c0",
+      "evidenceSHA256": "132e172ce07763c28039b7f6c3671f9c245a859818311341af4bfffa0fd716e6",
+      "text": "按照规定顺序在触屏上画出吃豆人，让自己的绘图在书页般的场景中活动并吞食幽灵。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-1c4cb898-8744-5f96-b7c0-a21a792d0b26",
+      "locale": "en",
+      "sourceSHA256": "429533186af8ffb3b350ac54b95b700387bed12d25d06289568eb86587793f5b",
+      "evidenceSHA256": "23b93ec355c35a3a232f327f72be5b8b3cdc982673125136e53857b650b12d76",
+      "text": "Draw Pac-Man on the touch screen in the required stroke order, then watch the drawing move through the illustrated stage and consume ghosts.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-a2121de3-c3d7-5681-b7ea-8ccce6a79af5",
+      "locale": "zh",
+      "sourceSHA256": "9c2f3008e027fc51df63e4eff4129f24bb124213dfc6732a9d8e0d37301d02b7",
+      "evidenceSHA256": "dcc927ae3a09e0148b599907645b6b1cbffa07e43b3ff0fbe0691f3b5e97859f",
+      "text": "与高达角色打麻将，争夺具有特殊效果的机体模型，并积累量表发动改变局面的招式。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-a2121de3-c3d7-5681-b7ea-8ccce6a79af5",
+      "locale": "en",
+      "sourceSHA256": "feb9cd436df4a0048dca4daf632c96e57af9d9cf31f04ee03540510dd7e89bb7",
+      "evidenceSHA256": "5d4dba306304eeff0d0bad259f5a4d25d369a65a4d488709af1d3e6fcb413bf2",
+      "text": "Play mahjong with Gundam characters, competing for mobile-suit figures that carry special effects and building a gauge for powerful techniques.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-2ba0fd3a-6797-5488-bd9d-7af7346c28fc",
+      "locale": "zh",
+      "sourceSHA256": "f2851b6d20a88a396ca1b7aa431e6b682740b0d98d00def6e0b404ad74844339",
+      "evidenceSHA256": "b66789f028f899e14b2fba26f3b338681ae73aeaf07c2d6c2acaf1222423e958",
+      "text": "选择主角展开迷宫冒险，用武器破解机关、对抗巨大首领，并通过不同宝石组合调整角色能力。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-2ba0fd3a-6797-5488-bd9d-7af7346c28fc",
+      "locale": "en",
+      "sourceSHA256": "ec3144f8bdf8df6d27dc3f84489a0792627eb70be7099467411359f1a3aa43ea",
+      "evidenceSHA256": "6d2b09a86bc4d0f9234a1578210ca8ed8dd97d6524bd7839bd37e004c80d889e",
+      "text": "Choose a hero for dungeon adventures, using weapons against obstacles and bosses while gem combinations customise character abilities.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-a6f7b7e8-f0f3-521d-b789-4067dcaa483c",
+      "locale": "zh",
+      "sourceSHA256": "fe30907bf10faa3616362ea57e42c4f36b879a804f6126d935a22b59b65afef1",
+      "evidenceSHA256": "9e6204f7704eadffaa6f999638b4f265848e3694e3ed414921859fe8b7105308",
+      "text": "在一个月的日常与事件中认识不同角色，让相处经历逐渐改变关系与结局。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-a6f7b7e8-f0f3-521d-b789-4067dcaa483c",
+      "locale": "en",
+      "sourceSHA256": "ca9116a3709771a9031d676ce583fff06ce46ac8c9dbf9181be76864ee7d6499",
+      "evidenceSHA256": "0501879d56bdee9f6e108c4a8bbdb81926c4818f1215acab14464925592fe4e8",
+      "text": "Meet characters through a month of daily encounters and events, developing relationships that shape how each story ends.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-96e9a433-da41-57b6-8041-a6ffc816384a",
+      "locale": "zh",
+      "sourceSHA256": "3aa1b060e847b8948ea2374a8dfece1c79cf72bf48cee7fcdf4b473ecf743fe4",
+      "evidenceSHA256": "b918159d5bd26f1ea8bf260b8f29df7c393c9e9a2a3f8a334c4d730bf728fde9",
+      "text": "收集 SNK 与 Capcom 角色卡牌，通过卡牌对战逐层挑战失控的卡牌塔。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-96e9a433-da41-57b6-8041-a6ffc816384a",
+      "locale": "en",
+      "sourceSHA256": "3172e4d16026c78c7a463ef9400dbbf498803dd9db66d0173b7a39fd17360bba",
+      "evidenceSHA256": "eef7c713fb1a6ce3501011ce2d5df9f09b1786ab6ce20a0d26561b7d52ea642f",
+      "text": "Collect character cards from SNK and Capcom and battle through a tower controlled by a malfunctioning computer.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-c56b942b-bf2f-5342-a5f4-fcd03e638147",
+      "locale": "zh",
+      "sourceSHA256": "54003e5f0e526cd45094226bd2756a3ae4436df964a42027b4ebc855385fe438",
+      "evidenceSHA256": "3b1d8259b9411e0824b581ceae315b770e7ba0297bd7c1050f6527ebb0dea4ee",
+      "text": "以《游戏王》规则进行卡牌决斗，通过教程学习基础，再在逐步开放的模式中检验自己的牌组。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-c56b942b-bf2f-5342-a5f4-fcd03e638147",
+      "locale": "en",
+      "sourceSHA256": "6c4ca0c438c16ffb60da2e9d5bf0eb10db05179ac28a183784e4f10ea1230d5b",
+      "evidenceSHA256": "4198a6918d09d584262c8669dc8d8a22626a590469a7e323ff98bca2bdc84488",
+      "text": "Practise Yu-Gi-Oh! card duels with a tutorial that introduces the rules before progressing through further modes.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-e645be1b-d24f-524c-88de-054dc272fa79",
+      "locale": "zh",
+      "sourceSHA256": "726cccfcc93fcb3123a88cfd6efa1da520088ae8ae3cfa4ec4c9c7c3ae372d34",
+      "evidenceSHA256": "02ccd890eaf87d03323d39d353b0febd5eb544d8e946704380cc76f2d9f941e5",
+      "text": "往返现实世界与电子设备中的网络世界，追查犯罪组织引发的事件。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-e645be1b-d24f-524c-88de-054dc272fa79",
+      "locale": "en",
+      "sourceSHA256": "b7b218da81790ca9fdf4d8141bbd98e81149f28767af5ee86108f7bca8d649d3",
+      "evidenceSHA256": "88fd2a9515b61e851ef04a3e18ae56dd1fcb345e7225612c962ff3eca8db422c",
+      "text": "Move between the real world and the networks inside electronic devices to investigate incidents caused by WWW.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-efef3e43-1957-5f4b-b9a6-8ca078946168",
+      "locale": "zh",
+      "sourceSHA256": "df9e49ee970259dcd5b8bada68fe7588c0a79fe3659c3324a21a0e43347adf8d",
+      "evidenceSHA256": "1f322a647d96e8e52ff71c2ad14078fbf68d91ff9e4991168f114b9c036763d7",
+      "text": "以采访者的身份接近赛车世界中的人物，在赛事、突发事件与友情故事之间逐步建立关系。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-efef3e43-1957-5f4b-b9a6-8ca078946168",
+      "locale": "en",
+      "sourceSHA256": "c5e8545a40e72560d3ad7bca1a7b93b44bf690f2ff88929bae6a45c765268079",
+      "evidenceSHA256": "b43e14a5f5065f5d9d65c7ceca4586461e94cb81b63dbb1fae03064d2651b966",
+      "text": "Take the role of an interviewer getting to know people in the racing world through competitions, unexpected incidents and friendships.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-15432d11-9497-5b7f-a759-f04bf34d7b6b",
+      "locale": "zh",
+      "sourceSHA256": "654cc521f05967820d28dd13d24b0420cc1877fede61b5eafae51f52292701d4",
+      "evidenceSHA256": "e4758d6412c3efb4531285019bb58a4155a01e88e57957103dbb21caf490c7bb",
+      "text": "体验甜甜圈店员的日常工作，学习制作不同款式的甜甜圈，并完成店内各类任务。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-15432d11-9497-5b7f-a759-f04bf34d7b6b",
+      "locale": "en",
+      "sourceSHA256": "9bec86f403a3c4082bfd5b39aaa2ab1f3bba8d6bce46aacdb00d106fec6bef33",
+      "evidenceSHA256": "32eb483f1e7a654c769c8d8461db9806273cbbc9d3836d773c46353d26c28af0",
+      "text": "Experience the work of a doughnut-shop employee by preparing different doughnuts and completing store tasks.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-32c9dcda-fc12-52f7-a452-c60ebf79e5fe",
+      "locale": "zh",
+      "sourceSHA256": "08759d1bc78344cc220cf1525b2281f9cd43e6b6ba41a9504f07849ecefdb876",
+      "evidenceSHA256": "df2162023c74d72ded7698b1909931af3e9d76e61be2d157c51abc18f31cf574",
+      "text": "扮演年轻魔法师探索被封闭的城镇与不断崩坏的外界，追寻失去的记忆和通向外部的道路。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-32c9dcda-fc12-52f7-a452-c60ebf79e5fe",
+      "locale": "en",
+      "sourceSHA256": "35760c19db771bd378ec81a4fafce5ff1acaad700dca087d04f334bd907869f2",
+      "evidenceSHA256": "89c2fb95097145ce4c801d511b259d6332c2e7b3f5730f606c19c7df25614202",
+      "text": "Explore a sealed town and a deteriorating outside world as a young magician seeking lost memories and a way out.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-a2e83f27-d0e3-5693-9426-4fd9648161d0",
+      "locale": "zh",
+      "sourceSHA256": "88374b8c10494b5512b6d60e7da6a713c57ff9438b7378ee7d07bc09872c20ef",
+      "evidenceSHA256": "81835bb6a7117113f047ca99c7fabb2f752941c053f84c4e845ad93e1c21f3a5",
+      "text": "在虚构的复古游戏世界中接受挑战，轮流体验动作、角色扮演、冒险与益智等不同玩法。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-a2e83f27-d0e3-5693-9426-4fd9648161d0",
+      "locale": "en",
+      "sourceSHA256": "b751070cd3b7ebf1c0f53eb82ab95950d07763126e4f949f4c96e643f24d802c",
+      "evidenceSHA256": "0ef781cc23af71cb93d4b09c711d384105e5d0196e2c0638ebec693581fab127",
+      "text": "Accept challenges across fictional retro games spanning action, role-playing, adventure and puzzle formats.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-4547b839-b257-569f-8f59-dcbfc40c4c53",
+      "locale": "zh",
+      "sourceSHA256": "d2725456ae5d2f45cb0c5cfb4d93701568f6f94c94163afb5fda7b6d3f1288e6",
+      "evidenceSHA256": "b2a6aa4ac3cde18fa3425b9ac61fad6a827a651d3dd435d089958ed7c1e1731d",
+      "text": "用触笔拉住画面中的线再松手，将角色弹向目标方向，借助弹射击败敌人并越过障碍。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-4547b839-b257-569f-8f59-dcbfc40c4c53",
+      "locale": "en",
+      "sourceSHA256": "9681d4e7b8d214d0f8a0f552a3f63900fb055f75e3f7a066e32335e2feadcafb",
+      "evidenceSHA256": "f9b8e2247b7315184ec276c8bbb06bde2091a324c5eadf1c9ad5af4a5dfa1825",
+      "text": "Pull a wire with the stylus and release it to launch the character towards a chosen direction.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-c3cfd889-9622-51f1-9a61-7146ea16bc94",
+      "locale": "zh",
+      "sourceSHA256": "c1514729b97b6d11b47a2767b9f7a2430d78977a5cc08a50ed72a7faac3beb34",
+      "evidenceSHA256": "b116b533c2551acb1b5cfc04f648fbe7f5dd814f5b36cc84db14b37052d494c3",
+      "text": "发射泡泡，让相同颜色连成三个或以上并消除。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-c3cfd889-9622-51f1-9a61-7146ea16bc94",
+      "locale": "en",
+      "sourceSHA256": "6ca35d6a627683430808be88f732dc37eb183e7c5baaed5804b7f7f4497977d7",
+      "evidenceSHA256": "3ef37318e35c1330f176e5817fcd9eff438518b14e8ddb5d8b5598803d63878c",
+      "text": "Fire bubbles to connect and clear groups of at least three matching colours.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-41fd673f-3ffb-558b-9f54-c31e6e440067",
+      "locale": "zh",
+      "sourceSHA256": "4f7ed85dbfcd2842554fcd235a02c8f9a76f1fd30d5137ab199d537d3e860b24",
+      "evidenceSHA256": "a34ddf75585ee125704c016b9eb7454f18abbd74af19d40fe7ede689e7a9e634",
+      "text": "跟随《相棒》的特命系搭档调查为游戏编写的新案件，使用右京视角等专属演出观察事件。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-41fd673f-3ffb-558b-9f54-c31e6e440067",
+      "locale": "en",
+      "sourceSHA256": "600cd85a12b494877bf5bbe656b410ea1d76908d3ffb0513c3ec39478a86f885",
+      "evidenceSHA256": "5a38f500ab5352faacc9967994d72b081abed55a17379078b00620f81d635763",
+      "text": "Join Aibou's investigative partners in original cases written for the game, with features such as Ukyo Vision shaping how events are presented.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-a0982fdd-8824-5223-b70f-c699819459d0",
+      "locale": "zh",
+      "sourceSHA256": "083779b9e32409e726452bab93970abb2183443da72ea8cf39bac9ddfe521a83",
+      "evidenceSHA256": "25f5c8c122fe5a9f135840fa98695f519d177502b4dc74e194fc287d6a9e8723",
+      "text": "在神秘岛屿招募怪物、组成队伍，通过战斗取得成长资源并分配技能点。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-a0982fdd-8824-5223-b70f-c699819459d0",
+      "locale": "en",
+      "sourceSHA256": "c37f9644c6cd7d3076325b1ce9f674464cc5e4291916b640bda7ae82cd90267d",
+      "evidenceSHA256": "c25e47be66350396ce41f2ac7f1c040c23a21bdf108b8ecb1935a42257d0df8e",
+      "text": "Scout monsters on a mysterious island, build a team and allocate skill points earned through battles.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-a28b6bc6-906f-53ae-8c36-76039a3dc30e",
+      "locale": "zh",
+      "sourceSHA256": "0f72e68b5c380bffb65b5f5cf5ef8db0e5611f738fc517b549cd729eb045d370",
+      "evidenceSHA256": "b6503ac09659e87fcc708edd2957eb906ecf777c1be0bdf001c46fac469fb174",
+      "text": "扮演金田一耕助调查连环案件，从对话中取得重要词语，再用这些线索试探人物心理。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-a28b6bc6-906f-53ae-8c36-76039a3dc30e",
+      "locale": "en",
+      "sourceSHA256": "691f7f3b33ff194d9582591af9e3a4c00fab948e6282ad9eafd1c10f2c2648ef",
+      "evidenceSHA256": "9bbe51b841ca35c104ebd69df9af9496ae7e7577c8ac3422728e64ac4ff4a8c8",
+      "text": "Investigate a series of killings as Kousuke Kindaichi, collecting important terms from conversations and using them to question other characters.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-1f0f3bbd-ccb1-5bec-89e7-f0bd2462f7d0",
+      "locale": "zh",
+      "sourceSHA256": "93983d78c6580f81d98beb4b1c96bc320668987107cc25fb6b632c24fba21d2b",
+      "evidenceSHA256": "2582503a3c1f7e85f1fd517345e3fcc9ed2ce88df9bdc3702308fc17bc3a6607",
+      "text": "从街头人物那里收集灵感，设计服饰并放入自己的店铺销售。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-1f0f3bbd-ccb1-5bec-89e7-f0bd2462f7d0",
+      "locale": "en",
+      "sourceSHA256": "cb4f9549b1a675d04db457e3dbfa421a639514f5fc46f9326154077e1a52c6a3",
+      "evidenceSHA256": "bfffaf4702eeab006b9e61fe581cdeeea0e8a67b76478c021fc10b1f6bd8f3e3",
+      "text": "Gather ideas from people on the street, design clothing and sell it in your own shop.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-8fcb1994-e60d-533b-a21f-cd6f14f4eb36",
+      "locale": "zh",
+      "sourceSHA256": "689eb1721d3750e37fb7130905347bbe54ad530a1b8ce91d20a2537dfcc22a85",
+      "evidenceSHA256": "5edfa3a95d41cf385c7c64fcf54cd4eaa4d2099db975a5a641176cecdca5a9a0",
+      "text": "在故事阅读与任务之间追查围绕女主角的阴谋，见证她被卷入狙击手命运后的成长。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-8fcb1994-e60d-533b-a21f-cd6f14f4eb36",
+      "locale": "en",
+      "sourceSHA256": "face142e62e61b96725044b8790b7d76e8e2882e713890e34e690e43950f1ac1",
+      "evidenceSHA256": "0ef03c148fb2d775593fa6a561efd080168e788ff6f7e71c127580297defab74",
+      "text": "Follow a young heroine drawn into a sniper's role while uncovering the conspiracy surrounding her.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-5cc21a2f-a18f-5a7e-83f6-a6d2db54a38d",
+      "locale": "zh",
+      "sourceSHA256": "e86a81f127ef05754d09a3cdd8af1856ee92a5e39082cca2d1e637292ee9b57b",
+      "evidenceSHA256": "3d769507509674bfa5774bab5d57fe1228936990c3b5bac52d5b96d2714d9bed",
+      "text": "作为高楼管理者，根据住户活动与经营信息安排扩建，在租金、住宿和餐饮收入之间维持运转。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-5cc21a2f-a18f-5a7e-83f6-a6d2db54a38d",
+      "locale": "en",
+      "sourceSHA256": "13000dd1087329dc74fccd1d7447bc40dcf3a1812affdc66bea157cc91e8c77f",
+      "evidenceSHA256": "99b6a1a59942be66b95dc72ab15d02377ef7d6867603a40254a6be1ce07bd7b0",
+      "text": "Manage a tower by observing its occupants and financial information, then expand while balancing revenue from rent, accommodation and food.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-32c38ba7-1584-5254-a3b3-77cc2b287406",
+      "locale": "zh",
+      "sourceSHA256": "608665e572be199ccd34eee268866f910ce5c0ab9c3cfca8a39542c542c55d98",
+      "evidenceSHA256": "9d12cbe23873f2d6efc09accc49cdd3f59b20720f1026e284f4d0b319c055a83",
+      "text": "围绕名为 MYSTICKER 的能量贴纸展开战斗，把贴纸选择融入角色扮演的对局结构。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-32c38ba7-1584-5254-a3b3-77cc2b287406",
+      "locale": "en",
+      "sourceSHA256": "a1b2707a61e56578db6113a605579472973674aab9cc54a3ea3a74249679a70b",
+      "evidenceSHA256": "abb21caf9592661bbf1bace64b7127b61746aee33454fe19957dddf4b18b4942",
+      "text": "Fight using energy stickers called MYSTICKER, incorporating their selection into an RPG battle structure.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-f0184c2d-1ec6-5f8b-9a19-00816831263e",
+      "locale": "zh",
+      "sourceSHA256": "1256a263cf4f558f2c01c665666897bf738500cc437199748fc777acbad36352",
+      "evidenceSHA256": "f8d5c90031c320d0f8b7bb1f1769895b59d029ff5ece02da108375c15e6dd49b",
+      "text": "收集并培养怪物，带领伙伴参加世界各地的竞速比赛。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-f0184c2d-1ec6-5f8b-9a19-00816831263e",
+      "locale": "en",
+      "sourceSHA256": "fc89b59ecd399891e51e9afad70b3280fe850ee4eb822de254da8935d3ad3ead",
+      "evidenceSHA256": "fde055f8911ab5a880afcc4789fc070d178bbf84913d22508eb36530ea332933",
+      "text": "Collect and raise monsters, then enter races around the world with your partners.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-e49089ef-67ef-5e15-9103-19ce4adcb0d5",
+      "locale": "zh",
+      "sourceSHA256": "afafa5415d52398f23b4cf305267a3e8515f494ac30482b88761beefb4616910",
+      "evidenceSHA256": "b81a88d4f402aa1455254cf390d29f75e9ceee9128d5383cfa08433468685539",
+      "text": "在城市寻找并组合创作灵感，先完成故事构思，再通过连字等小游戏编排台词，最后进行勾线和贴网点。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-e49089ef-67ef-5e15-9103-19ce4adcb0d5",
+      "locale": "en",
+      "sourceSHA256": "3f9f3a7c4e8846bcde4ab2a4bc0fd4dd46a040f4e9abdba122c1a688d8443331",
+      "evidenceSHA256": "f5ff393c89c48f11e357e9aaa6e6e915f504d1f266b89a08c7ade0ad8b8cebfd",
+      "text": "Search the city for ideas, combine them into a plot and use activities such as connecting letters to build dialogue.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-66247f27-90b3-5d22-85a2-30d1e9d5a341",
+      "locale": "zh",
+      "sourceSHA256": "b50d22a48f977df07f56a3cdd7e9fdaba31e6d4633dbe289f8b310ea4b03158d",
+      "evidenceSHA256": "02c178d0b86a9db13debd71f3022469ae435a85fb142d68e16e6ebd30803fc12",
+      "text": "从偶像的立场安排营业与训练，在人物交流中推进故事，再把练习成果和回忆带入试镜。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-66247f27-90b3-5d22-85a2-30d1e9d5a341",
+      "locale": "en",
+      "sourceSHA256": "3d7f6556399671a4850e819b5d68b69b2f49b03a6eb59484135dc74408b42f27",
+      "evidenceSHA256": "710151fe7bcc2ab9d0c7946842ca896e31a781a597f106ee1f3a959edc200a9e",
+      "text": "Choose between promotional work and lessons as an aspiring idol, developing the story through encounters before taking experience and memories into auditions.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-faf9ee9f-76c9-56e2-83e3-4d8f718d15a4",
+      "locale": "zh",
+      "sourceSHA256": "be3a26ac83d2ed7584c47c56faeb9493732c381f11060df5241d792a03c8dfcc",
+      "evidenceSHA256": "954ba27643c1b1752d06060b06ef9901b93158ae0509bd556f6ea7d048a66626",
+      "text": "围绕原创双胞胎主角展开故事，在交流与支线事件中提升同伴信赖，再按照角色能力和相性组织队伍参战。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-faf9ee9f-76c9-56e2-83e3-4d8f718d15a4",
+      "locale": "en",
+      "sourceSHA256": "75514bdb287eddb47c4a81df39c7d9b696a87193dc46112541d3e639c9d1173c",
+      "evidenceSHA256": "a01855f3a2706e3eea81a35271921a049693410f10809035376ffcf2ae879b66",
+      "text": "Follow original twin protagonists, improving trust through conversations and side events before forming a team around character abilities and compatibility.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-165e95f1-7e0c-5281-a60b-40ea64fc4c1d",
+      "locale": "zh",
+      "sourceSHA256": "7537764eaa9f07d4a49d997bbe8416ce7672ad8b96ed982371f6293280c2803c",
+      "evidenceSHA256": "d294eb5675dc36ec308dd7d2cdbe232b0fab504a003d2fc6cfafbddc5a615d5b",
+      "text": "接受魔王有野提出的任务，体验虚构的动作、射击、竞速与角色扮演游戏。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-165e95f1-7e0c-5281-a60b-40ea64fc4c1d",
+      "locale": "en",
+      "sourceSHA256": "19b6eee1fed2cfad70b6d9edef5f18b55297045d6826908d37c153f02732189d",
+      "evidenceSHA256": "c20b6dd0a94d4ca67c501fcab6701f61eb800070379139a6db344e86f371c01f",
+      "text": "Take on Arino's challenges in fictional action, shooting, racing and role-playing games.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-f423d793-2635-5c1e-b85e-38322d2aac8b",
+      "locale": "zh",
+      "sourceSHA256": "a7c38f0901a1292e82db58bd432c3ccd528e6380df60ee355d5278e45123a8e6",
+      "evidenceSHA256": "0317f581ad4759cb0a17ccb5a0cbf1ae09e2fe4e88cc00094727dc07f1065ea9",
+      "text": "组建冒险队伍进入高塔，在三维迷宫中探索并追踪夺走秘宝的魔法师。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-f423d793-2635-5c1e-b85e-38322d2aac8b",
+      "locale": "en",
+      "sourceSHA256": "0348e29c10001337dd9156b3aae9baf90da5f26b8c7baceb784b0d41957d001b",
+      "evidenceSHA256": "9e3080c355753c6789a714e0d339ba9ea31a4cd9dcd8a7677da03f4522c75931",
+      "text": "Enter a tower's three-dimensional dungeon to pursue a magician who has stolen a treasure.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-47b2216b-4de8-527e-8c96-c7aa1f719992",
+      "locale": "zh",
+      "sourceSHA256": "2857efe987b1607171d5766a08c31c8e55b03558a0da52ed84113e3edea186c5",
+      "evidenceSHA256": "7668227822de27241cbbc248a60aa2ad301681757383ba8c69c2d0143557a13d",
+      "text": "用触笔观察并探索封闭设施，收集和组合道具寻找出口与失去的记忆。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-47b2216b-4de8-527e-8c96-c7aa1f719992",
+      "locale": "en",
+      "sourceSHA256": "ed8bbdbe07fbab88e1de5a5e146c25451f1609bb0616ee5801b63f3455035439",
+      "evidenceSHA256": "a60a55c74072c00d3a7fba31dadc2aa37ce8a5adc4c6dc0a9dcb83444b3de5e2",
+      "text": "Explore an enclosed facility with the stylus, collecting and combining items while searching for an exit and lost memories.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-e686f881-41cb-5408-9e28-c6053a7c1d69",
+      "locale": "zh",
+      "sourceSHA256": "1abcb59f7b00c55fbfbfda1c701ba9187061702255767c1396597615e71c8944",
+      "evidenceSHA256": "dce3108b215323fa409729c87d5a532b9b322de2ca4aab3508fd5a2b13513aab",
+      "text": "在刑警与联邦调查员两位主角之间作出选择，调查迈阿密案件的不同线索与发展。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-e686f881-41cb-5408-9e28-c6053a7c1d69",
+      "locale": "en",
+      "sourceSHA256": "25c21fe307115c12bac09ef6c3dc538e6de59942586d4f8afe9578df8712cf74",
+      "evidenceSHA256": "f2af4e2299bec0cc3a00774cf3f8bb1bc02794e9b785cb2d42b21b1a731ecf18",
+      "text": "Choose between a police detective and an FBI agent to follow different developments in a Miami investigation.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-b0d7cfc0-75f4-5275-af7d-b35709d4f80f",
+      "locale": "zh",
+      "sourceSHA256": "b158c2097f88860874b08963b72866d2003680396d439f2a063b389817d04040",
+      "evidenceSHA256": "6911c91744299e463fb3211b9210a29cc16919d28ad95f0e71e6bb45d4956840",
+      "text": "用触笔发掘化石，再通过声音唤醒古代生物，并在培养空间中促使伙伴进化。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-b0d7cfc0-75f4-5275-af7d-b35709d4f80f",
+      "locale": "en",
+      "sourceSHA256": "eef664d171496fc59e3e560e1fc90af7d061b67fc107ce3d25b0ee93ffadd8bb",
+      "evidenceSHA256": "64d65b506dbb85435e760a7a5798b29b63931b0cef36d5b6e9c373616d294cd3",
+      "text": "Excavate fossils with the stylus, awaken ancient creatures with your voice and develop them in a dedicated training space.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-fbb6bbaa-a416-5e88-b428-f0e0501b69a2",
+      "locale": "zh",
+      "sourceSHA256": "1a611ca5a89f9a601a2f378c4d3d0f89b86585c445d49372f8b6b6f6e4cf76e1",
+      "evidenceSHA256": "f29c36172a0cc88dd1672067aa2ed118479d1a1282a1336eb4b90fa4cebfcf33",
+      "text": "阅读发生在跨大陆列车上的多方冲突，并通过选择与决定探索不同结局。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-fbb6bbaa-a416-5e88-b428-f0e0501b69a2",
+      "locale": "en",
+      "sourceSHA256": "0e6de1668c9a697784c0bf8231c7c6a47fbe66a1c744561a2db70669b3c2cb5a",
+      "evidenceSHA256": "ae8c03fd5bed930b714374b8523d38da5b4c423bdc73d1695736091b2e185a2e",
+      "text": "Read a conflict involving several groups aboard a transcontinental train and make choices that open different endings.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-fd34c80a-f1a9-512c-9d2b-0533fb8fd4e3",
+      "locale": "zh",
+      "sourceSHA256": "4c6e689ddd704f3969fd521f44a400660ffb849b21e463a7a927f3d3675c35ae",
+      "evidenceSHA256": "17218ae3d13b7fd9faa6bc22d9394a32ec3dda8982cbceb3e4eb658bde2603a9",
+      "text": "以青野月音的身份在妖怪学园与不同角色交流，通过对话和活动提升关系。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-fd34c80a-f1a9-512c-9d2b-0533fb8fd4e3",
+      "locale": "en",
+      "sourceSHA256": "ad7f2caeea9b07edcb6a9a8017b080c6d2b30d1f8172f06af599ad954f7d1450",
+      "evidenceSHA256": "73a07811ae6d9fe3b01cc1318d52b10f639b59d56546557890fc928ec87ea223",
+      "text": "Interact with characters at Yokai Academy as Tsukune Aono, developing relationships through conversations and events.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-bbb4b2fa-fe9d-503e-a91e-ccdb3afb32cf",
+      "locale": "zh",
+      "sourceSHA256": "732b73dab975a67b98a7a09d25a44b55a08ed7494886d74c0e7ee6a4ed530bb4",
+      "evidenceSHA256": "9711ff654e4d3fc9b7f96627a3a74e5981ce937e92c58cbfbd479ed935458256",
+      "text": "阅读系列第四至第六篇组成的三段恋爱故事，分别体验不同主角、职业与环境中的关系变化。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-bbb4b2fa-fe9d-503e-a91e-ccdb3afb32cf",
+      "locale": "en",
+      "sourceSHA256": "48ce637f59991160fb26e2ebd93e576c33def0f9251705e481d35258cef0a652",
+      "evidenceSHA256": "67b6a358a31e22289c8de9cc872e7cfef89fb55a73e2c94a94dc0575692606fd",
+      "text": "Explore three romance episodes drawn from the fourth through sixth Days of Memories stories, with different protagonists, occupations and settings.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-6347c5a7-68d9-5780-831b-1c37bc8c46bc",
+      "locale": "zh",
+      "sourceSHA256": "b321accf10e22c628581611079ec7663cc940cb19bab26eef422862ae5df5d44",
+      "evidenceSHA256": "2a6eedb81d15cf672ce53c1644a70c13d093b4e206458baaf484375a646a6dd9",
+      "text": "操纵《海贼王》角色在上屏场地进行动作对战，同时在下屏触碰“精神卡”发动不同效果。",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    },
+    {
+      "workId": "nds-6347c5a7-68d9-5780-831b-1c37bc8c46bc",
+      "locale": "en",
+      "sourceSHA256": "fa66bddee620518cb37e5a6d3780f55cd66a839bcfcd232b5136f337c26f80f1",
+      "evidenceSHA256": "beaac60de6a30c386f0b16fbf1d32b5d35045a9c57c4dbd359959cc9662b1c25",
+      "text": "Control One Piece characters in action battles on the upper screen while touching Spirit Cards below to trigger different effects.",
+      "provenance": "code113 source-reviewed bilingual prose",
+      "review": "Self-review, not user approval"
+    }
+  ]
+}

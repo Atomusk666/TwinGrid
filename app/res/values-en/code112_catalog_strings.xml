@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ui_c11200000001">Utility</string>
+    <string name="ui_c11200000002">Real image downloaded and verified: </string>
+    <string name="ui_c11200000003">Offline text and the image index are bundled. Artwork comes from libretro-thumbnails, through JSDMirror first and a pinned jsDelivr version on failure. Connection check downloads and verifies a real image. Network failures remain retryable; replacing a user cover requires confirmation.</string>
+</resources>

@@ -1,0 +1,1123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="app_name">TwinGrid</string>
+  <string name="ui_df95c2b8810c" formatted="false">"本地搜索仍在更新，请稍候"</string>
+  <string name="ui_4ded08c5e852" formatted="false">"请选择当前列表中可用的 NDS 游戏"</string>
+  <string name="ui_f35fad4b266b" formatted="false">"游戏目录当前不可读，请在设置中检查"</string>
+  <string name="ui_9203bfc35aa6" formatted="false">"页面或选项已改变，已取消启动"</string>
+  <string name="ui_a8a407f6e8ac" formatted="false">"指定 ROM 启动请求已被系统接受"</string>
+  <string name="ui_1357501d4655" formatted="false">"未找到受支持的 DraStic。请先确认本机已安装官方固件配套的模拟器，再返回游戏库。"</string>
+  <string name="ui_ce8b16a08faf" formatted="false">"当前目录或模拟器入口不支持直接启动。请在设置中选择本机或存储卡上的 NDS 目录，并检查 DraStic 是否可用。"</string>
+  <string name="ui_745015a4107c" formatted="false">"未能读取或打开这份游戏。请确认存储卡和目录仍可访问，再重新选择游戏。"</string>
+  <string name="ui_0a54d1d4eacd" formatted="false">"游戏未能启动"</string>
+  <string name="ui_572cf45ba436" formatted="false">"返回"</string>
+  <string name="ui_37ac171c052a" formatted="false">"空间占用"</string>
+  <string name="ui_e1771fd27af7" formatted="false">"清理自动下载图片？"</string>
+  <string name="ui_cff0421ce0ad" formatted="false">"\n\n只清理未被用户指定的下载图片。保留用户封面、本地原图、中文资料与修正。"</string>
+  <string name="ui_c194f4e29f23" formatted="false">"清理下载图片"</string>
+  <string name="ui_2cd0f3be8738" formatted="false">"取消"</string>
+  <string name="ui_2da3906a24ee" formatted="false">"版本信息"</string>
+  <string name="ui_7dbc0f12979e" formatted="false">"仅打开模拟器主页"</string>
+  <string name="ui_3748cebf17a2" formatted="false">"无法保留只读目录权限："</string>
+  <string name="ui_5396f565de9c" formatted="false">"正在读取本地记录，请稍候"</string>
+  <string name="ui_ff51eefcab52" formatted="false">"系统目录选择器不可用"</string>
+  <string name="ui_85bd3094bc9b" formatted="false">"无法打开图片选择器"</string>
+  <string name="ui_db5e6454eba0" formatted="false">"导出选择器不可用"</string>
+  <string name="ui_57fdffffe362" formatted="false">"请导出到本机 Documents 目录"</string>
+  <string name="ui_3a598e4a4a48" formatted="false">"请导出到 Documents，不可写入游戏或存档目录"</string>
+  <string name="ui_628537a06225" formatted="false">"无法确认导出路径，未写入"</string>
+  <string name="ui_9a1d8c6a5082" formatted="false">"任务"</string>
+  <string name="ui_0c048f4df0b5" formatted="false">"搜索"</string>
+  <string name="ui_2810958ffa3b" formatted="false">"游戏卡槽"</string>
+  <string name="ui_551e846a4ac6" formatted="false">"选择一个游戏"</string>
+  <string name="ui_20a9019157a2" formatted="false">"打开游戏库 "</string>
+  <string name="ui_b8eb5f068caf" formatted="false">"全部游戏"</string>
+  <string name="ui_39a25feec6ca" formatted="false">"正在读取游戏库"</string>
+  <string name="ui_9385bfefca58" formatted="false">"我的收藏"</string>
+  <string name="ui_dbd67e367a67" formatted="false">"最近启动"</string>
+  <string name="ui_eb4ea691c17c" formatted="false">"方向键选择入口   A 进入\nRG 切换屏幕焦点"</string>
+  <string name="ui_df3d58c7d84b" formatted="false">"设置"</string>
+  <string name="ui_b1cbcac3ab62" formatted="false">"选择入口，开始浏览游戏"</string>
+  <string name="ui_8f0167a6cfd7" formatted="false">"搜索本地游戏"</string>
+  <string name="ui_57b941db7f4b" formatted="false">"拼音组合中 · 请先选择候选字"</string>
+  <string name="ui_b55da8e1078d" formatted="false">"清除筛选或搜索文字"</string>
+  <string name="ui_bec6ab1883ad" formatted="false">"B 返回"</string>
+  <string name="ui_a2fea32bc688" formatted="false">"Y 详情"</string>
+  <string name="ui_b550716adad2" formatted="false">"X 收藏"</string>
+  <string name="ui_7ea101e4f250" formatted="false">"排序 / 翻页"</string>
+  <string name="ui_b57db9dbc9eb" formatted="false">"A 启动"</string>
+  <string name="ui_cbd2484a0364" formatted="false">"X 取消收藏"</string>
+  <string name="ui_b60eb48519aa" formatted="false">"搜索选项"</string>
+  <string name="ui_f21e774869bf" formatted="false">"翻页"</string>
+  <string name="ui_4b6cbd00369e" formatted="false">"A 查看游戏"</string>
+  <string name="ui_d107036c6b53" formatted="false">"A 进入文件夹"</string>
+  <string name="ui_159faf025b61" formatted="false">"目录不可读"</string>
+  <string name="ui_29d0fbe5e5fb" formatted="false">"暂无游戏"</string>
+  <string name="ui_bd7d47428640" formatted="false">"A 启动游戏"</string>
+  <string name="ui_f75607bd165e" formatted="false">"编辑搜索文字 · 搜索键确认，B 收起"</string>
+  <string name="ui_5addbef7de97" formatted="false">"正在更新本地搜索…"</string>
+  <string name="ui_51600b82b280" formatted="false">"A 查看游戏  ·  L/R 切换入口"</string>
+  <string name="ui_e683cc0e3347" formatted="false">" 款"</string>
+  <string name="ui_25a7d39c1df9" formatted="false">"任务 ◦"</string>
+  <string name="ui_f46d4d0784fd" formatted="false">"任务 •"</string>
+  <string name="ui_5253040db864" formatted="false">"任务"</string>
+  <string name="ui_085afb40867c" formatted="false">"任务中心 · "</string>
+  <string name="ui_c9b9ae7a6144" formatted="false">"上一页"</string>
+  <string name="ui_8a8542f69648" formatted="false">"下一页"</string>
+  <string name="ui_498e1d59b4d7" formatted="false">"退出"</string>
+  <string name="ui_58e382bd001f" formatted="false">"下屏选择选项 · A 执行 · B 返回"</string>
+  <string name="ui_e081321dee47" formatted="false">"游戏资料"</string>
+  <string name="ui_800e19b42961" formatted="false">"文件信息"</string>
+  <string name="ui_a24d74d6915b" formatted="false">"修正资料"</string>
+  <string name="ui_b2793c3ef951" formatted="false">"诊断日志：开启"</string>
+  <string name="ui_353a09283917" formatted="false">"诊断日志：关闭"</string>
+  <string name="ui_190475c54441" formatted="false">"B / Y 返回     ·     ←→ 切换资料     ↑↓ 滚动"</string>
+  <string name="ui_0940d41da308" formatted="false">"浏览选项"</string>
+  <string name="ui_21517c09a6e0" formatted="false">"类型筛选"</string>
+  <string name="ui_5ee87e65261b" formatted="false">"退出搜索"</string>
+  <string name="ui_1a9a02338a37" formatted="false">"TwinGrid  /  类型"</string>
+  <string name="ui_c71bdd4fb6c1" formatted="false">"TwinGrid  /  游戏库"</string>
+  <string name="ui_ba778fd157de" formatted="false">"TwinGrid  /  设置"</string>
+  <string name="ui_e6f1802d5388" formatted="false">"TwinGrid  /  详细资料"</string>
+  <string name="ui_cb3b0d25b019" formatted="false">"TwinGrid  /  浏览选项"</string>
+  <string name="ui_f4c9c9027065" formatted="false">"游戏库"</string>
+  <string name="ui_00b514c36a6c" formatted="false">资料整理</string>
+  <string name="ui_7523035d2123" formatted="false">"详细资料"</string>
+  <string name="ui_552ce5566a77" formatted="false">"TwinGrid / 任务中心"</string>
+  <string name="ui_fc518cef07c1" formatted="false">"B / Y 返回     ·     ↑↓ 滚动"</string>
+  <string name="ui_e6f38016ef98" formatted="false">"启动当前选择的游戏"</string>
+  <string name="ui_3fe126996739" formatted="false">"按名称或修改时间浏览全部游戏"</string>
+  <string name="ui_6e29647e81ee" formatted="false">"收集喜欢的游戏，随时找到"</string>
+  <string name="ui_20b52fa40ae6" formatted="false">"查看最近发起的游戏启动"</string>
+  <string name="ui_27aa5714b07a" formatted="false">"管理本地目录、扫描和数据导出"</string>
+  <string name="ui_95717615adbe" formatted="false">"正在读取本地记录…"</string>
+  <string name="ui_0d76a5b95647" formatted="false">"打开游戏库选择游戏"</string>
+  <string name="ui_28297a18a5fa" formatted="false">"先选择 NDS 游戏目录"</string>
+  <string name="ui_fb3452f072e2" formatted="false">"下屏点卡槽开始设置；存档目录可以稍后添加。"</string>
+  <string name="ui_f1371857d45c" formatted="false">"从“全部游戏”选择一个游戏"</string>
+  <string name="ui_2b82c9974f0f" formatted="false">"首次使用"</string>
+  <string name="ui_97a678c88209" formatted="false">"选择 NDS 游戏目录"</string>
+  <string name="ui_b3085d4e8662" formatted="false">"游戏目录暂不可用"</string>
+  <string name="ui_6642afa69fe3" formatted="false">"A / 点此选择目录 "</string>
+  <string name="ui_aeb021e52aa1" formatted="false">"A / 点此启动游戏 "</string>
+  <string name="ui_64c026ac4dd6" formatted="false">" 个游戏"</string>
+  <string name="ui_a6448f2038d4" formatted="false">" 个收藏"</string>
+  <string name="ui_41929be0bae2" formatted="false">"还没有启动记录"</string>
+  <string name="ui_c1978ecafd88" formatted="false">"类型 · 全库"</string>
+  <string name="ui_2c15f0da9558" formatted="false">"13 个类型 · "</string>
+  <string name="ui_65fa1a09242d" formatted="false">" 个本地游戏"</string>
+  <string name="ui_9cb5cd37c956" formatted="false">"同一游戏可属于多个类型"</string>
+  <string name="ui_f2ee580869fe" formatted="false">"款"</string>
+  <string name="ui_84fe0a63a434" formatted="false">" 存"</string>
+  <string name="ui_f76c1468225a" formatted="false">"文件夹 &gt; "</string>
+  <string name="ui_0b556c3b6d9d" formatted="false">" · 存储目录"</string>
+  <string name="ui_dad6577a91dd" formatted="false">"类型 &gt; "</string>
+  <string name="ui_2c515b3e2e59" formatted="false">" · 全库"</string>
+  <string name="ui_e04531121e86" formatted="false">"限定范围 ▾"</string>
+  <string name="ui_b7c94e4a08a3" formatted="false">"全库搜索 ▾"</string>
+  <string name="ui_45d50a18dc43" formatted="false">"筛选："</string>
+  <string name="ui_b7425c2ae9c0" formatted="false">" 页  ·  "</string>
+  <string name="ui_7c7bdd10ca4d" formatted="false">" · 当前层条目 "</string>
+  <string name="ui_d93765d316c0" formatted="false">"本地搜索中…"</string>
+  <string name="ui_0bc454c73213" formatted="false">"目录暂不可读"</string>
+  <string name="ui_9c2b015d5b46" formatted="false">"目录右侧：子树 ROM 数"</string>
+  <string name="ui_f0bc66d16cda" formatted="false">"目录右侧：命中 / 子树 ROM"</string>
+  <string name="ui_9a29764ac591" formatted="false">"还没有游戏目录\n点此选择 NDS 游戏目录"</string>
+  <string name="ui_574707af706a" formatted="false">"游戏目录暂不可读\n点此重新选择目录，原记录保留"</string>
+  <string name="ui_bbe13eb92758" formatted="false">"正在搜索本地游戏…"</string>
+  <string name="ui_aba835d41b80" formatted="false">"没有匹配的本地游戏\n点此清空搜索，或切换搜索范围"</string>
+  <string name="ui_e404ebe0a0a8" formatted="false">"此范围没有该类型的游戏\n点此清除类型筛选"</string>
+  <string name="ui_99c36dcbd065" formatted="false">"当前文件夹没有 NDS 游戏\n点此返回"</string>
+  <string name="ui_763f295b200a" formatted="false">"还没有收藏\n点此浏览全部游戏，按 X 添加"</string>
+  <string name="ui_927ec36c05f6" formatted="false">"还没有启动记录\n点此浏览全部游戏"</string>
+  <string name="ui_e6f70897f436" formatted="false">"所选目录没有找到 NDS 游戏\n点此选择其他目录"</string>
+  <string name="ui_aa48fbe25242" formatted="false">"存储目录"</string>
+  <string name="ui_e3f404a27945" formatted="false">"搜索中"</string>
+  <string name="ui_e7031f38e27a" formatted="false">"无搜索结果"</string>
+  <string name="ui_01f197da56f2" formatted="false">"未选择游戏"</string>
+  <string name="ui_3d7e4d715f5c" formatted="false">"文件夹概览"</string>
+  <string name="ui_62aaca039b03" formatted="false">"当前层 "</string>
+  <string name="ui_ff7e66657eff" formatted="false">" 个 NDS 游戏\n"</string>
+  <string name="ui_36ab0c896a02" formatted="false">" 个子目录 · 合计 "</string>
+  <string name="ui_907d6f843340" formatted="false">" 个游戏（含子目录）\n\n"</string>
+  <string name="ui_1c803026148e" formatted="false">"此目录没有可浏览的 NDS 游戏。可按 B 返回，或在下屏搜索全库。"</string>
+  <string name="ui_8405530715ec" formatted="false">"按 A 进入当前层查看游戏和子目录，按 B 返回原来的目录位置。"</string>
+  <string name="ui_9e9eca600584" formatted="false">"保留原始目录层级"</string>
+  <string name="ui_2674088ab88b" formatted="false">"当前筛选命中 "</string>
+  <string name="ui_2edd4da9d287" formatted="false">"A 进入  ·  B 返回"</string>
+  <string name="ui_044bdf657544" formatted="false">"先选择游戏目录"</string>
+  <string name="ui_be38b4dc60cd" formatted="false">"在下屏选择存有 NDS 游戏的目录，授予只读访问。存档目录可以稍后添加。"</string>
+  <string name="ui_8615b0d9dd38" formatted="false">"游戏目录暂不可读"</string>
+  <string name="ui_aea4c85d3fb0" formatted="false">"原索引、收藏和中文资料已保留。可在下屏重新选择目录后继续浏览。"</string>
+  <string name="ui_a2e47200f639" formatted="false">"检查目录"</string>
+  <string name="ui_0b8e2a71b899" formatted="false">"正在组合中文输入"</string>
+  <string name="ui_ad5213dcfce0" formatted="false">"正在编辑搜索文字"</string>
+  <string name="ui_c5d750690e03" formatted="false">"正在搜索本地游戏库"</string>
+  <string name="ui_25dedbd2e350" formatted="false">"先在下屏选择候选字，再按搜索键确认。B 收起键盘时保留上次已提交的文字。"</string>
+  <string name="ui_72411c064185" formatted="false">"确认输入后显示匹配游戏的资料。可按搜索键完成输入，B 收起键盘。"</string>
+  <string name="ui_ab75a9a953f2" formatted="false">"本地查询完成后显示对应游戏的资料。"</string>
+  <string name="ui_0e3a7b6b00bf" formatted="false">"搜索输入"</string>
+  <string name="ui_3c4761459801" formatted="false">"没有匹配的本地游戏"</string>
+  <string name="ui_ebf33e450d2a" formatted="false">"清空搜索文字，或在下屏切换到全库搜索。只有当前游戏库中的 ROM 会出现在结果中。"</string>
+  <string name="ui_78dd4d296482" formatted="false">"这个文件夹没有 NDS 游戏"</string>
+  <string name="ui_1dc644043af9" formatted="false">"按 B 返回，或在下屏搜索全库。文件夹旁的数量包含其子目录。"</string>
+  <string name="ui_8413b6cec2be" formatted="false">"空文件夹"</string>
+  <string name="ui_45bd81dd675c" formatted="false">"还没有收藏"</string>
+  <string name="ui_a9994e596ce6" formatted="false">"在下屏浏览全部游戏，选中喜欢的游戏后按 X 添加。"</string>
+  <string name="ui_f669cedcee98" formatted="false">"从游戏库启动游戏后，这里会按最近启动时间排列。启动记录不表示即时存档。"</string>
+  <string name="ui_8fd443351725" formatted="false">"此范围没有游戏"</string>
+  <string name="ui_7e56b00c9752" formatted="false">"可在下屏清除类型筛选，或选择其他游戏目录。"</string>
+  <string name="ui_abec6d162f0a" formatted="false">"收藏  ·  "</string>
+  <string name="ui_cec2c0623d2c" formatted="false">"已有存档"</string>
+  <string name="ui_bf9f3397ade0" formatted="false">"存档目录不可读"</string>
+  <string name="ui_e8e71cadf7d0" formatted="false">"游戏简介"</string>
+  <string name="ui_be8185bbfb32" formatted="false">"可在下屏清除筛选或搜索全库。"</string>
+  <string name="ui_5ad78db20614" formatted="false">"暂无简介"</string>
+  <string name="ui_4aa9da2993c3" formatted="false">"目录暂不可读 · 本地资料保留"</string>
+  <string name="ui_e6e811e5a738" formatted="false">"Y 查看完整资料与来源"</string>
+  <string name="ui_daab6a438b4b" formatted="false">"全部设置"</string>
+  <string name="ui_85ca81cf6abd" formatted="false">" 页"</string>
+  <string name="ui_d572a5f0de51" formatted="false">"按最近启动排序 · 固定顺序"</string>
+  <string name="ui_de3c35c2a69a" formatted="false">"排序："</string>
+  <string name="ui_d44e9b3d3b31" formatted="false">"名称"</string>
+  <string name="ui_257bbcc44c83" formatted="false">"修改时间"</string>
+  <string name="ui_952473714e9a" formatted="false">"  ·  A 切换"</string>
+  <string name="ui_514a19b8f839" formatted="false">"目标页："</string>
+  <string name="ui_5b0bc83fbb10" formatted="false">"跳转到目标页"</string>
+  <string name="ui_45a8c1cc2b22" formatted="false">"跳到第一页"</string>
+  <string name="ui_27a262b56810" formatted="false">"跳到最后一页"</string>
+  <string name="ui_c7cd55e79b2a" formatted="false">"B 返回游戏库"</string>
+  <string name="ui_b24b994c733f" formatted="false">"↑↓ 选择选项   ←→ 调整 1 页   L/R 调整 10 页   A 执行"</string>
+  <string name="ui_8cb1111910aa" formatted="false">"电量 —"</string>
+  <string name="ui_84c2f35e52cc" formatted="false">"充电 "</string>
+  <string name="ui_25a3be6b5a1f" formatted="false">"电量 "</string>
+  <string name="ui_fdaac418aab6" formatted="false">"yyyy 年 M 月 d 日   EEEE"</string>
+  <string name="ui_b90321fed934" formatted="false">"当前没有选择游戏。\n\n"</string>
+  <string name="ui_52afba8ade75" formatted="false">"原始文件名\n"</string>
+  <string name="ui_76fc98780855" formatted="false">"\n\nROM 内部标题\n"</string>
+  <string name="ui_50c02b3b52dd" formatted="false">"\n文件大小  "</string>
+  <string name="ui_ffd988675f80" formatted="false">"\nROM 修改时间  "</string>
+  <string name="ui_b6afebd7143c" formatted="false">"\n\n存档状态  "</string>
+  <string name="ui_43ebb962a8a6" formatted="false">"\n存档文件  "</string>
+  <string name="ui_e4066ea46ec1" formatted="false">".dsv\n存档大小  "</string>
+  <string name="ui_852f9c9992f9" formatted="false">"\n存档更新时间  "</string>
+  <string name="ui_206e1adf56b8" formatted="false">"\n\nBanner 标题\n"</string>
+  <string name="ui_243339b84365" formatted="false">"\n\nROM 路径 / URI\n"</string>
+  <string name="ui_9e7da55686df" formatted="false">"\n\n存档目录\n"</string>
+  <string name="ui_94bc3d40defe" formatted="false">"未授权"</string>
+  <string name="ui_3b9e0caad093" formatted="false">"\n\n诊断\n"</string>
+  <string name="ui_dfc133e3b1bf" formatted="false">"未记录读取异常"</string>
+  <string name="ui_e1bf2210611d" formatted="false">"\n\n启动记录表示系统接受的启动请求，不推定游玩时长。"</string>
+  <string name="ui_4f14043eeba3" formatted="false">"版本信息不可用"</string>
+  <string name="ui_86bd26c5aad8" formatted="false">" · DS Classic\n\n诊断日志  "</string>
+  <string name="ui_80f7cda74fe0" formatted="false">"已开启（用于排查问题）"</string>
+  <string name="ui_6744b4c6a9aa" formatted="false">"已关闭"</string>
+  <string name="ui_872ea7eee520" formatted="false">"\n可使用右上按钮切换；日常使用建议关闭。\n\n本地游戏 "</string>
+  <string name="ui_bf05f62ec00e" formatted="false">"   收藏 "</string>
+  <string name="ui_9344f704c8f3" formatted="false">"\n最近启动 "</string>
+  <string name="ui_370b91fc1586" formatted="false">"\n\n游戏目录（只读）\n"</string>
+  <string name="ui_0d5583839a5a" formatted="false">"\n\n存档目录（只读）\n"</string>
+  <string name="ui_a407b068a02a" formatted="false">"\n\n启动状态\n"</string>
+  <string name="ui_eca3c4c02ad0" formatted="false">"\n\n上屏状态\n"</string>
+  <string name="ui_bd723cde2772" formatted="false">"\n\nDisplay 0 / 2 · 640 × 480\n旧确认游玩数据保留在导出中。\n本应用不修改 ROM 或存档文件。"</string>
+  <string name="ui_5e5292523205" formatted="false">"%d 年 %02d 月"</string>
+  <string name="ui_85217f7aff77" formatted="false">"日"</string>
+  <string name="ui_51a75f4634df" formatted="false">"一"</string>
+  <string name="ui_084b42f6e95e" formatted="false">"二"</string>
+  <string name="ui_a4c3313deb18" formatted="false">"三"</string>
+  <string name="ui_754a9d5828d5" formatted="false">"四"</string>
+  <string name="ui_c9b87f516a38" formatted="false">"五"</string>
+  <string name="ui_de07b5383874" formatted="false">"六"</string>
+  <string name="ui_5f62d65013a2" formatted="false">"补齐封面"</string>
+  <string name="ui_75f853d938c7" formatted="false">"暂停下载"</string>
+  <string name="ui_7730fe6c7fbe" formatted="false">"继续下载"</string>
+  <string name="ui_70b1aaf12ba1" formatted="false">"重试失败项"</string>
+  <string name="ui_f12249e193c2" formatted="false">"正在暂停…"</string>
+  <string name="ui_4fd026d051ac" formatted="false">"暂不可操作"</string>
+  <string name="ui_5ed4dd2d1738" formatted="false">"还没有封面任务"</string>
+  <string name="ui_65724f2085ff" formatted="false">"正在准备封面任务"</string>
+  <string name="ui_c6329a5ac882" formatted="false">"正在补齐封面"</string>
+  <string name="ui_0b6197d7c036" formatted="false">"已暂停 · 已完成内容保留"</string>
+  <string name="ui_84322925c212" formatted="false">"等待网络连接"</string>
+  <string name="ui_9dbf36b68701" formatted="false">"等待未计费网络"</string>
+  <string name="ui_85fd10dfa05b" formatted="false">"等待来源重试时间"</string>
+  <string name="ui_56d1aee96e19" formatted="false">"游戏 / 离开 TwinGrid 期间暂停"</string>
+  <string name="ui_e9b92e7af99a" formatted="false">"合盖 / 休眠期间暂停"</string>
+  <string name="ui_f22047630838" formatted="false">"本轮处理完成"</string>
+  <string name="ui_34b4f1b79ed0" formatted="false">"本轮结束 · 仍有缺口"</string>
+  <string name="ui_e3a62a01c589" formatted="false">"没有需要处理的项目"</string>
+  <string name="ui_ae7f1d2afa20" formatted="false">"任务未能完成"</string>
+  <string name="ui_b9c14cc8a16f" formatted="false">"上次任务中断 · 可继续"</string>
+  <string name="ui_1b5cc7f39f38" formatted="false">"已处理 "</string>
+  <string name="ui_53a32e161089" formatted="false">"正在检查任务范围"</string>
+  <string name="ui_69ab2f9c68be" formatted="false">"任务 · "</string>
+  <string name="ui_00431791047b" formatted="false">"索引已更新 "</string>
+  <string name="ui_9327267c0765" formatted="false">"\n索引失败 "</string>
+  <string name="ui_5341313c41cd" formatted="false">"\n等待重试 "</string>
+  <string name="ui_f73b52f0eac4" formatted="false">"\n封面图片下载 "</string>
+  <string name="ui_e9e0fdc242b4" formatted="false">" 张"</string>
+  <string name="ui_e15546316dd9" formatted="false">"新增关联 "</string>
+  <string name="ui_878eb42b5b3e" formatted="false">"  ·  复用 "</string>
+  <string name="ui_db23e83f5d5d" formatted="false">"\n来源无图 "</string>
+  <string name="ui_1b4cbfef18ff" formatted="false">"  ·  身份未明 "</string>
+  <string name="ui_1267d615d5c3" formatted="false">"\n失败 "</string>
+  <string name="ui_ace2cb819f0b" formatted="false">"  ·  已离库 "</string>
+  <string name="ui_b98d2034ea90" formatted="false">"\n实际下载 "</string>
+  <string name="ui_f6fedd26989d" formatted="false">"未开始 "</string>
+  <string name="ui_cdbb372d8d32" formatted="false">"  ·  在途 "</string>
+  <string name="ui_31e09a81adb8" formatted="false">"  ·  待重试 "</string>
+  <string name="ui_ba12515d27c4" formatted="false">"正在取消连接并等待当前写入停稳"</string>
+  <string name="ui_1a793081db29" formatted="false">"已请求继续，正在检查运行条件"</string>
+  <string name="ui_f7127024f49f" formatted="false">"处理结束不代表全库资料齐全"</string>
+  <string name="ui_9709f5bfcae3" formatted="false">"保留已完成结果；继续后重新检查网络"</string>
+  <string name="ui_8cca87194c0f" formatted="false">"真实目录"</string>
+  <string name="ui_393dbfc51f2d" formatted="false">"暂无已确认封面"</string>
+  <string name="ui_f2a1d8f27455" formatted="false">"读取封面…"</string>
+  <string name="ui_c86bc011ec0a" formatted="false">"封面暂不可读"</string>
+  <string name="ui_c501b90a29a7" formatted="false">"简介较长，请按 Y 查看完整内容"</string>
+  <string name="ui_6e4431fa826e" formatted="false">"有发行候选待确认"</string>
+  <string name="ui_66e747fdfdba" formatted="false">"未建立作品关联"</string>
+  <string name="ui_fbdc06f77669" formatted="false">"正文语言不符，所选语言资料待补"</string>
+  <string name="ui_d579f1912fe1" formatted="false">"简介已隐藏"</string>
+  <string name="ui_4f359773470f" formatted="false">"所选语言简介缺失"</string>
+  <string name="ui_42f98ea02db3" formatted="false">"资料正在准备"</string>
+  <string name="ui_066186b9f36f" formatted="false">"已有文字，内容审校待补"</string>
+  <string name="ui_349cd074f6b4" formatted="false">"类型未分类"</string>
+  <string name="ui_3fdefb0b4da8" formatted="false">"封面缺失"</string>
+  <string name="ui_2100bcbf5d23" formatted="false">"正在读取历史"</string>
+  <string name="ui_ce51e885a005" formatted="false">"稍后从任务入口重试。"</string>
+  <string name="ui_f525b84f31d6" formatted="false">"历史"</string>
+  <string name="ui_33393b6d0318" formatted="false">"尚无任务结果；任务结束后保留最近 20 份记录。"</string>
+  <string name="ui_0881017b5c27" formatted="false">"最近历史 · "</string>
+  <string name="ui_1cff767116f0" formatted="false">"保留最近 20 个回执。\n当时计数不会被后续修正覆盖。"</string>
+  <string name="ui_b28945155ccd" formatted="false">" · 未读"</string>
+  <string name="ui_890a508d1360" formatted="false">"任务结果尚未就绪"</string>
+  <string name="ui_797dc05aa611" formatted="false">"可稍后从任务历史查看；没有启动新任务。"</string>
+  <string name="ui_40759665c9a1" formatted="false">"任务结果"</string>
+  <string name="ui_104d652c7f2c" formatted="false">"当前还没有终态回执，或该结果已超出最近 20 条历史。正在执行的任务不受影响。"</string>
+  <string name="ui_6d617b8e6946" formatted="false">"当前资料缺口"</string>
+  <string name="ui_190fce48f46b" formatted="false">"关闭此结果提示"</string>
+  <string name="ui_8b2b90c6413c" formatted="false">"\n本轮范围："</string>
+  <string name="ui_083a89bb1070" formatted="false">" · 冻结成员："</string>
+  <string name="ui_4d5eec3556dc" formatted="false">"\n下载图片："</string>
+  <string name="ui_1da2c5590d3c" formatted="false">"\n执行结果按当时状态分类；当前资料变化不改写历史。"</string>
+  <string name="ui_d683105e64ea" formatted="false">"\n此旧回执未记录候选细分，归入‘历史未细分’，不借用现在的状态推断。"</string>
+  <string name="ui_a65e06308a92" formatted="false">"本轮结果"</string>
+  <string name="ui_d5725d2c38ad" formatted="false">"当时："</string>
+  <string name="ui_f78aff3d2ce6" formatted="false">"\n现在："</string>
+  <string name="ui_8502e1849f65" formatted="false">"不在当前库"</string>
+  <string name="ui_30d5449b06f6" formatted="false">"资料缺口已解决"</string>
+  <string name="ui_14b507659d56" formatted="false">"已离开当前库"</string>
+  <string name="ui_27f6ca245dc5" formatted="false">"结果读取失败"</string>
+  <string name="ui_2e1020ee77e6" formatted="false">"回执格式异常，原始记录已保留。"</string>
+  <string name="ui_e049eecf1e4a" formatted="false">"已有文字，内容待补"</string>
+  <string name="ui_92f6f4dda77e" formatted="false">"类型未分类 / 有冲突"</string>
+  <string name="ui_248e73813cb2" formatted="false">"作品未关联"</string>
+  <string name="ui_1d66da6d252d" formatted="false">"有候选待确认"</string>
+  <string name="ui_3d02e5d60310" formatted="false">"失败 / 等待重试"</string>
+  <string name="ui_3cd2358ccd54" formatted="false">"全部需要完善的条目"</string>
+  <string name="ui_bbfca5de3962" formatted="false">"资料完整度与补齐"</string>
+  <string name="ui_5fb51de67a93" formatted="false">"\n\n暂不处理只作标记，仍计入缺口。"</string>
+  <string name="ui_52f2a1639bef" formatted="false">"暂不处理 · "</string>
+  <string name="ui_dfd571b88b19" formatted="false">" / 用户字段需核对"</string>
+  <string name="ui_44ce7ae909bb" formatted="false">"搜索"</string>
+  <string name="ui_2428420e407f" formatted="false">"共 "</string>
+  <string name="ui_a7f4dfd234a4" formatted="false">" 条 · "</string>
+  <string name="ui_5def7dddbe8f" formatted="false">"当前筛选无缺口；可更换搜索或返回。"</string>
+  <string name="ui_609fd385ab8c" formatted="false">"\n\nA 处理 · B 返回\n"</string>
+  <string name="ui_1ae2217dfeae" formatted="false">"搜索名称、Game Code 或原因"</string>
+  <string name="ui_2fa6a18b4490" formatted="false">"名称与离线匹配"</string>
+  <string name="ui_4c5633dac508" formatted="false">"编辑简介"</string>
+  <string name="ui_a925027f048c" formatted="false">"查找网络文字候选"</string>
+  <string name="ui_0f7bbcedd844" formatted="false">"修正类型"</string>
+  <string name="ui_3e93d591e3cd" formatted="false">"查找并纠正发行"</string>
+  <string name="ui_a4c3d775ea6a" formatted="false">"封面处理"</string>
+  <string name="ui_ad92339e3794" formatted="false">"修改显示名称"</string>
+  <string name="ui_2ca3c6035ae9" formatted="false">"来源、匹配与字段状态"</string>
+  <string name="ui_63273e998700" formatted="false">"来源与当前资料"</string>
+  <string name="ui_d4261b27d48d" formatted="false">"已核对，保留当前用户字段"</string>
+  <string name="ui_6b0e13e42b1d" formatted="false">"单字段恢复自动结果"</string>
+  <string name="ui_ccffeab00aac" formatted="false">"恢复待办提醒"</string>
+  <string name="ui_94b5f1c50075" formatted="false">"暂不处理（仍计入缺口）"</string>
+  <string name="ui_3a8eccc0bfda" formatted="false">"\n\n本轮当时："</string>
+  <string name="ui_e883092566d4" formatted="false">"\n\n选择具体字段处理；本地文件和存档保持独立。"</string>
+  <string name="ui_3003318e729a" formatted="false">"查找"</string>
+  <string name="ui_083bb67ab5a1" formatted="false">"请输入查找内容"</string>
+  <string name="ui_b14629ce8a9c" formatted="false">"关联作品 · 中文名 / 别名 / Game Code"</string>
+  <string name="ui_96e790b9c8af" formatted="false">"纠正发行 · 名称 / 完整 Game Code"</string>
+  <string name="ui_f4c0b6ae298a" formatted="false">"正在查找离线候选"</string>
+  <string name="ui_451afc6b49e5" formatted="false">"正在查询随包文字与索引…"</string>
+  <string name="ui_6930f34d6130" formatted="false">"没有离线候选"</string>
+  <string name="ui_6bab9756d1e8" formatted="false">"请换用中文别名、英文发行名或完整 Game Code；未知身份不会强行匹配。"</string>
+  <string name="ui_dd40b3f79c39" formatted="false">"更换查找条件"</string>
+  <string name="ui_d3cfbb878a07" formatted="false">"手工补充简介"</string>
+  <string name="ui_fb1c97956dae" formatted="false">"暂不处理"</string>
+  <string name="ui_f474dbebef25" formatted="false">"下一页候选"</string>
+  <string name="ui_c11330b85234" formatted="false">"选择"</string>
+  <string name="ui_37a3a796866b" formatted="false">"作品"</string>
+  <string name="ui_a2a41a1d7535" formatted="false">"发行"</string>
+  <string name="ui_64af28c77281" formatted="false">"候选"</string>
+  <string name="ui_3628e1991667" formatted="false">"\n候选仅供核对，尚未应用。"</string>
+  <string name="ui_286035213d7c" formatted="false">"预览并明确关联"</string>
+  <string name="ui_ef92046f7b74" formatted="false">"\n\n用户名称、简介、类型与指定封面均保留；身份变化后提示核对。不会下载图片。"</string>
+  <string name="ui_e40c61166db8" formatted="false">"关联此作品"</string>
+  <string name="ui_f619cd28c688" formatted="false">"确认此发行"</string>
+  <string name="ui_aaa866e9443d" formatted="false">"发行代码与本地文件不一致"</string>
+  <string name="ui_50bc0750e9bb" formatted="false">"\n这可能属于续作、地区版或测试版。只有确认实际改版身份后才继续。"</string>
+  <string name="ui_fa0bc3899679" formatted="false">"仍明确关联"</string>
+  <string name="ui_56ab25af509b" formatted="false">"读取当前简介"</string>
+  <string name="ui_8ff96a94dabe" formatted="false">"正在读取离线正文…"</string>
+  <string name="ui_738b740a69f6" formatted="false">"简介读取失败"</string>
+  <string name="ui_46ac2d847e22" formatted="false">"\n原资料未改变，请返回后重试。"</string>
+  <string name="ui_186e8932efa1" formatted="false">"空白需使用明确的隐藏动作；保存不认证玩法事实。"</string>
+  <string name="ui_d046b2cbf4c9" formatted="false">"只改显示名，不修改文件名。"</string>
+  <string name="ui_a3030bf8f16d" formatted="false">"保存"</string>
+  <string name="ui_83c52129032a" formatted="false">"隐藏简介"</string>
+  <string name="ui_8836276c613c" formatted="false">"恢复自动"</string>
+  <string name="ui_1c354c142669" formatted="false">"请输入有效内容；简介最多 5000 字，名称最多 300 字"</string>
+  <string name="ui_6bdb4435095e" formatted="false">"正在保存…"</string>
+  <string name="ui_1bd91a7d0c53" formatted="false">"已保存"</string>
+  <string name="ui_a3294623e030" formatted="false">"隐藏此条目的简介？"</string>
+  <string name="ui_24b18fa06a22" formatted="false">"这会明确保留空覆盖，并计入缺口；恢复自动结果是另一个动作。"</string>
+  <string name="ui_145219e726b8" formatted="false">"隐藏"</string>
+  <string name="ui_42702bd480e5" formatted="false">"放弃未保存内容？"</string>
+  <string name="ui_e7f51b070eff" formatted="false">"放弃"</string>
+  <string name="ui_fd4b9e3b6c68" formatted="false">"继续编辑"</string>
+  <string name="ui_f8b4e7548fbd" formatted="false">"有未保存内容"</string>
+  <string name="ui_6b32fb6a3e5d" formatted="false">"修正类型 · 多选"</string>
+  <string name="ui_2f40aeca61ca" formatted="false">"简介覆盖 → 自动正文"</string>
+  <string name="ui_23446e27d61d" formatted="false">"已确认网络文字 → 随包正文"</string>
+  <string name="ui_f705268e2037" formatted="false">"类型 → 自动类型"</string>
+  <string name="ui_2d35f40c0846" formatted="false">"显示名称 → 自动名称"</string>
+  <string name="ui_ff9c275ef972" formatted="false">"作品 / 发行 → 自动关联"</string>
+  <string name="ui_e11837488a8f" formatted="false">"指定封面 → 自动封面"</string>
+  <string name="ui_1df265afa661" formatted="false">"仅恢复所选字段；其他修正、收藏和启动记录保留。"</string>
+  <string name="ui_a8e1cdc7cd12" formatted="false">"仅移除此字段覆盖，使用当前自动资料。"</string>
+  <string name="ui_e0534b8a4e46" formatted="false">"恢复"</string>
+  <string name="ui_42969ebf2803" formatted="false">"保存失败 · 可重试"</string>
+  <string name="ui_65c58b71e091" formatted="false">"只修改图片关联，不写正文或类型。\n已有图片文件保留。"</string>
+  <string name="ui_543fc1d9671a" formatted="false">"选择已缓存的封面"</string>
+  <string name="ui_1aac1b284d8f" formatted="false">"通过系统选择本地图片"</string>
+  <string name="ui_b32369743a53" formatted="false">"联网查找封面"</string>
+  <string name="ui_61e7cee74847" formatted="false">"等待来源重试"</string>
+  <string name="ui_dadf38fa43fa" formatted="false">" 之后可重试；退避时间保留。"</string>
+  <string name="ui_b9bad950786b" formatted="false">"请先核对封面发行"</string>
+  <string name="ui_aa7d311fc771" formatted="false">"文字作品关联已经变化；请确认正确发行，或指定本地图片。原图片文件仍保留。"</string>
+  <string name="ui_8c4cc1bc31da" formatted="false">"当前发行"</string>
+  <string name="ui_93bf32c1ba5f" formatted="false">"原关联，需核对"</string>
+  <string name="ui_257774dcb6e6" formatted="false">"本地封面"</string>
+  <string name="ui_ac5e0bd415b5" formatted="false">"网络缓存封面"</string>
+  <string name="ui_1f4303748371" formatted="false">"暂无已确认缓存图"</string>
+  <string name="ui_237fc34c8c92" formatted="false">"可通过系统选择本地图；没有触发网络请求。"</string>
+  <string name="ui_24be4c21abf1" formatted="false">"已缓存封面"</string>
+  <string name="ui_98bcff133ce2" formatted="false">"身份改变后，原图片不会自动套用。选择前请核对作品；只改封面字段。"</string>
+  <string name="ui_ed2b825a3f9d" formatted="false">"确认使用此缓存封面"</string>
+  <string name="ui_f2d7b38d7491" formatted="false">"使用此封面"</string>
+  <string name="ui_267c4a7a86dd" formatted="false">"全部类型"</string>
+  <string name="ui_54b89f901274" formatted="false">"未分类"</string>
+  <string name="ui_be37d84119d6" formatted="false">"动作"</string>
+  <string name="ui_c79e8435b942" formatted="false">"冒险"</string>
+  <string name="ui_a94c85829dc2" formatted="false">"角色扮演"</string>
+  <string name="ui_9c8eb75c7e58" formatted="false">"策略"</string>
+  <string name="ui_d2ff05cd7a92" formatted="false">"竞速"</string>
+  <string name="ui_ef7be5be3c13" formatted="false">"体育"</string>
+  <string name="ui_6efa526f558b" formatted="false">"格斗"</string>
+  <string name="ui_fbe878295afd" formatted="false">"射击"</string>
+  <string name="ui_646b073df633" formatted="false">"益智"</string>
+  <string name="ui_db9514212493" formatted="false">"音乐"</string>
+  <string name="ui_b09717236dd1" formatted="false">"模拟/养成"</string>
+  <string name="ui_d2909f1647e7" formatted="false">"其他"</string>
+  <string name="ui_0c165cf04230" formatted="false">"离线资料仍在关联，请稍后重新导出"</string>
+  <string name="ui_8546c6a8eec3" formatted="false">"游戏库或离线关联在导出期间更新，请重试"</string>
+  <string name="ui_2992d2200554" formatted="false">"资料语言跟随应用"</string>
+  <string name="ui_9937e365aaf3" formatted="false">"简体中文"</string>
+  <string name="ui_1f57c28e086b" formatted="false">"跟随系统 / System default"</string>
+  <string name="ui_98a28c9b4bbe" formatted="false">"资料语言"</string>
+  <string name="ui_127527c89c51" formatted="false">"语言 / Language"</string>
+  <string name="ui_4294829eb5ed" formatted="false">"资料语言控制正文和缺口统计；另一语言的正文与搜索仍然保留。"</string>
+  <string name="ui_e18a6fb0cfe2" formatted="false">"只改变 TwinGrid 界面语言。游戏、系统与键盘保持各自设置。"</string>
+  <string name="ui_71ddd9c35faa" formatted="false">"完整 Game Code / No-Intro serial 精确一致；发行地区="</string>
+  <string name="ui_3925f665ba21" formatted="false">"；内部标题="</string>
+  <string name="ui_86c0c8eff102" formatted="false">"；同代码发行记录="</string>
+  <string name="ui_d3071f993892" formatted="false">"。关联基础发行资料，未验证修改版整 ROM 校验值。"</string>
+  <string name="ui_78bd588dd823" formatted="false">" 类型通过该发行记录 CRC "</string>
+  <string name="ui_71abe75e395a" formatted="false">" 关联，非 ROM 头部校验。"</string>
+  <string name="ui_2e08d71a6cfa" formatted="false">"相同完整 serial 存在不同发行名称或内部标题异常；需确认。"</string>
+  <string name="ui_458b8f2d0eb6" formatted="false">"名称精确规范化候选；Game Code 未交叉确认，未自动应用。"</string>
+  <string name="ui_181ceaf9ff03" formatted="false">"无完整 serial 或名称关联；保留原名称及图标。"</string>
+  <string name="ui_4d26bc13c4df" formatted="false">"已识别"</string>
+  <string name="ui_1bc2a5e16dd2" formatted="false">"候选待确认"</string>
+  <string name="ui_ae7a38b48f18" formatted="false">"数据源不可用"</string>
+  <string name="ui_5619f3a11913" formatted="false">"暂未识别"</string>
+  <string name="ui_b9d0546ab47e" formatted="false">"用户标记玩法稿"</string>
+  <string name="ui_ab2a249cae2c" formatted="false">"用户文字 · 未作事实认证"</string>
+  <string name="ui_4e71a378dc47" formatted="false">"来源文字 · 待玩法审校"</string>
+  <string name="ui_7b4e8faebb7d" formatted="false">"故事介绍"</string>
+  <string name="ui_aaa46aa4ec01" formatted="false">"资料概况"</string>
+  <string name="ui_4b99e0820e48" formatted="false">"内容与用途"</string>
+  <string name="ui_26ac5cb501e8" formatted="false">"玩法简介"</string>
+  <string name="ui_fc21312490ab" formatted="false">"开始已排队封面"</string>
+  <string name="ui_1e883999c246" formatted="false">"任务 · 新结果"</string>
+  <string name="ui_5a574d4fee00" formatted="false">"任务 •"</string>
+  <string name="ui_0da6ef405fa1" formatted="false">"当前本地文件 "</string>
+  <string name="ui_c23d37ec9507" formatted="false">" · 当前所选语言简介 "</string>
+  <string name="ui_65129dd345ae" formatted="false">"\n随包正文覆盖 "</string>
+  <string name="ui_f537df555a2a" formatted="false">" · 所选语言缺口 "</string>
+  <string name="ui_d8e77191667b" formatted="false">"\n封面 "</string>
+  <string name="ui_ddd0392bcc1f" formatted="false">" · 未分类 "</string>
+  <string name="ui_6390744e8a64" formatted="false">" · 正在准备 "</string>
+  <string name="ui_91506b1c07d5" formatted="false">"\n点击缺口进入条目；各类可重叠，不能相加。"</string>
+  <string name="ui_d28efe456cb9" formatted="false">"资料正在准备…"</string>
+  <string name="ui_69d24e5f811a" formatted="false">"中文资料尚未更新"</string>
+  <string name="ui_6559ede452c6" formatted="false">"正在读取本地资料…"</string>
+  <string name="ui_3194c51b5407" formatted="false">"全库审计已导出至应用私有文件"</string>
+  <string name="ui_6fc81641283c" formatted="false">"审计导出失败："</string>
+  <string name="ui_0f2f210f449f" formatted="false">"待映射"</string>
+  <string name="ui_d2e7329fee33" formatted="false">"下载图片 %.1f / 160 MiB\n本地及用户封面副本 %.1f MiB\n派生缩略图 %.1f / 64 MiB"</string>
+  <string name="ui_4d9bb79886d9" formatted="false">"\n\n本地游戏 "</string>
+  <string name="ui_533f5177061b" formatted="false">"\n已识别 "</string>
+  <string name="ui_35758b444ced" formatted="false">"  ·  待确认 "</string>
+  <string name="ui_b244ae59098a" formatted="false">"\n未分类 "</string>
+  <string name="ui_c66fd79de46a" formatted="false">"\n本地封面关联 "</string>
+  <string name="ui_cb8ea1fa801f" formatted="false">"  ·  联网封面关联 "</string>
+  <string name="ui_9e06636c65de" formatted="false">"\n实际下载图片 "</string>
+  <string name="ui_ecb746332e17" formatted="false">"%.1f MiB（上限 160 MiB）"</string>
+  <string name="ui_e02b6bd74d88" formatted="false">"\n本地/用户封面副本 "</string>
+  <string name="ui_aea00e89371c" formatted="false">"\n待执行 "</string>
+  <string name="ui_0f02b0205454" formatted="false">"  ·  失败/待重试 "</string>
+  <string name="ui_1fd972460257" formatted="false">"本地资料已就绪"</string>
+  <string name="ui_8f0af14424a4" formatted="false">"资料读取失败；原文件保留"</string>
+  <string name="ui_050f56927a6e" formatted="false">"新游戏 / 缺失封面"</string>
+  <string name="ui_d3e0d04ab38b" formatted="false">"随包发行索引"</string>
+  <string name="ui_814d955e5f34" formatted="false">"已加入下一轮队列；继续本轮后可开始备选下载"</string>
+  <string name="ui_a85e9197b799" formatted="false">"已加入下一轮队列；本轮范围保持不变"</string>
+  <string name="ui_94da0ac260ab" formatted="false">"下一轮队列已满，请完成当前任务后再试"</string>
+  <string name="ui_d9c49b140d84" formatted="false">"此游戏的联网备选封面"</string>
+  <string name="ui_ddc279c63cc6" formatted="false">"已加入队列，继续后下载"</string>
+  <string name="ui_e96c7a8eb517" formatted="false">"已开始此游戏的封面检查"</string>
+  <string name="ui_15eb787febf8" formatted="false">"当前游戏库 · 检查全部，补齐缺失封面"</string>
+  <string name="ui_a3b57d62c6d2" formatted="false">"无法保存本轮计划；原资料保留"</string>
+  <string name="ui_ff53a8ec0a7b" formatted="false">"自动策略已开启；只处理新游戏或缺失封面，保留用户暂停"</string>
+  <string name="ui_0e451fa30bf2" formatted="false">"自动补封面已关闭；当前显式任务仍由任务中心控制"</string>
+  <string name="ui_4634c948a23a" formatted="false">"已排队的备选封面"</string>
+  <string name="ui_0a88d1fa5eb5" formatted="false">"已暂停，继续后重试"</string>
+  <string name="ui_d090743fb72a" formatted="false">"封面连接与当前写入已停稳；离线中文匹配独立运行"</string>
+  <string name="ui_5f2b35a1c936" formatted="false">"返回 TwinGrid 后继续，保留用户暂停"</string>
+  <string name="ui_c1c38f7edf8c" formatted="false">"开盖后重新检查运行条件"</string>
+  <string name="ui_72339e9a480a" formatted="false">"正在检查封面来源连接"</string>
+  <string name="ui_dc4ed99f8997" formatted="false">"网络受限或已暂停"</string>
+  <string name="ui_00c986eb36f2" formatted="false">"封面来源已响应 · 收到 "</string>
+  <string name="ui_d4a8cbd37f96" formatted="false">" KiB 索引；未修改资料"</string>
+  <string name="ui_258bcab7dd4f" formatted="false">"来源检查已暂停"</string>
+  <string name="ui_852e8f24aacd" formatted="false">"来源检查未完成："</string>
+  <string name="ui_9ef14ec17d7b" formatted="false">"已完成内容保留"</string>
+  <string name="ui_a07c1ef4e882" formatted="false">"等待本地游戏库恢复"</string>
+  <string name="ui_7d2a4db21646" formatted="false">"当前库已无此条目"</string>
+  <string name="ui_5f0ca2e5f6fb" formatted="false">"已有可用封面"</string>
+  <string name="ui_52c0f1f875d3" formatted="false">"来源暂无图片；未到重新检查时间"</string>
+  <string name="ui_517c46af2960" formatted="false">"发行身份待确认；未发起图片下载"</string>
+  <string name="ui_2a106930e2af" formatted="false">"允许未计费网络后继续；用户暂停仍独立保留"</string>
+  <string name="ui_6e1677a53291" formatted="false">"网络恢复后自动检查，已下载内容保留"</string>
+  <string name="ui_a3c113878b89" formatted="false">"下载并校验封面索引"</string>
+  <string name="ui_705e41fefba2" formatted="false">"匹配来源、下载并校验图片"</string>
+  <string name="ui_cbd1bb4a9a88" formatted="false">"封面来源清单"</string>
+  <string name="ui_b1e810c4ba34" formatted="false">"已更新封面索引；已有资料和成功项保持"</string>
+  <string name="ui_a9b68aff6627" formatted="false">"新封面已校验并关联"</string>
+  <string name="ui_f0a3a5a18118" formatted="false">"复用已验证图片"</string>
+  <string name="ui_a275fe4346b8" formatted="false">"发行身份需要确认"</string>
+  <string name="ui_e44943297d50" formatted="false">"当前来源索引没有此发行的图片键；可刷新索引或更换来源"</string>
+  <string name="ui_8041e9a113b4" formatted="false">"执行已退让，内容保留"</string>
+  <string name="ui_ae5ead4d8907" formatted="false">"连接超时"</string>
+  <string name="ui_9b59256c370f" formatted="false">"此来源的准确图片地址返回 404"</string>
+  <string name="ui_135b6570effd" formatted="false">"来源暂不可用："</string>
+  <string name="ui_d335fafb7106" formatted="false">"保留 Retry-After；下次可重试 "</string>
+  <string name="ui_b9ea83a6997b" formatted="false">"读取封面来源索引"</string>
+  <string name="ui_eb894f64f3a2" formatted="false">"读取补充类型与简介索引…"</string>
+  <string name="ui_5d43f5eaf480" formatted="false">"授权目录中唯一同名图片或已识别完整 Game Code 图片"</string>
+  <string name="ui_af7a608e371f" formatted="false">"类型资料下载 %.1f MiB"</string>
+  <string name="ui_55ef88781a74" formatted="false">"条目已改变，请重新预览后应用"</string>
+  <string name="ui_e2655567e176" formatted="false">"条目已离开当前库"</string>
+  <string name="ui_a00495c1c28d" formatted="false">"关联已变更；原用户字段保留，请核对简介、类型与指定封面。旧自动图片暂停显示，文件保留。"</string>
+  <string name="ui_6d605b9cf7b3" formatted="false">"请先读取离线发行索引"</string>
+  <string name="ui_418cbdedc5c6" formatted="false">"用户明确确认的发行记录"</string>
+  <string name="ui_2da6e861ba67" formatted="false">"保存回读不一致"</string>
+  <string name="ui_70bcc8f27997" formatted="false">"已保存并回读确认"</string>
+  <string name="ui_05bd8e6f3e80" formatted="false">"保存失败，输入已保留："</string>
+  <string name="ui_9ab52bc4933e" formatted="false">"用户选择的本地图片"</string>
+  <string name="ui_be7b9ed1920e" formatted="false">"本地封面无效："</string>
+  <string name="ui_f651c9b6ba91" formatted="false">"本轮没有可重试失败项"</string>
+  <string name="ui_95e5ac19005c" formatted="false">"仅重试上一轮失败项"</string>
+  <string name="ui_6b0f7d245946" formatted="false">"保留来源退避"</string>
+  <string name="ui_961efdb8130c" formatted="false">"仅刷新封面索引"</string>
+  <string name="ui_78e520865295" formatted="false">"请先结束当前封面任务，再刷新索引"</string>
+  <string name="ui_cf0eaaff9bb1" formatted="false">"下载缓存已清理；用户封面和资料保留"</string>
+  <string name="ui_15e608217008" formatted="false">"\n\n失败 / 待重试\n"</string>
+  <string name="ui_8321455db9bb" formatted="false">"\n下次可重试 "</string>
+  <string name="ui_4016edf3dedf" formatted="false">"libretro / No-Intro\nNDS 发行索引：完整 serial、地区、原版 CRC/SHA1。资料按当前库标识本地关联，不上传 ROM。\n\nlibretro genre / developer / publisher\n仅经发行记录 CRC 关联；字段缺失保留未分类。ROM 头部校验不当作整 ROM CRC。\n\nlibretro-thumbnails\n仅下载已确认发行名称对应的 Named_Boxarts 图片。图片版权归原权利人，不随 APK 打包。\n\nGameTDB / DS-Homebrew\n已调查公开 Game Code 封面方法。当前 GameTDB TLS/HTTP 访问受限，不绕过证书或访问控制。\n\nScreenScraper\n可选来源未启用：需要自己的开发者授权和用户凭证，须遵守账户配额。没有借用其他项目密钥。\n\nTwilightBoxart\n参考公开来源说明；GPL-3.0 实现未复制。\n\n无统计上报。仅 HTTPS 请求公开 NDS 索引及所需图片；不发送路径、存档、ROM、游玩记录。资料目录仅在应用私有空间。"</string>
+  <string name="ui_567f03d91413" formatted="false">"正在准备随包资料"</string>
+  <string name="ui_9166fc79df48" formatted="false">"\n平台：Nintendo DS\n类型："</string>
+  <string name="ui_5dc9f4687208" formatted="false">"中文正文："</string>
+  <string name="ui_65364e6fd8c7" formatted="false">"缺失"</string>
+  <string name="ui_4d99c976beb8" formatted="false">"可用"</string>
+  <string name="ui_4578dccccd49" formatted="false">"此作品尚无随包中文稿"</string>
+  <string name="ui_9defcc6b60d3" formatted="false">"\n\n作品键："</string>
+  <string name="ui_56b148e28bac" formatted="false">"明确关联作品，不改变本地发行"</string>
+  <string name="ui_0d4d02d59fb1" formatted="false">"发行记录："</string>
+  <string name="ui_9be9a769f5b8" formatted="false">"\n候选来自随包名称、别名、完整标识；需要核对版本后选择。"</string>
+  <string name="ui_29bcf77f48ce" formatted="false">"新资料准备失败；旧资料和用户数据保留"</string>
+  <string name="ui_eaf098989e8a" formatted="false">"离线资料暂不可用；用户名称与游戏库保留"</string>
+  <string name="ui_ce22080b0203" formatted="false">"正在匹配随包资料 · 不需要网络"</string>
+  <string name="ui_759fcd29e97a" formatted="false">"离线资料不可读取；保留上次有效内容"</string>
+  <string name="ui_c3e0d92c8b62" formatted="false">"已是当前匹配结果 · 本资料包仍保留缺稿"</string>
+  <string name="ui_1b2cbe1233d3" formatted="false">"离线匹配完成 · 关联 "</string>
+  <string name="ui_8a319d14ce9f" formatted="false">"，所选语言简介 "</string>
+  <string name="ui_5116b1d54c97" formatted="false">"离线关联暂不可用；本地名称与搜索保留"</string>
+  <string name="ui_89f6dd9c5397" formatted="false">"本次匹配失败 · 上次有效内容保留"</string>
+  <string name="ui_679745227ba1" formatted="false">"当前资料仍在关联，请稍后重试。"</string>
+  <string name="ui_a6331a4547d6" formatted="false">"无法读取当前正文："</string>
+  <string name="ui_d8ea5b864bba" formatted="false">"作品关联已变化，请重新打开编辑器。"</string>
+  <string name="ui_160743299abe" formatted="false">"所选语言随包正文："</string>
+  <string name="ui_e2faba8465e6" formatted="false">"离线文字资料 "</string>
+  <string name="ui_3ff2762c7023" formatted="false">"\n发行目录 "</string>
+  <string name="ui_20f2b2fbe836" formatted="false">" 条 · 已编辑中文 "</string>
+  <string name="ui_0d10e0e2da62" formatted="false">" 个作品\n随包关联 "</string>
+  <string name="ui_36fcc2e1f963" formatted="false">" 个本地文件 · 随包正文覆盖 "</string>
+  <string name="ui_28a5c369ca52" formatted="false">" 个\n文字匹配与编辑不触发封面下载。"</string>
+  <string name="ui_6470fbb77ba4" formatted="false">"来源仅有发行说明，未当作玩法简介"</string>
+  <string name="ui_6ec3bac650d6" formatted="false">"源发行 SHA1 / 完整 serial 关联"</string>
+  <string name="ui_5b6946b4dee7" formatted="false">"；源 releaseReferenceURL 相同，作品="</string>
+  <string name="ui_0a5e5a09d03f" formatted="false">"，只共享玩法资料"</string>
+  <string name="ui_5cd62a579fcf" formatted="false">"；本发行或同名同 serial 修订"</string>
+  <string name="ui_806b5b5ad72b" formatted="false">"；提供字段的 releaseID="</string>
+  <string name="ui_ace1aa2a6856" formatted="false">"；不改变本地 ROM 或封面发行身份"</string>
+  <string name="ui_80a851b1df45" formatted="false">"全部条目"</string>
+  <string name="ui_e35442d3a457" formatted="false">"身份未定 / 历史未细分"</string>
+  <string name="ui_5e7990d59972" formatted="false">"本轮未取得图片"</string>
+  <string name="ui_364f5245d2d6" formatted="false">"本轮已离库"</string>
+  <string name="ui_9ef3543e96c1" formatted="false">"新增封面关联"</string>
+  <string name="ui_ee17c664a740" formatted="false">"复用已有封面"</string>
+  <string name="ui_c69291da629b" formatted="false">"中断 / 尚未处理"</string>
+  <string name="ui_c27041585556" formatted="false">"无法读取"</string>
+  
+  
+  <string name="ui_80a57e03f071" formatted="false">"未配置"</string>
+  
+  <string name="ui_202126859f48" formatted="false">"请选择游戏目录"</string>
+  <string name="ui_ffeaf8d489fb" formatted="false">"本地缓存不可用；请在设置中扫描"</string>
+  <string name="ui_110531ee537b" formatted="false">"已导出 TwinGrid 数据（不含 ROM/存档内容）"</string>
+  <string name="ui_c55e9d64e5b5" formatted="false">"导出失败："</string>
+  <string name="ui_95ecd0c86947" formatted="false">"扫描已取消；保留已有条目与收藏"</string>
+  <string name="ui_a730a8f0d387" formatted="false">"未授权 NDS 目录"</string>
+  <string name="ui_e65f626686ff" formatted="false">"新目录；扫描中"</string>
+  <string name="ui_652c7360d9be" formatted="false">"扫描目录…可取消"</string>
+  <string name="ui_77b4016f3f11" formatted="false">"已查 "</string>
+  <string name="ui_34fe26432073" formatted="false">" 个目录，发现 "</string>
+  <string name="ui_907b5e07a511" formatted="false">" 个 NDS"</string>
+  <string name="ui_1530a48ad04b" formatted="false">"ROM 读取失败："</string>
+  <string name="ui_8107a88d1d89" formatted="false">"读取 "</string>
+  <string name="ui_1ee6ed6dd781" formatted="false">"；可取消"</string>
+  <string name="ui_4afb214ff4b0" formatted="false">"扫描完成 "</string>
+  <string name="ui_ae8651bdd05e" formatted="false">"扫描不完整；保留缓存 "</string>
+  <string name="ui_e8fb2f295e3b" formatted="false">" 个 NDS / 存档 "</string>
+  <string name="ui_7ac123ae60eb" formatted="false">" / 读取异常 "</string>
+  <string name="ui_a49dd8af7a35" formatted="false">"目录不可读取；保留缓存："</string>
+  <string name="ui_32c7a9c13309" formatted="false">"缓存 "</string>
+  <string name="ui_da215a7b74f2" formatted="false">"（已刷新）"</string>
+  <string name="ui_d6f0778c2741" formatted="false">"（目录未授权/不可读）"</string>
+  <string name="ui_17effe38ee70" formatted="false">"目录不可读取；保留缓存与收藏"</string>
+  <string name="ui_48a5e7b07125" formatted="false">" 个 NDS；验证目录中"</string>
+  <string name="ui_8da97ddda990" formatted="false">"开启"</string>
+  <string name="ui_3fd47edce45b" formatted="false">"关闭"</string>
+  <string name="ui_ce7ef28b670a" formatted="false">"允许"</string>
+  <string name="ui_4a044484f863" formatted="false">"不允许"</string>
+  <string name="ui_323d825eab5d" formatted="false">"取消扫描"</string>
+  <string name="ui_743497b67cd2" formatted="false">"开始扫描"</string>
+  <string name="ui_1182c5454f11" formatted="false">"未选择"</string>
+  <string name="ui_bc00d7ae4871" formatted="false">"可读"</string>
+  <string name="ui_4f9ee8dd92b7" formatted="false">"不可读"</string>
+  <string name="ui_521e65ffc7d0" formatted="false">"已授权"</string>
+  <string name="ui_9741f68e19c7" formatted="false">"匹配中"</string>
+  <string name="ui_cde760b90387" formatted="false">"重新匹配"</string>
+  <string name="ui_db8db0530432" formatted="false">"查看"</string>
+  <string name="ui_f88182fcd575" formatted="false">"进入"</string>
+  <string name="ui_5d4a2e74561e" formatted="false">"检查已有封面，下载缺失图片。\n本轮处理进度与全库覆盖分别显示。\n暂停只控制封面网络任务。"</string>
+  <string name="ui_5bfd872d077b" formatted="false">"\n\n使用随包文字库；不需要联网。\n缺稿需要后续资料包补充，多次匹配不会下载新简介。"</string>
+  <string name="ui_791618e0bf0a" formatted="false">"新扫描条目的缺失封面自动进入后续任务。\n开启策略不会继续已被用户暂停的任务。"</string>
+  <string name="ui_05c2afbc1ba3" formatted="false">"关闭时只使用未计费网络。\n继续任务仍会检查网络条件。"</string>
+  <string name="ui_11f1f4bcbdc9" formatted="false">"主动开启后申请系统许可。\n静默通知完成、部分完成或失败；点击只查看结果。\n拒绝许可仍可使用完整的应用内反馈。"</string>
+  <string name="ui_3c492cc0378e" formatted="false">"通过系统选择器授予只读访问。\n\n"</string>
+  <string name="ui_c5768ca9726c" formatted="false">"尚未选择"</string>
+  <string name="ui_1fa5970669a2" formatted="false">"当前目录可读取"</string>
+  <string name="ui_ef46f10dd318" formatted="false">"目录暂不可读，已有索引保留"</string>
+  <string name="ui_f7eb11036c9e" formatted="false">"只读取存档状态，不修改模拟器数据。\n\n"</string>
+  <string name="ui_65e720010933" formatted="false">"已保留只读目录授权"</string>
+  <string name="ui_9df45f19ede6" formatted="false">"\n\n目录扫描与封面任务分别控制。"</string>
+  <string name="ui_6601885a6e27" formatted="false">"普通浏览与搜索使用当前排序。\n最近启动始终按启动时间排列。\n各入口保留自己的位置与排序。"</string>
+  <string name="ui_ddb086a646ac" formatted="false">"\n\n只清理自动下载且未被用户指定的图片。\n保留用户封面、本地原图、中文资料和修正。"</string>
+  <string name="ui_1158671ac122" formatted="false">"只更新 libretro-thumbnails 图片清单。\n失败保留旧索引；不会重抓简介、类型或重置成功项。"</string>
+  <string name="ui_29db79aadf48" formatted="false">"\n\n随包资料\n"</string>
+  <string name="ui_308be5e9bc37" formatted="false">"封面与资料"</string>
+  <string name="ui_e99481375acf" formatted="false">"任务、离线匹配与下载策略"</string>
+  <string name="ui_a03119e61efc" formatted="false">"游戏目录"</string>
+  <string name="ui_e2c975763d9d" formatted="false">"只读授权、扫描与访问状态"</string>
+  <string name="ui_8448941cc31e" formatted="false">"显示与浏览"</string>
+  <string name="ui_1319dcff652f" formatted="false">"排序偏好与浏览入口"</string>
+  <string name="ui_2100fbd17556" formatted="false">"数据与存储"</string>
+  <string name="ui_6114c7a84492" formatted="false">"导出记录、空间与缓存清理"</string>
+  <string name="ui_0a114f362a5f" formatted="false">"关于与诊断"</string>
+  <string name="ui_cd178652fde7" formatted="false">"版本、署名与高级维护"</string>
+  <string name="ui_9ebc9b65d3fd" formatted="false">"当前任务与最近结果"</string>
+  <string name="ui_fbbab41c24b1" formatted="false">"补齐缺失封面"</string>
+  <string name="ui_027c3daadb67" formatted="false">"检查全库，复用已有封面"</string>
+  <string name="ui_5b251c155155" formatted="false">"离线双语资料"</string>
+  <string name="ui_697afc9da29b" formatted="false">"随包资料版本与重新匹配"</string>
+  <string name="ui_eaca0caa328b" formatted="false">"全库覆盖与缺口原因"</string>
+  <string name="ui_2285ca6e0448" formatted="false">"例外修正"</string>
+  <string name="ui_c6c2933ea3ed" formatted="false">"待确认发行与缺稿条目"</string>
+  <string name="ui_b38296844b70" formatted="false">"自动补封面"</string>
+  <string name="ui_2185225aef79" formatted="false">"新游戏的缺失封面策略"</string>
+  <string name="ui_1828b630a3f0" formatted="false">"计费网络下载"</string>
+  <string name="ui_f7904cccd849" formatted="false">"允许封面使用计费网络"</string>
+  <string name="ui_3be8decba2c5" formatted="false">"任务完成通知"</string>
+  <string name="ui_a16a3489b2cb" formatted="false">"静默提醒，可随时关闭"</string>
+  <string name="ui_53f5ff328e34" formatted="false">"NDS 游戏目录"</string>
+  <string name="ui_396a05bdeb74" formatted="false">"选择只读游戏目录"</string>
+  <string name="ui_6ac797305105" formatted="false">"DraStic 存档目录"</string>
+  <string name="ui_ad2f33dd71de" formatted="false">"只读取存档状态"</string>
+  <string name="ui_e32545d75592" formatted="false">"目录扫描"</string>
+  <string name="ui_7e09b942dad8" formatted="false">"开始 / 取消及上次结果"</string>
+  <string name="ui_01ea8c5a2c99" formatted="false">"中文、English、跟随系统"</string>
+  <string name="ui_3fa405d23dda" formatted="false">"独立选择正文与缺口语言"</string>
+  <string name="ui_a29375e863f0" formatted="false">"浏览排序偏好"</string>
+  <string name="ui_d0c49b7d7b36" formatted="false">"最近启动保留固定顺序"</string>
+  <string name="ui_596a53ed74d5" formatted="false">"返回游戏库"</string>
+  <string name="ui_4e9dc0b51bd1" formatted="false">"筛选在游戏库内选择"</string>
+  <string name="ui_ced3e1c3dc55" formatted="false">"导出收藏与记录"</string>
+  <string name="ui_b3692b013a24" formatted="false">"保存到本机 Documents"</string>
+  <string name="ui_56738959f3bf" formatted="false">"下载、本地副本和派生缩略图"</string>
+  <string name="ui_d3a48e753c9e" formatted="false">"查看范围与空间后确认"</string>
+  
+  <string name="ui_a99b3e159d92" formatted="false">"系统处理链、授权边界与恢复"</string>
+  <string name="ui_974deaa7005f" formatted="false">"应用与随包资料版本"</string>
+  <string name="ui_70174055607c" formatted="false">"资料来源与许可"</string>
+  <string name="ui_2bca4380acb8" formatted="false">"来源署名及运行库许可证"</string>
+  <string name="ui_4097bbc80765" formatted="false">"工程诊断"</string>
+  <string name="ui_0d414dcf6206" formatted="false">"访问状态、屏幕与日志"</string>
+  <string name="ui_bb1d19b85634" formatted="false">"诊断日志"</string>
+  <string name="ui_6e9546160e58" formatted="false">"仅在排查问题时开启"</string>
+  <string name="ui_4605735ff535" formatted="false">"封面来源可达性"</string>
+  <string name="ui_9bedeeb99ebf" formatted="false">"实际设备连接检查"</string>
+  <string name="ui_0ec1aca58598" formatted="false">"刷新封面索引"</string>
+  <string name="ui_0af420cb2691" formatted="false">"仅更新图片清单"</string>
+  <string name="ui_218b2741bf4c" formatted="false">"导出全库审计"</string>
+  <string name="ui_dbb7393b6619" formatted="false">"来源和映射的只读报告"</string>
+  <string name="ui_907451385fe4" formatted="false">"资料操作"</string>
+  <string name="ui_67202af2d97b" formatted="false">"\n\n在下屏输入内容。\n保存后生效；失败保留输入。\n取消保留原资料。\n\n中文组合时先选候选字。\n不会修改 ROM 文件。"</string>
+  <string name="ui_e27f88063ce1" formatted="false">"\n\n在下屏选择条目或动作。\nB 返回上一级。\n此时不会启动底层游戏。"</string>
+  <string name="ui_997a5e6e513f" formatted="false">"最近"</string>
+  <string name="ui_5c55a67935af" formatted="false">"全部"</string>
+  <string name="ui_ba40014ff496" formatted="false">"类型"</string>
+  <string name="ui_7c7802d8adae" formatted="false">"文件夹"</string>
+  <string name="ui_60a53514eb92" formatted="false">"收藏"</string>
+  <string name="ui_bde0a2267d13" formatted="false">"目录索引准备中"</string>
+  <string name="ui_ea750e4cf350" formatted="false">"全库 · 全部类型"</string>
+  <string name="ui_e5918e6e2955" formatted="false">"正在恢复游戏库…"</string>
+  <string name="ui_6ac3d059b677" formatted="false">"记录读取失败；原数据已保留"</string>
+  <string name="ui_257f4442af73" formatted="false">"当前目录"</string>
+  <string name="ui_c2544ca67689" formatted="false">"（含子目录） · "</string>
+  <string name="ui_8a6a3b0fdfd9" formatted="false">"目录历史仍在恢复，请稍后导出"</string>
+  <string name="ui_aaf6ceaacbd2" formatted="false">"封面任务结果"</string>
+  <string name="ui_26cd8ef77a6d" formatted="false">"系统未允许"</string>
+  <string name="ui_550330de23f8" formatted="false">"渠道已关闭"</string>
+  <string name="ui_f28461bb49c8" formatted="false">"已完成"</string>
+  <string name="ui_dd52d161c87d" formatted="false">"结束，仍有缺口"</string>
+  <string name="ui_6401bce93bfc" formatted="false">"无待处理项"</string>
+  <string name="ui_28384d7afd2e" formatted="false">"失败"</string>
+  <string name="ui_22a39a9a9f0a" formatted="false">"中断，可继续"</string>
+  <string name="ui_46e616014c77" formatted="false">"在下屏选择任务或查看结果。"</string>
+  <string name="ui_12742a646356" formatted="false">"网络封面"</string>
+  <string name="ui_303d815d4b50" formatted="false">"离线双语资料"</string>
+  <string name="ui_455a6eee5aa7" formatted="false">"本轮结果"</string>
+  <string name="ui_ffd7729194b3" formatted="false">"资料完整度"</string>
+  <string name="ui_d301bc125833" formatted="false">"关闭提示"</string>
+  <string name="ui_b194c91c8af2" formatted="false">"↑↓ 选择 · A 执行 · 离开本页仍保留任务"</string>
+  <string name="ui_30f56b622137" formatted="false">"离线双语资料 · "</string>
+  <string name="ui_e09018d23553" formatted="false">"正在匹配"</string>
+  <string name="ui_fd78c7e04c22" formatted="false">"匹配结果"</string>
+  <string name="ui_3bb9b69a5858" formatted="false">"\n随包资料 · 无网络下载"</string>
+  <string name="ui_0697e5bb4469" formatted="false">"检查当前库封面，复用已有图片"</string>
+  <string name="ui_3ac7daba04fb" formatted="false">"从下屏开始本轮检查"</string>
+  <string name="ui_14a34f949f08" formatted="false">"当前范围没有待处理项目"</string>
+  <string name="ui_d62aa3cf9886" formatted="false">"本地文件 "</string>
+  <string name="ui_cc75e3a08518" formatted="false">"\n已关联 "</string>
+  <string name="ui_0fb405757ec1" formatted="false">"\n所选语言简介 "</string>
+  <string name="ui_250259f0be00" formatted="false">"随包缺稿 "</string>
+  <string name="ui_9f6df9569991" formatted="false">"\n作品待确认 "</string>
+  <string name="ui_d7aba94465df" formatted="false">"\n\n从全库完整度逐项补齐"</string>
+  <string name="ui_ac365634941b" formatted="false">"封面索引已检查。"</string>
+  <string name="ui_345a62481c83" formatted="false">"查看本轮结果与具体条目。"</string>
+  <string name="ui_e1ff28ce396f" formatted="false">"当前条目\n"</string>
+  <string name="ui_fd8eb5d6f632" formatted="false">"匹配不会下载新正文。"</string>
+  <string name="ui_77cce4053f9a" formatted="false">"匹配与封面队列独立；读取失败保留上次有效内容"</string>
+  <string name="ui_8c0708691126" formatted="false">"最近结果已归档"</string>
+  <string name="ui_afba391c0c3d" formatted="false">"从下屏「最近历史」查看当时范围和具体条目"</string>
+  <string name="ui_cdb4dc10938d" formatted="false">"任务提示已收起"</string>
+  <string name="ui_63f2a58f1377" formatted="false">"当前资料与缺口\n请打开全库资料完整度"</string>
+  <string name="ui_feb4d3a7f61c" formatted="false">"已读或关闭只影响提醒\n资料缺口仍可继续处理"</string>
+  <string name="ui_375b68b67f62" formatted="false">"新的任务结果会独立提醒"</string>
+  <string name="ui_b8793686aabb" formatted="false">"本轮结果保存于历史，关闭提示不会再次启动下载。"</string>
+  <string name="ui_0f2ec1ce1dbc" formatted="false">"结果已归入历史"</string>
+  <string name="ui_541e6553303b" formatted="false">"尚未开始"</string>
+  <string name="ui_d6e2a093827f" formatted="false">"正在匹配…"</string>
+  <string name="ui_3600a5ba2e65" formatted="false">"下一轮已排队 "</string>
+  <string name="ui_f80f7fbbe9f6" formatted="false">" 款；本轮分母不变"</string>
+  <string name="ui_d784f1abb480" formatted="false">"请求已受理"</string>
+  <string name="ui_29bc72c04e12" formatted="false">"Bangumi · 社区文字"</string>
+  <string name="ui_f60717abaa3a" formatted="false">"文字请求历史"</string>
+  <string name="ui_2bddbec702f5" formatted="false">"尚未查询网络文字。"</string>
+  <string name="ui_e7fd12affb10" formatted="false">"仅记录显式文字查询；封面任务另行管理。"</string>
+  <string name="ui_83f3af69098a" formatted="false">"\n进程退出后需要重新查询预览；原有正文不受影响。"</string>
+  <string name="ui_47b675fcb07c" formatted="false">"历史暂不可读取，原始记录已保留。"</string>
+  <string name="ui_f446d799ff74" formatted="false">"请求资料语言："</string>
+  <string name="ui_7ac4d6a91f7c" formatted="false">"\n先选择来源，再核对要发送的检索名称。"</string>
+  <string name="ui_bf86632624a6" formatted="false">"Bangumi 中文候选"</string>
+  <string name="ui_677a75f6a341" formatted="false">"Wikipedia 英文候选"</string>
+  <string name="ui_83a44e563667" formatted="false">"查看文字请求历史"</string>
+  <string name="ui_b0206a4d0caf" formatted="false">"网络检索名称 · 仅发送此名称"</string>
+  <string name="ui_6bafc2ce74d8" formatted="false">"请输入作品名称"</string>
+  <string name="ui_4b3fbd4121fa" formatted="false">"名称最多 200 字；不会发送 ROM 路径或游玩记录。"</string>
+  <string name="ui_7c4e957a3609" formatted="false">"已由新的查询替代"</string>
+  <string name="ui_da97628c2ca6" formatted="false">"查询超过总时限 35 秒。可以重试、更换来源或离线编辑。"</string>
+  <string name="ui_e09acbc20337" formatted="false">"正在查找 · "</string>
+  <string name="ui_3e6216ae864d" formatted="false">"来源要求稍后重试；离线匹配与编辑仍可使用。"</string>
+  <string name="ui_17a4fbf932c9" formatted="false">"没有取得可验证 Nintendo DS 平台的候选。请更改名称或使用离线匹配。"</string>
+  <string name="ui_fb2c345f6352" formatted="false">"找到了作品，但没有所需语言的有效正文。预览中会标明真实语言。"</string>
+  <string name="ui_729046f8eb38" formatted="false">"候选已就绪，请核对作品、平台和正文后保存。"</string>
+  <string name="ui_8b53375b71be" formatted="false">"连接超时。请重试或更换来源。"</string>
+  <string name="ui_fc4309c95619" formatted="false">"来源响应格式不符合预期；无法作为文字候选。"</string>
+  <string name="ui_7eae9ed98192" formatted="false">"网络请求未完成（"</string>
+  <string name="ui_55a437b6e7fe" formatted="false">"）。可重试、更换来源或使用离线资料。"</string>
+  <string name="ui_24cdb6a2713d" formatted="false">"来源响应 HTTP "</string>
+  <string name="ui_72e92bfd6731" formatted="false">"；请稍后重试或更换来源。"</string>
+  <string name="ui_8583bf80ca2c" formatted="false">"来源返回的内容不是 JSON 文字资料。"</string>
+  <string name="ui_3f48e7476393" formatted="false">"正在核对平台与正文 · "</string>
+  <string name="ui_fce9bdb6725b" formatted="false">"Wikipedia 暂时无法处理此查询。"</string>
+  <string name="ui_130b9a21a9ab" formatted="false">"正在查找"</string>
+  <string name="ui_5784a1b4ae38" formatted="false">"没有候选"</string>
+  <string name="ui_e1915a0200e0" formatted="false">"缺少所需语言正文"</string>
+  <string name="ui_6b9df175c462" formatted="false">"来源不可用"</string>
+  <string name="ui_88c035ff99b6" formatted="false">"网络错误"</string>
+  <string name="ui_0145ec462b1b" formatted="false">"查询超时"</string>
+  <string name="ui_a37778f17c5f" formatted="false">"已取消"</string>
+  <string name="ui_f63cd1ec1c37" formatted="false">"候选可预览"</string>
+  <string name="ui_570d60206779" formatted="false">"正在保存"</string>
+  <string name="ui_6309a3bb5ba4" formatted="false">"保存失败"</string>
+  <string name="ui_6875f3ce0ea5" formatted="false">"网络文字请求"</string>
+  <string name="ui_e3e0faa1e395" formatted="false">"预览候选"</string>
+  <string name="ui_78e3f326fb5b" formatted="false">"重试 / 其他处理"</string>
+  <string name="ui_6f88b3b88f3e" formatted="false">"取消请求"</string>
+  <string name="ui_16967f66e88d" formatted="false">"用户取消；原正文保持不变。"</string>
+  <string name="ui_82795f7a16d0" formatted="false">"继续处理资料"</string>
+  <string name="ui_5bb56202f5be" formatted="false">"重试此查询"</string>
+  <string name="ui_0b0fcbca3f64" formatted="false">"更换来源或名称"</string>
+  <string name="ui_337fa2bfda84" formatted="false">"手工填写简介"</string>
+  <string name="ui_e3cda824413b" formatted="false">"网络文字候选"</string>
+  <string name="ui_1000aa43d539" formatted="false">"取得候选不等于已经关联或保存。"</string>
+  <string name="ui_1a6371b05a88" formatted="false">"\n平台："</string>
+  <string name="ui_3470cca033be" formatted="false">"\n实际正文语言："</string>
+  <string name="ui_3d41860fb577" formatted="false">"\n涉及其他平台，请先手工核对 DS 正文。"</string>
+  <string name="ui_ff302300f5e4" formatted="false">"\n保存到正文的实际语言；其他语言不受影响。"</string>
+  <string name="ui_0eff9f589d97" formatted="false">"预览网络文字"</string>
+  <string name="ui_1b9743ac7a0d" formatted="false">"确认保存 · "</string>
+  <string name="ui_6623d2a971b4" formatted="false">"手工填写"</string>
+  <string name="ui_4ffde288db5f" formatted="false">"关联或编辑内容已经变化；请重新查询，避免旧结果覆盖新资料。"</string>
+  <string name="ui_38abb602c89a" formatted="false">"资料已变化"</string>
+  <string name="ui_b81e6a8cfb6f" formatted="false">"正在保存并回读正文。"</string>
+  <string name="ui_df0297c214e9" formatted="false">"正文已保存"</string>
+  <string name="ui_e757f80baa21" formatted="false">"保存内容格式异常；原资料保留。"</string>
+  <string name="ui_cf2abf0c5be3" formatted="false">"日本"</string>
+  <string name="ui_58857e5318f3" formatted="false">"美国"</string>
+  <string name="ui_8ef85828ff9c" formatted="false">"欧洲"</string>
+  <string name="ui_0b1001a02c97" formatted="false">"澳大利亚"</string>
+  <string name="ui_f0e9521611bb" formatted="false">"中国"</string>
+  <string name="ui_963cd7300454" formatted="false">"韩国"</string>
+  <string name="ui_fc0f28fd9a7f" formatted="false">"用户简介"</string>
+  <string name="ui_94289f0cf51f" formatted="false">"已确认来源正文"</string>
+  <string name="ui_77dbb04ae4f1" formatted="false">" · 其他语言回退 / Fallback"</string>
+  <string name="ui_2fc80cadc873" formatted="false">"本地搜索范围"</string>
+  <string name="ui_cb7b17064938" formatted="false">"全库 · 所有类型（默认）"</string>
+  <string name="ui_f5fc4e86df84" formatted="false">"当前筛选（目录包含子目录）"</string>
+  <string name="ui_149e1c3e0c20" formatted="false">"当前目录含子目录 · 全部类型"</string>
+  <string name="ui_36489c77e39b" formatted="false">"本地搜索选项"</string>
+  <string name="ui_eba29ff35db1" formatted="false">"切换全库 / 进入搜索前的范围"</string>
+  <string name="ui_0c559649e30a" formatted="false">"切换名称 / 文件时间排序"</string>
+  <string name="ui_3507e11a268e" formatted="false">"类型筛选 · 保留当前范围"</string>
+  <string name="ui_44400dfc7c58" formatted="false">"查看全库同类型"</string>
+  <string name="ui_c50f46fcd38f" formatted="false">"资料来源与署名"</string>
+  <string name="ui_4c828fc6ac13" formatted="false">"运行库许可"</string>
+  <string name="ui_52ac486e9f66" formatted="false">"随包许可暂不可读取，请查看安装包附带的发布说明。"</string>
+  <string name="ui_d411d99bc5f1" formatted="false">"NDS 离线中文资料\n文字在开发机依据来源编辑、校对，再随应用交付。每条介绍的出处和整理状态可在游戏详情查看；未编辑的条目保留缺口。模型编辑与复核不代表用户逐条确认。\n\nBangumi 社区条目\n由相关条目整理的中文稿保留署名，按 CC BY-SA 3.0 提供。原始快照留在开发机；未采集用户评论。\nhttps://bgm.tv/about/copyright\nhttps://creativecommons.org/licenses/by-sa/3.0/\n\nOpenVGDB v29、游戏发行商及任天堂资料\n用于核对发行身份与玩法事实。短文为中文编辑稿，原文和整份来源数据库不随 APK 分发；原权利归属保留。\nhttps://github.com/OpenVGDB/OpenVGDB/releases/tag/v29.0\n\nNo-Intro / libretro-database\n冻结的 NDS 发行目录；源 SHA1 不等于本地汉化 ROM 的实测 SHA1。\nhttps://github.com/libretro/libretro-database\n\n封面\n沿用 libretro-thumbnails 的在线图片与现有本地缓存，图片版权归原权利人。\nhttps://github.com/libretro-thumbnails/Nintendo_-_Nintendo_DS\n\n运行库许可\nOkHttp、Okio、Kotlin、JetBrains annotations：Apache-2.0。Public Suffix List：MPL-2.0。点下方“运行库许可”阅读完整随包许可证。\n\n无统计上报。不会发送 ROM、存档或游玩记录。"</string>
+  <string name="ui_e4945e179ec5" formatted="false">"请选择游戏"</string>
+  <string name="ui_96ed33a5b867" formatted="false">" · 用户修正优先"</string>
+  <string name="ui_8b2e7df88917" formatted="false">"\n类型  "</string>
+  <string name="ui_ee2b1373f1d8" formatted="false">"用户修正"</string>
+  <string name="ui_b8f1b4accf34" formatted="false">"\n此段为你保存的本地简介。"</string>
+  <string name="ui_1a6ec37b5032" formatted="false">"\n基础作品资料；本地修订内容以版本说明为准。"</string>
+  <string name="ui_0205b71380a6" formatted="false">"\n\n已确认文字来源\n"</string>
+  <string name="ui_de133b188c64" formatted="false">"\n正文指纹 "</string>
+  <string name="ui_10b6dedef910" formatted="false">"\n当前正文优先使用用户简介"</string>
+  <string name="ui_8d45cbe9b1b7" formatted="false">"尚无正文"</string>
+  <string name="ui_d96afca50e37" formatted="false">"随包资料参考（当前正文使用本地覆盖）"</string>
+  <string name="ui_7cfd73ea03e8" formatted="false">"当前随包编辑稿"</string>
+  <string name="ui_53578ef8c236" formatted="false">"\n随包内容类别  "</string>
+  <string name="ui_c12fd1b769b6" formatted="false">"\n随包稿复核  Codex 依据来源整理与审阅，未经用户逐条确认"</string>
+  <string name="ui_2c115e9a54ba" formatted="false">"\n\n随包正文指纹  "</string>
+  <string name="ui_bcb2e8da229f" formatted="false">"\n原始类型  "</string>
+  <string name="ui_4ccd84a1a719" formatted="false">"\n\n来源标准名\n"</string>
+  <string name="ui_d6f8a049c8ea" formatted="false">"\n发行地区  "</string>
+  <string name="ui_3ce6801169a7" formatted="false">"\n开发商  "</string>
+  <string name="ui_7ab6fbf16db4" formatted="false">"\n发行商  "</string>
+  <string name="ui_8ee942068fc6" formatted="false">"\n发行日期（来源原文）  "</string>
+  <string name="ui_b322b1e6ba12" formatted="false">"\n\n本地版本标签  "</string>
+  <string name="ui_7423e5b0e2aa" formatted="false">"\n\n来源与匹配依据\n"</string>
+  <string name="ui_b80a27f373ae" formatted="false">"\n发行记录  "</string>
+  <string name="ui_21de2b207e82" formatted="false">"\n类型来源  "</string>
+  <string name="ui_081ba82dbd99" formatted="false">"\nOpenVGDB 发行 ID "</string>
+  <string name="ui_81b65d29b5db" formatted="false">"\n原版 SHA1 "</string>
+  <string name="ui_e3eb2ff1b2a5" formatted="false">"\n获取时间  "</string>
+  <string name="ui_f0b82d28726a" formatted="false">"\n\n已有本地封面已保存"</string>
+  <string name="ui_40fdbd8d26bd" formatted="false">"\n联网封面已验证并缓存\n"</string>
+  <string name="ui_835217271169" formatted="false">"\n来源状态  "</string>
+  <string name="ui_ef437fadcf66" formatted="false">"\n\n缺少的字段保持空白。显示名称与原始 ROM 文件名独立。"</string>
+  <string name="ui_eeb24be3e851" formatted="false">"读取本地游戏资料…"</string>
+  <string name="ui_ff27ffa07399" formatted="false">"资料索引未就绪"</string>
+  <string name="ui_eb2d78f4c1a8" formatted="false">"随包索引正在准备，请稍后再试。查找和保存修正均可离线进行。"</string>
+  <string name="ui_7336e6535d26" formatted="false">"繁中/汉化"</string>
+  <string name="ui_5279d84d4d35" formatted="false">"简中/汉化"</string>
+  <string name="ui_6822a7f3dd71" formatted="false">"中文/汉化"</string>
+  <string name="ui_c2cb144c8158" formatted="false">"中文配音"</string>
+  <string name="ui_336f5df2f102" formatted="false">"修正版"</string>
+  <string name="ui_04542ccc30cc" formatted="false">"修改版"</string>
+  <string name="ui_5eb1b36eee24" formatted="false">"日版"</string>
+  <string name="ui_436c4edd1c0f" formatted="false">"请求随进程结束；请重新查询"</string>
+  <string name="ui_55822afa174d" formatted="false">"请求已中断"</string>
+  <string name="ui_66d17059821e" formatted="false">" · 英文正文："</string>
+  <string name="ui_0b9701c7e80e" formatted="false">"暂无英文正文"</string>
+  <string name="ui_dae2ca72e96a" formatted="false">"关闭请求窗口"</string>
+  <string name="ui_0e272086d7b0" formatted="false">"无法写入资料存储。原有资料未改动，当前输入已保留。请检查可用空间和存储状态后重试。"</string>
+  <string name="ui_d50000000001" formatted="false">"角色扮演"</string>
+  <string name="ui_d50000000002" formatted="false">"文字记录"</string>
+  <string name="ui_d50000000003" formatted="false">"已读"</string>
+  <string name="ui_d50000000004" formatted="false">"查看本轮结果与条目。\n从资料完整度继续修正。"</string>
+  <string name="ui_d50000000005" formatted="false">"新增 "</string>
+  <string name="ui_d50000000006" formatted="false">"复用 "</string>
+  <string name="ui_d50000000007" formatted="false">"缺图 "</string>
+  <string name="ui_d50000000008" formatted="false">"待确认 "</string>
+  <string name="ui_d50000000009" formatted="false">"失败 "</string>
+  <string name="ui_d5000000000a" formatted="false">"移除 "</string>
+  <string name="ui_d5000000000b" formatted="false">"下载 "</string>
+  <string name="ui_d5000000000c" formatted="false">"字体与图标"</string>
+  <string name="ui_d5000000000d" formatted="false">"缝合像素字体 10px 比例简中版 · 2026.09.01\nSIL Open Font License 1.1\nhttps://github.com/TakWolf/fusion-pixel-font\nTwinGrid 图标为原创 16 × 16 像素绘图。应用文字统一使用此 10px 像素字体的 2 倍栅格。原生编辑器保留未覆盖输入；U+20BB7 为已记录的缺字。"</string>
+  <string name="ui_d50610000001" formatted="false">"在下屏输入。保存后生效，失败保留草稿；取消保留原资料。中文组合输入时，请先选定候选字再保存。"</string>
+  <string name="ui_d50620000001" formatted="false">"请在下屏审阅候选内容。\n核对语言、版本与来源后再保存。\n取消后保留原有资料。"</string>
+  <string name="ui_d67000000001" formatted="false">"封面索引已更新"</string>
+  <string name="ui_d67000000002" formatted="false">"封面索引"</string>
+  <string name="ui_d67000000003" formatted="false">"索引版本："</string>
+  <string name="ui_d67000000004" formatted="false">"未记录"</string>
+  <string name="ui_d67000000005" formatted="false">"索引条目："</string>
+  <string name="ui_d67000000006" formatted="false">"未下载游戏封面"</string>
+  <string name="ui_d67000000007" formatted="false">"已处理任务："</string>
+  <string name="ui_d67000000008" formatted="false">"历史记录未提供任务种类"</string>
+  <string name="ui_d67000000009" formatted="false">"新增关联 "</string>
+  <string name="ui_d6700000000a" formatted="false">"复用 "</string>
+  <string name="ui_d6700000000b" formatted="false">"来源无图 "</string>
+  <string name="ui_d6700000000c" formatted="false">"身份待核 "</string>
+  <string name="ui_d6700000000d" formatted="false">"失败 "</string>
+  <string name="ui_d6700000000e" formatted="false">"移出范围 "</string>
+  <string name="ui_d6700000000f" formatted="false">"下载图片 "</string>
+  <string name="ui_d67000000010" formatted="false">"更新的是封面目录。\n已有封面与缺口保持原状。"</string>
+  <string name="ui_d67000000011" formatted="false">"索引回执"</string>
+  <string name="ui_d67000000012" formatted="false">"当前对象"</string>
+  <string name="ui_d67000000013" formatted="false">"资料语言："</string>
+  <string name="ui_d67000000014" formatted="false">"确认输入法候选后保存。"</string>
+  <string name="ui_d67000000015" formatted="false">"核对候选的作品、版本和语言。"</string>
+  <string name="ui_d67000000016" formatted="false">"当前："</string>
+  <string name="ui_d67000000017" formatted="false">"候选："</string>
+  <string name="ui_d67000000018" formatted="false">"原名："</string>
+  <string name="ui_d67000000019" formatted="false">"换一个关键词，或点此清空搜索。"</string>
+  <string name="ui_d6700000001a" formatted="false">"当前已搜索全库。试试文件名、别名或 Game Code。"</string>
+  <string name="ui_d6700000001b" formatted="false">"款"</string>
+  <string name="ui_d6700000001c" formatted="false">"款"</string>
+  <string name="ui_d6700000001d" formatted="false">"简介 · 查看全文"</string>
+  <string name="ui_d6700000001e" formatted="false">"作品关联"</string>
+  <string name="ui_d6700000001f" formatted="false">"所选语言正文"</string>
+    <string name="ui_77000000">资料整理</string>
+    <string name="ui_77000001">整理游戏资料</string>
+    <string name="ui_77000002">需要你处理</string>
+    <string name="ui_77000003">最近整理记录</string>
+    <string name="ui_77000004">关闭完成提醒</string>
+    <string name="ui_77000005">先离线匹配文字与类型，再补缺少的封面。</string>
+    <string name="ui_77000006">本地资料</string>
+    <string name="ui_77000007">正在匹配离线资料</string>
+    <string name="ui_77000008">已关联作品 </string>
+    <string name="ui_77000009">已保存，清单已更新</string>
+    <string name="ui_7700000a">所选作品与发行不一致，请重新选择。</string>
+    <string name="ui_7700000b">文字可离线使用。封面等待网络。</string>
+    <string name="ui_7700000c">已完成本次整理</string>
+    <string name="ui_7700000d">本轮待处理</string>
+    <string name="ui_7700000e">当前没有待处理项</string>
+    <string name="ui_7700000f">匹配作品与发行</string>
+    <string name="ui_77000010">编辑介绍</string>
+    <string name="ui_77000011">选择类型</string>
+    <string name="ui_77000012">处理封面</string>
+    <string name="ui_77000013">更多修正</string>
+    <string name="ui_77000014">当前问题</string>
+    <string name="ui_77000015">本地没有这款游戏的稿件，可先手工填写。</string>
+    <string name="ui_77000016">返回</string>
+    <string name="ui_77000017">保存</string>
+    <string name="ui_77000018">暂停</string>
+    <string name="ui_77000019">继续</string>
+    <string name="ui_7700001a">正在暂停</string>
+    <string name="ui_7700001b">封面</string>
+    <string name="ui_7700001c">新增关联 </string>
+    <string name="ui_7700001d">请先完成目录读取</string>
+    <string name="ui_7700001e">正在准备</string>
+    <string name="ui_7700001f">已暂停，可稍后继续</string>
+    <string name="ui_77000020">原来的结果保留在记录中。这里显示当前仍待处理的问题。</string>
+    <string name="ui_77000021">调整关键词</string>
+    <string name="ui_77000022">身份与作品</string>
+    <string name="ui_77000023">已确认作品；具体修订未知</string>
+    <string name="ui_77000024">历史：当时的全部结果</string>
+    <string name="ui_77000025">已识别；随包暂缺该语言介绍</string>
+    <string name="ui_77000026">封面与本地资料</string>
+    <string name="ui_77000027">已复用 </string>
+    <string name="ui_77000028">默认主页</string>
+    <string name="ui_77000029">由 Android 选择。当前固件可能在重启后恢复原桌面。</string>
+    <string name="ui_7700002a">申请默认主页</string>
+    <string name="ui_7700002b">选择其他主页</string>
+    <string name="ui_7700002c">打开 Android 设置</string>
+    <string name="ui_7700002d">打开原厂桌面</string>
+    <string name="ui_7700002e">当前默认主页</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <string name="ui_7700003e">设置读取失败，未写入</string>
+    <string name="ui_7700003f">重试</string>
+    <string name="ui_77000040">停止本次封面等待</string>
+    <string name="ui_77000041">本地资料已保存，余下封面可下次重试。</string>
+    <string name="ui_77000042">资料整理完成</string>
+    <string name="ui_77000043">版本与系统集成</string>
+    <string name="ui_77000044">更多资料工具</string>
+    <string name="ui_77000045">返回正在运行的游戏</string>
+    <string name="ui_77000046">系统已选用 TwinGrid</string>
+    <string name="ui_77000047">系统仍使用其他主页</string>
+    <string name="ui_77000048">尚未启用</string>
+    <string name="ui_77000049">权限与原值检查</string>
+    <string name="ui_7700004a">取消</string>
+    <string name="ui_7700004b">选择候选</string>
+    <string name="ui_7700004c">待处理：</string>
+    <string name="ui_7700004d">简介</string>
+    <string name="ui_7700004e">身份待确认</string>
+    <string name="ui_7700004f">封面待检查</string>
+    <string name="ui_77000050">已确认封面对应</string>
+    <string name="ui_77000051">本轮文字与类型已离线处理</string>
+    <string name="ui_77000052">请选择候选；没有足够证据时保留待确认。</string>
+    <string name="ui_77000053">仅修订未知，不需重复确认作品</string>
+    <string name="ui_77000054">文字与类型离线整理，封面联网补充</string>
+    <string name="ui_77000055">启用失败，原值已恢复</string>
+    <string name="ui_77000056">没有可返回的游戏窗口</string>
+    <string name="ui_77000057">保存失败，草稿保留</string>
+    <string name="ui_77000058">停止等待</string>
+    <string name="ui_77000059">正在整理，本地阶段不使用网络</string>
+    <string name="ui_7700005a">文字与类型</string>
+    
+    
+    <string name="ui_7700005d">文字或类型缺口仍在</string>
+    <string name="ui_7700005f">检查已有封面</string>
+    <string name="ui_77000060">更换关键词</string>
+    <string name="ui_77000061">作品关联已改变。请检查上屏现有封面是否属于本作，再选择保留或更换。</string>
+    <string name="ui_77000062">封面正确，保留</string>
+    <string name="ui_77000063">更换封面</string>
+    <string name="ui_77000064">返回桌面</string>
+    <string name="ui_77000065">上次打开的模拟器可能仍在运行。可返回模拟器，或回到资料库并显示 TwinGrid 上屏。此操作不会关闭模拟器或替游戏存档。</string>
+    <string name="ui_77000066">返回模拟器</string>
+    <string name="ui_77000067">回到资料库</string>
+<string name="ui_77000068">暂停整理</string>
+<string name="ui_77000069">继续整理</string>
+
+<string name="ui_7700006b">作品已关联 · 修订未知</string>
+
+<string name="ui_7700006d">当前默认主页是 TwinGrid，可选择其他主页。</string>
+<string name="ui_7700006e">当前未设为默认主页，将由 Android 询问选择。</string>
+<string name="ui_7700006f">角色仍是 TwinGrid；系统当前使用其他主页。</string>
+  <string name="ui_88000001" formatted="false">"设为默认主页？"</string>
+  <string name="ui_88000002" formatted="false">"这是可选设置。现在设置会打开系统确认；暂时不用也能正常使用游戏库。以后可在这里修改："</string>
+  <string name="ui_88000003" formatted="false">"V1.18固件可能在重启后恢复原桌面。可从默认主页设置选择其他主页或打开原厂桌面。"</string>
+  <string name="ui_88000004" formatted="false">"现在设置"</string>
+  <string name="ui_88000005" formatted="false">"暂时不用"</string>
+  <string name="ui_88000006" formatted="false">"离线资料库"</string>
+  <string name="ui_88000007" formatted="false">"中英文资料随安装包提供，无需联网读取。升级TwinGrid可更新资料库；目前不支持导入外部文字包。来源可在下方查看。重新匹配只整理当前游戏库的离线资料。"</string>
+  <string name="ui_88000008" formatted="false">"重新匹配"</string>
+  <string name="ui_88000009" formatted="false">"显示与启动"</string>
+    <string name="ui_8800000a">中文正文：</string>
+    <string name="ui_8800000b">英文正文：</string>
+    <string name="ui_8800000c">本机已关联：</string>
+    <string name="ui_8800000d">当前语言可读：</string>
+    <string name="ui_8800000e">查看随包正文、来源与本机匹配结果</string>
+    <string name="ui_8800000f">资料库缺关联</string>
+    <string name="ui_88000010">匹配证据不足</string>
+    <string name="ui_88000011">身份信息冲突</string>
+
+    <string name="ui_93000000">使用帮助</string>
+    <string name="ui_93000001">一分钟上手</string>
+    <string name="ui_93000002">选择目录</string>
+    <string name="ui_93000003">稍后</string>
+    <string name="ui_93000004">下一页</string>
+    <string name="ui_93000005">上一页</string>
+    <string name="ui_93000006">完成</string>
+    <string name="ui_93000007">这是一个管理本地 NDS 游戏的双屏前端。下屏找游戏，上屏看封面和介绍。游戏由已安装的兼容模拟器运行；应用不附带 ROM。</string>
+    <string name="ui_93000008">选择游戏目录后，应用会扫描子目录、读取 ROM 自带图标，并匹配随包中英文名称、类型和简介。完成设置后会自动整理资料，在网络允许时补齐封面，可随时暂停。</string>
+    <string name="ui_93000009">用全部、类型、文件夹、收藏、最近或搜索找游戏。资料整理可重新检查并补齐封面；需要处理列出仍有缺口的项目。缺少随包正文不等于网络故障，反复整理不保证增加正文。</string>
+    <string name="ui_9300000a">A / Start 确认或启动，B 返回，Y 详情，X 收藏，L / R 切换入口；左右翻页。设置中可调整目录、资料语言和联网策略；显示与启动中可设置或恢复默认主页。RG 键请查看关于中的实际说明。</string>
+    <string name="ui_9300000b">如何选择目录</string>
+    <string name="ui_9300000c">选择存放 .nds 游戏的文件夹，也可选择包含游戏子文件夹的上级目录。例如：SD 卡 → ROMs → NDS。进入后点击系统的“使用此文件夹”。请勿选择整张卡或内部存储根目录。</string>
+    <string name="ui_9300000d">此目录用于识别已有存档，不是 ROM 目录，也不会自动备份存档。请选择 DraStic 实际使用的存档文件夹；没有存档可稍后添加，不影响浏览游戏库。</string>
+    <string name="ui_9300000e">当前目录：</string>
+    <string name="ui_9300000f">尚未选择</string>
+    <string name="ui_93000010">读取失败，原目录仍保留。请进入实际子文件夹，并允许读取。</string>
+    <string name="ui_93000011">目录已验证，可以读取</string>
+    <string name="ui_93000012">正在验证目录…</string>
+    <string name="ui_93000013">设置完成后会自动整理游戏资料，并在网络允许时补齐封面，可随时暂停。</string>
+    <string name="ui_93000014">本地资料已准备，封面等待网络</string>
+    <string name="ui_93000015">游戏目录</string>
+    <string name="ui_93000016">存档目录</string>
+  <string name="ui_d100000001">" 项"</string>
+  <string name="ui_d100000002">" 项"</string>
+
+<string name="ui_11000000">单项封面处理完成</string>
+<string name="ui_11000001">本轮封面处理完成</string>
+<string name="ui_11000002">离线匹配完成</string>
+<string name="ui_11000003">本次整理结束</string>
+<string name="ui_11000004"> · 有未解决项</string>
+<string name="ui_11000005">资料状态 · 需决定</string>
+<string name="ui_11000006">可自动补图</string>
+<string name="ui_11000007">资料包待完善</string>
+<string name="ui_11000008">按游戏去重，各组可重叠。只有冲突需要你决定；缺图可自动补齐，正文由资料包继续完善。</string>
+<string name="ui_11000009">本轮新增 / 复用：</string>
+<string name="ui_1100000a">未找到 / 待决定：</string>
+<string name="ui_1100000b">下载 / 失败：</string>
+<string name="ui_1100000c">已读取并关联本地图片</string>
+<string name="ui_1100000d">封面关联需要进一步证据</string>
+    <string name="ui_fa130001">TwinGrid 原名 RGDS Shell。</string>
+</resources>

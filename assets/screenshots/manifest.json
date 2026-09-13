@@ -1,0 +1,32 @@
+[
+  {
+    "filename": "genres-lower.png",
+    "originalCapture": "after_types_d0.png",
+    "sha256": "9474a6bee10e85dc8b004ca67f5d062f8565d6e42348c88d3615c53b368b206f",
+    "width": 640,
+    "height": 480,
+    "versionCode": 135,
+    "apkSHA256": "faeaaafb0ce44658fc0a81a09face069aa1c51b0599c3fefcfc1134528dc067b",
+    "altered": false
+  },
+  {
+    "filename": "genres-upper.png",
+    "originalCapture": "after_types_d1.png",
+    "sha256": "f7fbf3a023dc8955c87537f81a8e6de4733701705cc78dd9851a1049a9f91249",
+    "width": 640,
+    "height": 480,
+    "versionCode": 135,
+    "apkSHA256": "faeaaafb0ce44658fc0a81a09face069aa1c51b0599c3fefcfc1134528dc067b",
+    "altered": false
+  },
+  {
+    "filename": "folders-lower.png",
+    "originalCapture": "after_FOLDERS_d0.png",
+    "sha256": "1d2d4d52bc681135e994d3f7b28a72d2d9619ddcdd420095a4b03aa6609bad89",
+    "width": 640,
+    "height": 480,
+    "versionCode": 135,
+    "apkSHA256": "faeaaafb0ce44658fc0a81a09face069aa1c51b0599c3fefcfc1134528dc067b",
+    "altered": false
+  }
+]

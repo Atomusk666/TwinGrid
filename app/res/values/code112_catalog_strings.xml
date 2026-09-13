@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ui_c11200000001">工具</string>
+    <string name="ui_c11200000002">真实图片下载及校验通过：</string>
+    <string name="ui_c11200000003">离线资料和封面目录随应用提供。封面内容来自 libretro-thumbnails，首选 JSDMirror，失败后尝试 jsDelivr 固定版本。连接检查会下载并校验一张真实图片。网络失败可重试；已有用户封面需确认才会更换。</string>
+</resources>

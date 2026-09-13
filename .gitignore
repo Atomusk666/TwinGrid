@@ -1,0 +1,50 @@
+# Build outputs and local tools
+**/build/
+artifacts/
+out/
+logs/
+*.log
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.vscode/
+local.properties
+.env
+.env.*
+# Signing materials must never enter Git history
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pem
+*.key
+signing*
+**/signing*
+# Release binaries belong in GitHub Releases
+*.apk
+*.idsig
+*.zip
+*.7z
+*.tar
+*.gz
+# User/device material
+private/
+validation/
+backups/
+cache/
+screenshots/raw-private/
+*.nds
+*.srl
+*.dsi
+*.sav
+*.dsv
+*.dss
+*.state
+*.img
+*.iso
+*.db
+*.sqlite-wal
+*.sqlite-shm
+Thumbs.db
+.DS_Store

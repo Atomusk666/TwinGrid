@@ -1,0 +1,23 @@
+name: Feature request
+description: Suggest an improvement to TwinGrid
+title: "[Feature] "
+body:
+  - type: markdown
+    attributes:
+      value: "Do NOT upload ROMs or save files. Keep requests focused on the frontend."
+  - type: textarea
+    id: problem
+    attributes:
+      label: What would this help you do?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed behavior
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives or relevant context

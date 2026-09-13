@@ -1,0 +1,87 @@
+name: Compatibility report
+description: Report a firmware, storage or DraStic compatibility result
+title: "[Compatibility] "
+body:
+  - type: markdown
+    attributes:
+      value: "Do NOT upload ROMs or save files. Do not attach DraStic APKs, device serials, private paths or unredacted diagnostics. A launch request is not proof that the selected game loaded."
+  - type: input
+    id: version
+    attributes:
+      label: TwinGrid version and code
+    validations:
+      required: true
+  - type: input
+    id: firmware
+    attributes:
+      label: RG DS firmware and Android version
+    validations:
+      required: true
+  - type: dropdown
+    id: system
+    attributes:
+      label: System
+      options:
+        - Stock
+        - GammaOS
+        - Other (describe below)
+    validations:
+      required: true
+  - type: input
+    id: drastic_version
+    attributes:
+      label: DraStic version
+    validations:
+      required: true
+  - type: dropdown
+    id: drastic_install
+    attributes:
+      label: DraStic installation
+      options:
+        - Bundled with firmware
+        - User-installed
+        - Unknown
+    validations:
+      required: true
+  - type: dropdown
+    id: storage
+    attributes:
+      label: ROM location
+      options:
+        - SD card
+        - Internal storage
+        - Other provider (describe below)
+    validations:
+      required: true
+  - type: dropdown
+    id: manual
+    attributes:
+      label: Can DraStic manually load the same ROM?
+      options:
+        - "Yes"
+        - "No"
+        - Not tested
+    validations:
+      required: true
+  - type: dropdown
+    id: scope
+    attributes:
+      label: Which games are affected?
+      options:
+        - Every game tested
+        - Only some games
+        - No failure (successful compatibility report)
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Reproduction steps and visible result
+      description: Distinguish opening the emulator menu, resuming an old game and loading the selected target. Describe exit/HOME behavior.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshot or redacted diagnostic excerpt
+      description: Optional. Review it for private paths, device IDs and personal information first.

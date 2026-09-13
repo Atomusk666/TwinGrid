@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ui_ba77000001">Battery display</string>
+    <string name="ui_ba77000002">Show the battery as an icon or a percentage.</string>
+    <string name="ui_ba77000003">Icon</string>
+    <string name="ui_ba77000004">Numbers</string>
+    <string name="ui_ba77000005">Could not save the battery display setting. Please try again.</string>
+</resources>
