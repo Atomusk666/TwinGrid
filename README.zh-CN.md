@@ -26,6 +26,15 @@ TwinGrid 运行在原厂 Android 系统上，用适合双屏和按键的界面�
 
 以上为 code135 真机原图。更多说明见[截图来源](assets/screenshots/README.md)。
 
+### 英文界面
+
+以下为英文模式的下屏设置页，使用 code134 真机原图；这些设置界面在 code135
+中保持不变。图片来源版本已保留，不作为 code135 新截图。
+
+| 封面与资料 | 游戏文件夹 |
+| --- | --- |
+| ![英文封面与资料设置](assets/screenshots/settings-metadata-en-lower.png) | ![英文游戏文件夹设置](assets/screenshots/settings-folders-en-lower.png) |
+
 ## 适用系统
 
 已测试目标是 **Anbernic RG DS、原厂 1.18 固件、Android 14 / API 34**。

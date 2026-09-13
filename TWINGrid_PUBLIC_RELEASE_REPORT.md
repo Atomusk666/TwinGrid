@@ -115,10 +115,17 @@ no browser-render screenshot check is claimed.
 
 ## Remaining
 
+Documentation follow-up: two English lower-screen settings captures from
+code134 were added to both READMEs with explicit version labels. These settings
+views are unchanged in code135. The original three code135 captures and the
+released APK remain unchanged; image hashes and capture identities are recorded
+in the screenshot manifest.
+
 - GammaOS, other devices and other DraStic builds need compatibility reports.
 - code135 has targeted checks, not a newly repeated complete bilingual/core suite.
-- Only the three suitable exact-code135 captures are published; HOME, English,
-  search and onboarding galleries need future same-version captures.
+- Three exact-code135 captures and two labeled historical English settings
+  captures are published; HOME, English, search and onboarding galleries need
+  future same-version captures.
 - Offline metadata coverage and independent editorial fact review remain incomplete.
 
 No remaining publication blocker. **TWINGRID PUBLIC BETA PUBLISHED**.

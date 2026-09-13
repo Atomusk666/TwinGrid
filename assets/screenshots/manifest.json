@@ -28,5 +28,31 @@
     "versionCode": 135,
     "apkSHA256": "faeaaafb0ce44658fc0a81a09face069aa1c51b0599c3fefcfc1134528dc067b",
     "altered": false
+  },
+  {
+    "filename": "settings-metadata-en-lower.png",
+    "originalCapture": "settings_en_g0_p1_d0.png",
+    "sha256": "71dac8673a0c3309a2fbf463104ef9fbe67488188d897c86d1ed1b9c025975d7",
+    "width": 640,
+    "height": 480,
+    "versionCode": 134,
+    "apkSHA256": "8a7ff158be73bf5185a26d350abb9e6d83f75064bc9648b3859523219c47828b",
+    "altered": false,
+    "locale": "en",
+    "display": "lower",
+    "scope": "Historical code134 capture; settings view unchanged in code135, not a new code135 test"
+  },
+  {
+    "filename": "settings-folders-en-lower.png",
+    "originalCapture": "settings_en_g1_p1_d0.png",
+    "sha256": "df110dc7e6c54f2d5e819a3c0e47261637ea2716f58487789cc2472038d330ba",
+    "width": 640,
+    "height": 480,
+    "versionCode": 134,
+    "apkSHA256": "8a7ff158be73bf5185a26d350abb9e6d83f75064bc9648b3859523219c47828b",
+    "altered": false,
+    "locale": "en",
+    "display": "lower",
+    "scope": "Historical code134 capture; settings view unchanged in code135, not a new code135 test"
   }
 ]

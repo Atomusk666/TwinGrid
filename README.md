@@ -40,6 +40,15 @@ genre and folder views; it does not substitute older builds for missing scenes.
 
 [Screenshot provenance](assets/screenshots/README.md)
 
+### English UI
+
+English settings on the lower screen. These original code134 captures show
+settings views retained unchanged in code135; they are not new code135 captures.
+
+| Covers and metadata | Game folders |
+| --- | --- |
+| ![English covers and metadata settings](assets/screenshots/settings-metadata-en-lower.png) | ![English game-folder settings](assets/screenshots/settings-folders-en-lower.png) |
+
 ## Download and install
 
 1. Download `TwinGrid-0.9.0-code135.apk` from [GitHub Releases](https://github.com/Atomusk666/TwinGrid/releases).
