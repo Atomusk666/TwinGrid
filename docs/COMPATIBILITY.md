@@ -5,7 +5,8 @@
 Anbernic RG DS, stock firmware V1.18, Android 14 / API 34, native 640 × 480
 screens. Package `com.rgds.ultimate.shell`, display name TwinGrid.
 
-The stock DraStic APK is identified by package `com.dsemu.drastic` and SHA-256
+The recorded stock DraStic version is `r2.5.2.2a` / versionCode `104`.
+Its APK is identified by package `com.dsemu.drastic` and SHA-256
 `4c9bd23fc7a3366f73bbcba4aef2858bfa3a3568b376160792322ed431180189`.
 This exact-byte identity is more restrictive than a version label. See
 `ReceiverProfile.java` for the current receiver contract. No emulator binary
